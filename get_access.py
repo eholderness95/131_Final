@@ -5,7 +5,7 @@ ACCESS_TOKEN = '?access_token=551947191811091|aWKc4qfL6ZaUh8TQopALlxlN2Fs'
 URL = 'https://graph.facebook.com/'
 
 
-with open(os.path.join(os.path.dirname(sys.argv[0]),'page_ids.csv')) as pages, open('post_ids.csv','w') as write_file:
+with open(os.path.join(os.path.dirname(sys.argv[0]),'page_ids.csv')) as pages, open('post_ids.csv','a') as write_file:
     reader = csv.reader(pages)
     writer = csv.writer(write_file)
     writer.writerow(['created_time','message','id'])
@@ -13,9 +13,10 @@ with open(os.path.join(os.path.dirname(sys.argv[0]),'page_ids.csv')) as pages, o
         if row[1] and row[1] != 'ID':
             page_id = row[1]
             posts = requests.get(URL + page_id + '/feed' + ACCESS_TOKEN)
+            data = posts.json()
+            print(data)
             cursor = 1
-            while cursor <= 30 and requests.get(data['paging']['next']):
-                data = posts.json()
+            while cursor <= 30 and 'next' in data['paging']:
                 for post in data['data']:
                     try:
                         writer.writerow([post['created_time'].encode('utf-8'),post['message'].encode('utf-8'),post['id'].encode('utf-8')])
@@ -23,7 +24,8 @@ with open(os.path.join(os.path.dirname(sys.argv[0]),'page_ids.csv')) as pages, o
                         writer.writerow([post['created_time'].encode('utf-8'),'',post['id'].encode('utf-8')])
                 cursor += 1
                 posts = requests.get(data['paging']['next'])
-            with open('completed_pages.csv', 'w') as completed:
+                data = posts.json()
+            with open('completed_pages.csv', 'a') as completed:
                 writer2 = csv.writer(completed)
                 writer2.writerow([row[1]])
                 completed.close()
