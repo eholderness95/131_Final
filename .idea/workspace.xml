@@ -14,8 +14,8 @@
       <file leaf-file-name="get_access.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/get_access.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="40" column="116" lean-forward="false" selection-start-line="40" selection-start-column="116" selection-end-line="40" selection-end-column="116" />
+            <state relative-caret-position="343">
+              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -152,8 +152,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/get_access.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="40" column="116" lean-forward="false" selection-start-line="40" selection-start-column="116" selection-end-line="40" selection-end-column="116" />
+        <state relative-caret-position="343">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
