@@ -14,7 +14,7 @@ with open(os.path.join(os.path.dirname(sys.argv[0]),'page_ids.csv')) as pages, o
             page_id = row[1]
             posts = requests.get(URL + page_id + '/feed' + ACCESS_TOKEN)
             data = posts.json()
-            print(data)
+            print(row[0])
             cursor = 1
             while cursor <= 30 and 'next' in data['paging']:
                 for post in data['data']:
