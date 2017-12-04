@@ -1,0 +1,97 @@
+{
+    "data": {
+        "created_time": "2017-03-29T02:11:25+0000", 
+        "id": "10155656407651729_10155657267261729", 
+        "message": "How do I kill this feature?  The app is now  killing my battery.  Messenger does the same.  Already had to get rid of it."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 11
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-03-29T15:47:42+0000", 
+            "id": "10155656407651729_1384390788285303", 
+            "message": "Hi Theresa. Any app in camera mode requires more battery. The camera closes when you swipe away to help minimize battery consumption. We are continuously working to make this experience more efficient. -Jessica"
+        }, 
+        {
+            "created_time": "2017-03-29T16:05:58+0000", 
+            "id": "10155656407651729_633084956877648", 
+            "message": "Make it more efficient by making it optional..."
+        }, 
+        {
+            "created_time": "2017-03-29T16:24:17+0000", 
+            "id": "10155656407651729_1384415654949483", 
+            "message": "Thanks for reaching out, Jeph. While you can't remove Camera, it's an optional feature that you can choose to use. -Jon"
+        }, 
+        {
+            "created_time": "2017-03-29T16:27:15+0000", 
+            "id": "10155656407651729_633094643543346", 
+            "message": "I just updated facebook but i still am not seeing this new feature \ud83d\ude41"
+        }, 
+        {
+            "created_time": "2017-03-29T16:28:17+0000", 
+            "id": "10155656407651729_1384418261615889", 
+            "message": "How do I remove this from the top of my page?  It shows. Direct, story, Facebook. It's clutter and my friends and I don't like it."
+        }, 
+        {
+            "created_time": "2017-03-29T16:39:13+0000", 
+            "id": "10155656407651729_633101690209308", 
+            "message": "That's what I'm saying. Make it optional for the top of the news feed. If people wanna see it, let THEM choose. A nice little option in newsfeed preference would be nice."
+        }, 
+        {
+            "created_time": "2017-03-29T17:18:30+0000", 
+            "id": "10155656407651729_1384458224945226", 
+            "message": "How can we get it off the newsfeed?"
+        }, 
+        {
+            "created_time": "2017-03-29T21:44:50+0000", 
+            "id": "10155656407651729_284002752013206", 
+            "message": "Hi Ailyn. You should be able to access Camera if you have the latest version of the app and are using an iPhones 4S and higher or an Android devices with OS 4.1.2 and higher. If you're still having trouble, please let us know here: http://bit.ly/2nhIneN. -Jessica"
+        }, 
+        {
+            "created_time": "2017-03-30T02:37:47+0000", 
+            "id": "10155656407651729_1343284112418538", 
+            "message": "Camera is fine. You need the camera to post pictures on your page. We would like to delete the \"top of the page snapchat/story looking thing\". How do we delete that??"
+        }, 
+        {
+            "created_time": "2017-03-30T14:29:48+0000", 
+            "id": "10155656407651729_1830131657236215", 
+            "message": "Facebook hasn't answered my same question Jennifer Goshert.  It's really annoying!  Facebook please answer, is there a way to remove the Snapchat feature from the top page?\n\nFacebook, You said on another post to swipe to the right and we are all telling you, that doesn't work."
+        }
+    ]
+}

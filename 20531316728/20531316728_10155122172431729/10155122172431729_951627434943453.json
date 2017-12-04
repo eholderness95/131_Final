@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2016-11-06T20:49:14+0000", 
+        "id": "10155122172431729_951627434943453", 
+        "message": "Please, have a way for a person to delete a group or page a person starts."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 5
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-11-07T22:03:17+0000", 
+            "id": "10155122172431729_1801918543409318", 
+            "message": "Hi Michelle. To delete the Page, you will need to be an admin of that Page: http://bit.ly/2ftm8Aj.\nYou can find the instructions to delete a group here: http://bit.ly/2eglqJf. -Joe"
+        }, 
+        {
+            "created_time": "2016-11-13T00:40:51+0000", 
+            "id": "10155122172431729_1823052654634849", 
+            "message": "Thanks."
+        }
+    ]
+}

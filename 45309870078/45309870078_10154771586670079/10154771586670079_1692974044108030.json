@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2017-09-09T20:12:07+0000", 
+        "id": "10154771586670079_1692974044108030", 
+        "message": "It is strange to advertise their brand singing Liz Rodrigues. But the song is fucking awesome, in all senses"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

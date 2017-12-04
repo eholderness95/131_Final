@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2015-10-23T13:00:00+0000", 
+        "id": "20531316728_10154145090336729", 
+        "message": "We\u2019re excited to introduce TechPrep, a resource hub where underrepresented people and their parents and guardians can learn more about computer science and programming and find resources to get them started. By exposing people to computer science and programming and guiding them to resources, we hope to reduce some of the barriers that block potential from meeting opportunity.\n \nParents and guardians are influential figures in students\u2019 lives. Karen is a mother who believed deeply in the potential of her own children and worked hard to find the resources to build their skills in CS. Watch Karen\u2019s story, and learn more."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 14
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 6
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 14688
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 41
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 6
+            }
+        }
+    }
+}

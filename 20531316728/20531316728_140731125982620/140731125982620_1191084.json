@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2010-12-20T07:06:09+0000", 
+        "id": "140731125982620_1191084", 
+        "message": "I would never shop at either of these stores so these deals aren't beneficial to me at all."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

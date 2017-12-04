@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-10-26T17:04:55+0000", 
+        "id": "10154085960266729_10154152291811729", 
+        "message": "I like this idea.  Great work!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 7
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-10-26T19:52:04+0000", 
+            "id": "10154085960266729_10154152622951729", 
+            "message": "We're glad you liked it, Cynthia. We'll be sure to tell our team to keep up the great work! -Kate"
+        }
+    ]
+}

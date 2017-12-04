@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2014-11-20T23:30:29+0000", 
+        "id": "10152443493510079_10152443498890079", 
+        "message": "Reyiz yine oday\u0131 da\u011f\u0131tm\u0131\u015fs\u0131n annen terlikle kovalicak bak"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 56
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-11-20T23:46:59+0000", 
+            "id": "10152443493510079_10152443520820079", 
+            "message": "la buray\u0131 sikmeyin amk AS\u00c7D:A\u00c7G"
+        }, 
+        {
+            "created_time": "2015-02-11T16:59:06+0000", 
+            "id": "10152443493510079_10152623506215079", 
+            "message": "t\u00fcrkler bitti burayam\u0131 geldin art\u0131k y\u0131lmaz"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2013-07-01T22:26:12+0000", 
+        "id": "10151994059021729_30386945", 
+        "message": "Dislike"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 86
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2013-07-02T13:51:45+0000", 
+            "id": "10151994059021729_30405797", 
+            "message": "Gay people are always funny & make me laugh.I don`t understand why some dislike gays"
+        }, 
+        {
+            "created_time": "2013-07-07T23:39:31+0000", 
+            "id": "10151994059021729_30492480", 
+            "message": "He never said he dislikes gays or lesbians. He just said dislike. Maybe he dislikes that facebook uses their site as a tool to reach a certain audience more than others. Maybe he wishes facebook would just stick to making the site workable and keep it's nose out of things as a company. They can support whatever they want individually, but why did they have to stick the company logo on it and advertise it on here?"
+        }
+    ]
+}

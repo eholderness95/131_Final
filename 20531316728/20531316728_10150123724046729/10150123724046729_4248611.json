@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2010-12-26T07:09:42+0000", 
+        "id": "10150123724046729_4248611", 
+        "message": "EAST...WEST...SOUTH...NORTH,,,,,,MANIGONG  BAGONG  TAON !!!     P E A C E."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

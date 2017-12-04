@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2017-08-22T14:22:57+0000", 
+        "id": "1915498635357006_1915526872020849", 
+        "message": "Sorry not touching that can of poison! (Aspartame) bring back Coke life... actually don't bother green cola is much better"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-08-22T15:15:15+0000", 
+            "id": "1915498635357006_1915541548686048", 
+            "message": "Green cola much healthier they use coffee beans for caffeine. There NO aspartame! NO additives! Just all natural ingredients yet still has the best cola taste!"
+        }, 
+        {
+            "created_time": "2017-08-23T16:37:02+0000", 
+            "id": "1915498635357006_1915952758644927", 
+            "message": "Mark Edwards Then just drink that, I'll happily keep poisoning myself."
+        }, 
+        {
+            "created_time": "2017-08-24T23:15:05+0000", 
+            "id": "1915498635357006_1916491505257719", 
+            "message": "My doctor actually told me to stop drinking diet drinks and having artificial sweeteners as they can cause serious stomach and intestinal problems.  I ended up with a stomach ulcer as was drinking a can of coke zero a day and having 2 sweeteners in coffee (approx 3-4 cups per day).  Aspartame is dangerous if consumed frequently."
+        }, 
+        {
+            "created_time": "2017-08-24T23:15:59+0000", 
+            "id": "1915498635357006_1916491625257707", 
+            "message": "This green cola is by far much better!! All natural! No chemicals which Coke use"
+        }
+    ]
+}

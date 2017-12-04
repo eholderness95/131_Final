@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2017-10-24T17:13:29+0000", 
+        "id": "10156648524256729_10156648586381729", 
+        "message": "I have problem with my notification. I don\u2019t see notification about comment for my post, response for my comment and sings me on comments. Please tell me what can I do?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-10-24T18:09:58+0000", 
+            "id": "10156648524256729_10156648840446729", 
+            "message": "Thanks for reaching out Ma\u0142gorzata. It sounds like you may need to update your notification settings to allow for notifications from all of your posts, comments, and Pages you follow. You can learn how to update your notification preferences here: http://bit.ly/2yLncux. -Elizabeth"
+        }, 
+        {
+            "created_time": "2017-10-24T21:09:23+0000", 
+            "id": "10156648524256729_10156649221041729", 
+            "message": "Facebook I try, but It doesn't work, and doesn't change enything"
+        }, 
+        {
+            "created_time": "2017-10-24T21:41:01+0000", 
+            "id": "10156648524256729_10156649418921729", 
+            "message": "My notification's work :-)"
+        }
+    ]
+}

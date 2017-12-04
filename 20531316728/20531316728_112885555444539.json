@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2010-11-11T17:20:45+0000", 
+        "id": "20531316728_112885555444539", 
+        "message": "We're proud to be opening our newest data center today in Rutherford County, N.C., to keep Facebook running smoothly as we grow. Follow along as we build this latest home for our servers and systems by liking the Rutherford Data Center Page. ", 
+        "story": "Facebook shared a Page."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 13344
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

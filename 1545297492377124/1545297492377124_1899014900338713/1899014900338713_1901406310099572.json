@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-07-18T08:30:20+0000", 
+        "id": "1899014900338713_1901406310099572", 
+        "message": "I'm just super happy about zero vanilla. Also I thought zero cherry had been around for ages because ive been buying it for ages"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-07-18T12:57:01+0000", 
+            "id": "1899014900338713_1901491763424360", 
+            "message": "Hi Kimberly, the new Coca-Cola Zero Sugar Cherry recipe has an improved taste which is even closer to the great taste of Coca-Cola Cherry but without sugar."
+        }
+    ]
+}

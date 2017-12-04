@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2016-02-05T17:19:19+0000", 
+        "id": "10154374733446729_882809951837943", 
+        "message": "Truly love this!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-02-05T19:31:08+0000", 
+            "id": "10154374733446729_882854691833469", 
+            "message": "We're so glad to hear that, Barbara. Thanks for stopping by. -Jordan"
+        }
+    ]
+}

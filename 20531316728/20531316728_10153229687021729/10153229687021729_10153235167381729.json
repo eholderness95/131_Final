@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2014-12-04T17:40:13+0000", 
+        "id": "10153229687021729_10153235167381729", 
+        "message": "Keep videos like these coming!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-12-04T19:15:26+0000", 
+            "id": "10153229687021729_10153235317711729", 
+            "message": "Hey Christopher! We're glad to hear you found the video helpful. Thanks for your feedback. -Hailey"
+        }
+    ]
+}

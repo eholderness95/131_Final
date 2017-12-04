@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-05-15T20:35:09+0000", 
+        "id": "1870746146498922_1871913903048813", 
+        "message": "Hi i took off the bottle lids....for the codes ....do they have to match with the bottle labels?....they are not the easiest things to read"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-05-16T09:55:35+0000", 
+            "id": "1870746146498922_1872120899694780", 
+            "message": "Hi Hilary, you can choose the dream destination of your choice from our list. If you're having trouble reading the code,  please PM us a photo and we'll be happy to help. Thanks"
+        }, 
+        {
+            "created_time": "2017-05-16T16:44:43+0000", 
+            "id": "1870746146498922_1872292356344301", 
+            "message": "So the code and the label don't actually match?"
+        }
+    ]
+}

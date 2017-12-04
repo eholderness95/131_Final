@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2011-02-11T17:48:18+0000", 
+        "id": "139735366090888_1078591", 
+        "message": "This sucks. You changed it automatically without letting us know first or giving us a chance to stop it. When you make changes like this, make them OPT-IN changes, not OPT-OUT changes. A lot of users may be missing out on friends' posts they expect to be there and don't even know it. The concept is a good idea, but you gotta stop springing these changes on us. Let us choose how we want our information filtered."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

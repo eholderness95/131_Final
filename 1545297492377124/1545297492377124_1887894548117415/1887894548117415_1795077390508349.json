@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2017-06-20T17:25:55+0000", 
+        "id": "1887894548117415_1795077390508349", 
+        "message": "3. This promotion opens on Tuesday 20th June 2017 at 17:30 and closes at Tuesday 20th June 2017 at 18:00. Any entry received after the closing date will not be valid."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

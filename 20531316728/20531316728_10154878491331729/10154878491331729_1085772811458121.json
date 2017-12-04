@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2016-08-30T19:48:39+0000", 
+        "id": "10154878491331729_1085772811458121", 
+        "message": "my news feed is showing a mix of things that were posted minutes ago to things that were posted 12 to 15 hours ago"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-08-30T19:52:28+0000", 
+            "id": "10154878491331729_993008267463838", 
+            "message": "Hi Geoff. If you feel you're missing stories you'd like to see or seeing stories in your News Feed that you don't want to see, you can use the different News Feed controls to adjust your preferences. Learn how at: http://bit.ly/2byG9YF. -Jessica"
+        }, 
+        {
+            "created_time": "2016-08-31T00:08:15+0000", 
+            "id": "10154878491331729_564994590355570", 
+            "message": "I'm having the same issue. I posted a pic on my wall around 8 this morning. Now it's showing as if I just posted it an hour ago! What is going on?!"
+        }, 
+        {
+            "created_time": "2016-08-31T00:23:47+0000", 
+            "id": "10154878491331729_1729387090658997", 
+            "message": "I want things posted on my news feed to be in order and most recent all the time. I don't have the time to deal with clicking on news feed controls, top stories, and most recent buttons."
+        }
+    ]
+}

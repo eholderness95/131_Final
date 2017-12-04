@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2014-09-06T15:06:51+0000", 
+        "id": "10153006003321729_10153028955821729", 
+        "message": "Dear Facebook, I want to see EVERY post from EVERY page that I like. I want to see EVERY post from EVERY friend that I have, in chronological order. I do not need you to pick and choose for me what you think I need or want to see. JUST LET ME SEE EVERYTHING FROM THE STUFF I ALREADY LIKE! THERE IS A REASON I LIKE A FREAKING PAGE OR HAVE FRIENDED SOMEONE!!!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 18
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-09-07T20:34:38+0000", 
+            "id": "10153006003321729_10153032638991729", 
+            "message": "Hi Amanda. There are a couple of options for you to customize what you see in your own News Feed. You can choose to unfollow particular friends to stop seeing any updates from them, or you can hide individual stories from your News Feed. See instructions on how to customize your feed here: http://on.fb.me/1oHTnjo.  -Chantal"
+        }, 
+        {
+            "created_time": "2014-09-07T20:53:55+0000", 
+            "id": "10153006003321729_10153032714391729", 
+            "message": "HELLOW FACEBOOK"
+        }, 
+        {
+            "created_time": "2014-09-07T22:23:14+0000", 
+            "id": "10153006003321729_10153032921866729", 
+            "message": "wow, Chantal at Facebook, that was amazing how you told her how to do exactly the opposite of what many of us want to do.  We want to see more, not fewer feeds, and your programming chooses for us which ones we are \"allowed\" to see.  It is so very frustrating."
+        }, 
+        {
+            "created_time": "2014-09-07T23:01:29+0000", 
+            "id": "10153006003321729_10153032991246729", 
+            "message": "Facebook, don't think you understood Ms Lindsey's request.  We want more NOT less. We want an option that less us see EVERYTHING that comes out of a feed or a friend...REGUARDLESS of whether we interact with that feed or friend.  On a separate issue, do you maintain a list of what 'keystrokes' produce what emojicons?"
+        }
+    ]
+}

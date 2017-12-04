@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2017-08-29T15:16:45+0000", 
+        "id": "10156384500276729_10156387114391729", 
+        "message": "PLEASE HELP! I have submitted a request for help, and get a generic, \"thanks for letting us know\" response.  I have clicked on a post of a friends from Apps-test and now it will not stop posting in my friend's feeds as if i posted it.  It is even writing a comment on the posts that I didn't write.  My friends are not able to report it because there is no option to and I cannot report it because it doesn't show up in my feed.  Please help! !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 7
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-08-29T15:30:43+0000", 
+            "id": "10156384500276729_10156387168036729", 
+            "message": "Hi Rita. Turning off Facebook's integration with apps, games and websites removes apps or games you've logged into using Facebook. All posts by apps or games will be removed from your Timeline and you won't be able to log into apps, games and websites using Facebook. Learn how to turn off Facebook's integration with apps, games and websites here: http://bit.ly/2vGghy6. -Neha"
+        }, 
+        {
+            "created_time": "2017-08-29T15:31:55+0000", 
+            "id": "10156384500276729_10156387171636729", 
+            "message": "Ok but it's just one app.  So, I'll not be able to see or use other apps then?"
+        }, 
+        {
+            "created_time": "2017-08-29T15:49:05+0000", 
+            "id": "10156384500276729_10156387229001729", 
+            "message": "Hi Rita. You can learn how to remove the app you've added here: http://bit.ly/2wlnhC9. Hope this helps! -Neha"
+        }
+    ]
+}

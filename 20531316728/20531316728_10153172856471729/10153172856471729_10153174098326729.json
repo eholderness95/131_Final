@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2014-11-06T17:23:14+0000", 
+        "id": "10153172856471729_10153174098326729", 
+        "message": "Can we go global on obesity, drunk drivers, smoking around infants, kidnappings, or anything more important?  Seeing as how more people have died in one day from those things than anyone has from Ebola in three years."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 7
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-11-06T17:46:54+0000", 
+            "id": "10153172856471729_10153174135871729", 
+            "message": "Those are social issues that can't be stopped simply by throwing money at them."
+        }, 
+        {
+            "created_time": "2014-11-07T07:43:44+0000", 
+            "id": "10153172856471729_10153175340531729", 
+            "message": "You are so right Geoffrey.  Ebola is a minor (but frightening) disease in the grand scope of things.  Honestly it would warrant virtually no attention but it is  \"Africa\" that makes it important to our Administration.  Would there be such an outcry if it were Sweden, or Argentina, for example?"
+        }
+    ]
+}

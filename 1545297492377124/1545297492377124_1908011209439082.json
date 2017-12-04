@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2017-08-02T09:09:51+0000", 
+        "id": "1545297492377124_1908011209439082", 
+        "message": "Go behind the scenes of our Love Story video and don't forget: #LoveRecycling! Read more at http://www.coca-cola.co.uk/stories/100-percent-recyclable-go-behind-the-scenes-of-our-latest-campaign"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 48
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 8
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2011-09-20T19:36:27+0000", 
+        "id": "268472399849975_3860539", 
+        "message": "face, bunu t\u00fcrk\u00e7ye \u00e7ewirip yaynlada, bizi be\u011fnmyrmsn :)"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 14
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

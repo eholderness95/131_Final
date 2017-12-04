@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-11-07T20:08:12+0000", 
+        "id": "10156688916596729_10156711839761729", 
+        "message": "I have tried to create an account to use for my work with my work email and the account was disabled. I put in a dispute for the deactivation and never heard back from anyone. How do I get that account activated again?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-11-07T21:34:08+0000", 
+            "id": "10156688916596729_10156712049916729", 
+            "message": "Hey Naomi. It's possible that your account was disabled because it is against Facebook Terms to maintain more than one personal account. We recommend that you use only one account. If you'd like to learn more about Facebook Terms, they can be found here: http://bit.ly/2zpuox0. Thanks for reaching out. -Elizabeth"
+        }, 
+        {
+            "created_time": "2017-11-10T11:31:49+0000", 
+            "id": "10156688916596729_103160450460175", 
+            "message": "Eventually Facebook you do not offer support for blocked or disabled accounts (thats what you emailed on me). Why is that?"
+        }
+    ]
+}

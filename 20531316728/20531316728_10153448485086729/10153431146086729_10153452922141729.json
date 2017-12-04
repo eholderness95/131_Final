@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-02-19T16:38:58+0000", 
+        "id": "10153431146086729_10153452922141729", 
+        "message": "Thanks Facebook for letting me have a choice. It's nice to see things that pertain to my interests which I am therefore more likely to actually click on! :D"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-02-19T16:47:07+0000", 
+            "id": "10153431146086729_10153452937491729", 
+            "message": "We're glad you're putting your ad preferences to good use, Benjamin! Thanks for the kind words, we'll pass them on. -Rose"
+        }
+    ]
+}

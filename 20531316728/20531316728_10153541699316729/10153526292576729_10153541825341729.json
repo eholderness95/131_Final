@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-03-23T16:46:13+0000", 
+        "id": "10153526292576729_10153541825341729", 
+        "message": "Love it :) Splendid <3"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-03-23T20:08:58+0000", 
+            "id": "10153526292576729_10153542209966729", 
+            "message": "Hi Farhan, Thanks for your feedback. We're glad you enjoyed it! -Cassandra"
+        }
+    ]
+}

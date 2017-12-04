@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-05-14T17:09:26+0000", 
+        "id": "10155808955746729_10155809327721729", 
+        "message": "One question: Why don't I have the \"flower reaction button\"? I have the newest Facebook version on my iPhone. I live in Switzerland.\n\nThanks for your answer."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-05-14T17:26:09+0000", 
+            "id": "10155808955746729_10155809387146729", 
+            "message": "Thanks for reaching out, Matthias. The 'Thankful' reaction animation is only available on mobile available for iOS v89+ and Android v119 in the markets that celebrate Mother's Day. On desktop, you will see 'Thankful' in the reaction bar but it will not animate when you send or receive the reaction. -Jon"
+        }, 
+        {
+            "created_time": "2017-05-14T18:07:16+0000", 
+            "id": "10155808955746729_10155809526691729", 
+            "message": "iOS 89?? Do you mean iOS 10? And we also celebrate that. Last year it was also there. And also on my pc it isn't there..."
+        }
+    ]
+}

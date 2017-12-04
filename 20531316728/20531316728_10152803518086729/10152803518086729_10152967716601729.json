@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2014-08-13T04:16:19+0000", 
+        "id": "10152803518086729_10152967716601729", 
+        "message": "Dear Facebook,\n    Why are you forcing us to download the Facebook Messenger app? Not only are you forcing us to download it, but, when we download it, it asks us for too much information that you don't need to know. When the Facebook application first went up, we only needed one app to do everything we wanted within your app. If we wanted to send an email, we closed your app and opened a new one. But now, you are making us use another app to do the same exact thing that we already could do within the first app. What's next? Creating a third app to only post statuses? It's like killing one bird with two stones. It shouldn't be that difficult. But, the main reason I'm even writing this, is because I'm reading in news articles that the Messenger app is able to activate our camera and microphone at ANY TIME?! Are you serious?! I for one am not downloading the Messenger app. If I have to, I'll use the webpage version, or better yet, I'll just pick up the phone and call someone!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

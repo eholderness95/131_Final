@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2011-06-08T00:02:34+0000", 
+        "id": "20531316728_217097994990689", 
+        "message": "We are now IPv6 enabled - marking the start of World IPv6 Day. Read more about the test on our engineering blog.", 
+        "story": "Facebook shared Facebook Engineering's note."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 10451
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

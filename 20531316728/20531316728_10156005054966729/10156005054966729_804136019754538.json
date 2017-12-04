@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-07-26T14:36:38+0000", 
+        "id": "10156005054966729_804136019754538", 
+        "message": "Have received an email purportedly from Facebook about being an $800,000 contest winner.  Is this really a promotion from Facebook (like Publishers Clearing House?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-07-26T14:58:04+0000", 
+            "id": "10156005054966729_1950284265228883", 
+            "message": "Thanks for the question, Don. Our team is aware of this hoax campaign. Please disregard the email and be sure not to release any personal or financial information to the sender. Thanks for checking in with us! -Juliann"
+        }
+    ]
+}

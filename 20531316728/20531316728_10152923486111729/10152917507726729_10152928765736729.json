@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2014-07-30T15:37:21+0000", 
+        "id": "10152917507726729_10152928765736729", 
+        "message": "Cannot find box with arrow on friends profile to choose on my iPad"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 7
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-07-30T17:38:29+0000", 
+            "id": "10152917507726729_10152929011416729", 
+            "message": "Hello Lynne. You can find the 'More' option (...) next to the 'Message' option on the top right side of any of your connections profiles'. Hope that helps! -Sarah"
+        }, 
+        {
+            "created_time": "2014-07-30T21:07:46+0000", 
+            "id": "10152917507726729_10152929417256729", 
+            "message": "Sarah, I found the 'more' arrow down button, but what do I choose after that.  It doesn't say friendship or similar?"
+        }
+    ]
+}

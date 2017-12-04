@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2016-02-14T17:21:50+0000", 
+        "id": "10154374733446729_10154399266771729", 
+        "message": "my group was stolen because of a bug of your system when suspending the account is relocating the administrator rights and anyone can take ownership of a group of yours becoming administrator and stealing all of your post modifying the name and the sense itself of the group! this is very dangerous and need to be stopped immediately!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

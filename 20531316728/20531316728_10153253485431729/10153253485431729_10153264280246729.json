@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2014-12-16T17:56:30+0000", 
+        "id": "10153253485431729_10153264280246729", 
+        "message": "hello, i need help. I have app problem, i cant play my game '' KLONDIKE,, and Indy Cat .... i rait klondike help cent and they tell me we cannot help its facebook problem. Please help me 3  day i cannot play :("
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-12-16T18:17:51+0000", 
+            "id": "10153253485431729_10153264360111729", 
+            "message": "Hey Patiko. Apps and games are managed by developers outside of Facebook. If you need help with an app or game, contact its developer directly. You can use this link to contact the developers of games you like to play: https://www.facebook.com/help/www/149151751822041 -Hailey"
+        }
+    ]
+}

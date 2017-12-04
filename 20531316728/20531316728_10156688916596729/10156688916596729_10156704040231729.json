@@ -1,0 +1,72 @@
+{
+    "data": {
+        "created_time": "2017-11-06T02:09:46+0000", 
+        "id": "10156688916596729_10156704040231729", 
+        "message": "Can we have a Dislike option? I've come to the conclusion I would spend more time reading posts rather than less, if I could \"down-vote\" something, and move on. There wouldn't be any more bad feelings with it than there already are."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-11-06T15:37:47+0000", 
+            "id": "10156688916596729_10156705487206729", 
+            "message": "Hi Terrie. We received feedback that our community would like more ways to express how they feel about Facebook posts, besides a dislike button. Reactions provide a quick and easy way to respond with a range of emotions to content your friends share. Feel free to reach out if you have any questions. Thanks! -Elizabeth"
+        }, 
+        {
+            "created_time": "2017-11-06T16:57:20+0000", 
+            "id": "10156688916596729_10156705736621729", 
+            "message": "totally agree"
+        }, 
+        {
+            "created_time": "2017-11-06T17:49:12+0000", 
+            "id": "10156688916596729_10156706111231729", 
+            "message": "Facebook , I have angry-faced your reply. But, I do not feel anger. I think that the reply I received is inadequate, considering the problems that are occurring via Facebook, due to reactions and emotions through heated and abusive language all around groups and walls \"on\" Facebook.. A thumbs-down \"button\" just might offload some of that energy, and would not reduce human engagement, in my opinion. I think that most Facebook employees do not use their own employer's product, and are not having the experience most of us are. I do not expect a reply to this reply of mine, but would consider it to be decent. There is no need to \"AI thank\" me."
+        }, 
+        {
+            "created_time": "2017-11-08T22:35:46+0000", 
+            "id": "10156688916596729_10156716291836729", 
+            "message": ":-)"
+        }, 
+        {
+            "created_time": "2017-11-09T20:07:33+0000", 
+            "id": "10156688916596729_130137750959798", 
+            "message": ":-("
+        }
+    ]
+}

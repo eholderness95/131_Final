@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-06-01T18:15:54+0000", 
+        "id": "10155849356871729_1858297767825315", 
+        "message": "I need help with my company's page. The previous person managing this account had left the company and no one else have access to the account. Please advise? I had read through all the helpful tips, which does not help. I only have the company's name. The email and password that is tied to the account is no longer reachable. Please HELP!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-06-01T22:26:33+0000", 
+            "id": "10155849356871729_727595737441444", 
+            "message": "Hi there. If the Pages is unmanaged, you'll see Unofficial Page below the cover photo. You can then request to claim the Pages and become the admin, or merge the Page into a Page you already manage for your business: http://bit.ly/2rwftgw. However, if the Page is managed, you won't see the option to claim it. If this is the case, you can report the Page: http://bit.ly/2rgz7Na. Please keep in mind that we are not able to provide support for Page disputes between third parties. -Jessica"
+        }
+    ]
+}

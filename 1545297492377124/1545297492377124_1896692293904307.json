@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2017-07-08T11:01:00+0000", 
+        "id": "1545297492377124_1896692293904307", 
+        "message": "Time is almost up. Grab a summer bottle and enter this weekend for your chance to win a dream holiday! Visit coke.co.uk/summer to find out more!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 42
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

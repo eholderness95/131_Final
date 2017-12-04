@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-08-04T18:33:01+0000", 
+        "id": "1905666806340189_1908963519343851", 
+        "message": "@Coca-Cola would it be worth your while to set up pop up bins around U.K. that entirely focused on recycling Coca-Cola brand packaging? Your UK company could gather more recycling materials to meet your 50% goal and it's more direct. Would a pay/discount scheme to entice customers be a possible future?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-08-04T18:35:00+0000", 
+            "id": "1905666806340189_1908963796010490", 
+            "message": "To add to this, these massive bins themselves could be made of 100% recycled materials, the bins don't need to be flashy, we simply want the message made clear to those who still aren't convinced that it'll make a change. I'm glad Coca-Cola is making a step in the right direction!"
+        }, 
+        {
+            "created_time": "2017-08-08T16:24:32+0000", 
+            "id": "1905666806340189_1910433885863481", 
+            "message": "Hi Brittany, thanks for your suggestion. We believe we can use advertising and marketing to inspire and encourage people to recycle. There is no single quick-fix solution when it comes to increasing recovery and recycling rates and reducing litter. There are lots of complex reasons behind why people litter and in developing our strategy it was clear that we can inspire consumers to do the right thing and dispose of their packaging properly. As part of our overall plan, we\u2019ll be working with a number of different partners, including Wrap, Keep Britain Tidy, as well as our customers and the Government to continue looking into making it easier to for packaging to be recovered and recycled. We\u2019re also committed to supporting any well-designed initiative that could improve recovering and recycling rates, including a deposit return scheme."
+        }
+    ]
+}

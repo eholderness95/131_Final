@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2014-10-13T21:29:32+0000", 
+        "id": "10153072983156729_10153119745651729", 
+        "message": "Love Facebook ,but how do you get what friends have liked off your newsfeed ?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 6
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-10-13T21:54:36+0000", 
+            "id": "10153072983156729_10153119804276729", 
+            "message": "Hi Glenda. There are a couple of options for you to customize what you see in your own News Feed. You can choose to unfollow particular friends to stop seeing any updates from them, or you can hide individual stories from your News Feed. See instructions on how to customize your feed here: http://on.fb.me/1saIsyU.  \n-Chantal"
+        }, 
+        {
+            "created_time": "2014-10-14T01:17:22+0000", 
+            "id": "10153072983156729_10153120274271729", 
+            "message": "im bese because now"
+        }
+    ]
+}

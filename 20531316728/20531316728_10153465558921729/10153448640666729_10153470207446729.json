@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-02-26T01:19:19+0000", 
+        "id": "10153448640666729_10153470207446729", 
+        "message": "Friends make life the ultimate experience!!!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-02-26T03:24:49+0000", 
+            "id": "10153448640666729_10153470420676729", 
+            "message": "So true, Katherine! Thanks for being part of our community. -Hailey"
+        }
+    ]
+}

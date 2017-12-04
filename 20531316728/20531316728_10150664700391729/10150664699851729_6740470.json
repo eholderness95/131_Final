@@ -1,0 +1,50 @@
+{
+    "data": {
+        "created_time": "2011-11-09T01:01:59+0000", 
+        "from": {
+            "id": "10155719311761061", 
+            "name": "Brian A Klotsch Sr."
+        }, 
+        "id": "10150664699851729_6740470", 
+        "message": "that's freakin weird ! Why would you try posting the word \"first\" then leave it having actually come in second or later ?...can you say duh ?...LoL"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

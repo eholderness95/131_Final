@@ -1,0 +1,77 @@
+{
+    "data": {
+        "created_time": "2015-01-12T13:50:52+0000", 
+        "id": "10153355445876729_10153361364831729", 
+        "message": "I would really like the newsfeed to actually be sorted as most recent. I don't understand why some posts are visible immediately, while others take a day to show up. I also don't like that posts will cycle back to the top if someone comments or likes. This change to the newsfeed on mobile devices is very frustrating."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 46
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-01-12T14:49:58+0000", 
+            "id": "10153355445876729_10153361446971729", 
+            "message": "Heather...those of us using the website have had to deal with that for over a year. Facebook isn't changing it anytime soon."
+        }, 
+        {
+            "created_time": "2015-01-12T14:56:28+0000", 
+            "id": "10153355445876729_10153361456921729", 
+            "message": "You can get it in order. On the left where it says news feed, there should be a dark grey arrow, click it and it will have an option for top stories or most recent. After doing this a couple times, FB does it automatically. Hope this helps!!"
+        }, 
+        {
+            "created_time": "2015-01-12T15:17:42+0000", 
+            "id": "10153355445876729_10153361637061729", 
+            "message": "I appreciate the attempt, but no arrow on the iOS app that I have seen. Just quite annoying. Oh well."
+        }, 
+        {
+            "created_time": "2015-01-12T15:29:36+0000", 
+            "id": "10153355445876729_10153361781191729", 
+            "message": "In iOS , You should see a little gear symbol next to newsfeed in your left column list and that allow you to choose most recent or top stories"
+        }, 
+        {
+            "created_time": "2015-01-12T15:38:48+0000", 
+            "id": "10153355445876729_10153361798376729", 
+            "message": "I have to change mine all the time, it resets itself back to top stories all the time."
+        }, 
+        {
+            "created_time": "2015-01-12T18:23:11+0000", 
+            "id": "10153355445876729_10153362115056729", 
+            "message": "// I think u were on your phone. That's why u don't see it until later the phone isn't recent like computer"
+        }
+    ]
+}

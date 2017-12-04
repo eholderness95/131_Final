@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2015-01-20T16:22:10+0000", 
+        "id": "10153355445876729_10153380996901729", 
+        "message": "I wish there was a button for dislike just for facebook"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 10
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-01-20T17:08:09+0000", 
+            "id": "10153355445876729_10153381062736729", 
+            "message": "Thanks for the suggestion, Ralph. We're listening to all of the feedback we get from the Facebook community. If you have anymore suggestions, please let us know at: http://on.fb.me/1bc3BDo. -Chantal"
+        }, 
+        {
+            "created_time": "2016-09-10T21:39:40+0000", 
+            "id": "10153355445876729_957008931095428", 
+            "message": "Facebook Help Center Commenting post by Ralph Arthur Rambicure II. I would also like to see a 'dislike' option. Sometimes the topic just can't be liked, but you still want to comment. It appears that the 'like' click does more than just clicking. Figure a way to keep your stats by clicking either 'dislike' or 'like.' It would also be nice if you could put stats of likes or dislikes on screen next to number of comments.\n\nInterestingly, I just started doing FB recently; never took it seriously. But now I see what I've been missing. I think the % of people in my generation using FB is not very high. I'm thinking about ways to increase this. So I may check out your job opportunities, if I can find an extra 10-15 hours a week. \u263a\nP.S. Your generation need the baby-boomers, and we need you. Have to figure a way to bridge the gap without meddlin' \ud83d\ude00.\nBTW, I \u2764 FB."
+        }
+    ]
+}

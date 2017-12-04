@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2017-07-13T09:02:49+0000", 
+        "id": "1897116880528515_1898941970346006", 
+        "message": "Hey Coca-Cola :) Where can we see the winners list for this summers competition :/"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-07-13T09:10:34+0000", 
+            "id": "1897116880528515_1898943360345867", 
+            "message": "Hi Andreea, thanks for getting in touch. We've had a winner for each day the promotion has been open so far. All winners will be contacted within 24 hours via email, to the email address they provided at the point of entry.Unfortunately we're unable to publish the winners online, however a winners list can be requested in writing. For more info please visit: http://spr.ly/61808qmUj Hope this helps :)"
+        }, 
+        {
+            "created_time": "2017-07-18T15:37:07+0000", 
+            "id": "1897116880528515_1901550216751848", 
+            "message": "How do you request the list? Haven't heard of one person yet.  Usually with something like that it would be all over Facebook? Entered a lot and only once have I received an email confirming my entry...is this normal?"
+        }, 
+        {
+            "created_time": "2017-07-18T17:28:02+0000", 
+            "id": "1897116880528515_1901617226745147", 
+            "message": "Hi David, you can request the winners list in writing to the address provided in the Ts&Cs. Hope this helps"
+        }
+    ]
+}

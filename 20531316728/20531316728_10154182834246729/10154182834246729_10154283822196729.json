@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2015-12-26T02:13:25+0000", 
+        "id": "10154182834246729_10154283822196729", 
+        "message": "President Obama , Thank you for the fact that my husband \"a truck driver\" is able to afford very good health care now."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-01-31T07:44:25+0000", 
+            "id": "10154182834246729_1687851874759940", 
+            "message": "How much did you receive to post this bs statement. I know your check is in the mail."
+        }, 
+        {
+            "created_time": "2016-03-20T14:20:28+0000", 
+            "id": "10154182834246729_579787642188903", 
+            "message": "The government can afford obamacare."
+        }, 
+        {
+            "created_time": "2016-05-26T09:35:48+0000", 
+            "id": "10154182834246729_611944428973224", 
+            "message": "Are you on crack?  Try using it.   The out of pocket costs will kill you.   Odumbo has RUINED  millions of Americans health care plans.  What a total jerk of a president."
+        }
+    ]
+}

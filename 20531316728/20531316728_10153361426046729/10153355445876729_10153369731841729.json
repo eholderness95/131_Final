@@ -1,0 +1,77 @@
+{
+    "data": {
+        "created_time": "2015-01-15T22:29:48+0000", 
+        "id": "10153355445876729_10153369731841729", 
+        "message": "How come the option to translate languages is no longer available?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 14
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-01-15T22:32:36+0000", 
+            "id": "10153355445876729_10153369736906729", 
+            "message": "Hi Matt. You can download a guide for using the Translations app. You can also find a link to the guide in the Translation app by going to Useful Translations Links on the the right side and clicking Translation App Guide. Learn more: https://www.facebook.com/help/1487656711511882 -Chantal"
+        }, 
+        {
+            "created_time": "2015-01-15T23:44:48+0000", 
+            "id": "10153355445876729_10153369852201729", 
+            "message": "Did this work for you Matt?  I tried the link but it said it was not for android phones.  I have a galaxy S3."
+        }, 
+        {
+            "created_time": "2015-01-15T23:47:18+0000", 
+            "id": "10153355445876729_10153369856531729", 
+            "message": "No it did not work, it says not for iPads???"
+        }, 
+        {
+            "created_time": "2015-01-16T00:03:32+0000", 
+            "id": "10153355445876729_10153369887321729", 
+            "message": "I find this only works on my Macbook Pro or PC... never on my ipad or iphone.  Bummer since I have family oversees who communicate among themselves in their native language. I have to wait till I can log in on my computer to get the translation."
+        }, 
+        {
+            "created_time": "2015-01-16T00:08:55+0000", 
+            "id": "10153355445876729_10153369896066729", 
+            "message": "It was working on my PC, iPad and android until about a month ago. I also have family overseas and I would use the translate feature all the time. Now I have to cut and past into Google translate."
+        }, 
+        {
+            "created_time": "2015-01-16T02:27:51+0000", 
+            "id": "10153355445876729_10153370097866729", 
+            "message": "If I worked for Facebook, I'd have responded in German."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2016-07-21T19:55:54+0000", 
+        "id": "10154835146021729_10154835792751729", 
+        "message": "That's awesome. All the innovation and continuous team work are seen in this video. Marvelous!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 8
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-07-21T20:16:48+0000", 
+            "id": "10154835146021729_10154835834726729", 
+            "message": "We're glad to hear that you're as excited as we are, Mohammad. Thanks for stopping by today! -Jordan"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2014-11-24T05:10:12+0000", 
+        "id": "10152449467120079_10152449648325079", 
+        "message": "karde\u015f nerelerdesin yaaa"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 5
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-11-24T05:20:14+0000", 
+            "id": "10152449467120079_10152449665495079", 
+            "message": "Another Leaked http://m.youtube.com/watch?v=9Y6_QRVKRUE"
+        }
+    ]
+}

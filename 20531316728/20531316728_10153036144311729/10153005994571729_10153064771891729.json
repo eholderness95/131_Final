@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2014-09-22T18:52:32+0000", 
+        "id": "10153005994571729_10153064771891729", 
+        "message": "I've put in quite a few reports of my News Feed completely not working (showing a blank page) - and nobody will respond! :(  Everyone else can access their FB from the same computers, but I can't.  This is super frustrating!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 24
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-09-22T18:59:09+0000", 
+            "id": "10153005994571729_10153064783656729", 
+            "message": "We\u2019re sorry you\u2019re experiencing this, Linda. If you've reported something, you may have the option to check the status of your report from the Support Dashboard. Note that only you can see your support dashboard. http://on.fb.me/1ymAIQb.  -Chantal"
+        }, 
+        {
+            "created_time": "2014-09-23T12:39:22+0000", 
+            "id": "10153005994571729_10153066142021729", 
+            "message": "I've done that a dozen times since Saturday, but no response and I can't find anything on here with a solution to this.  Is there any way to call attention to this issue to someone that can fix it today?  I've been without my news feed for 4 days now :("
+        }, 
+        {
+            "created_time": "2014-09-23T12:39:50+0000", 
+            "id": "10153005994571729_10153066142501729", 
+            "message": "Also, the status just says it has been reported - there have been no updates or anything.... There isn't even an estimated turnaround time"
+        }
+    ]
+}

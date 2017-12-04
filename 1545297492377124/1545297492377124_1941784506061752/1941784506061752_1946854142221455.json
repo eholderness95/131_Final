@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-11-04T13:45:30+0000", 
+        "id": "1941784506061752_1946854142221455", 
+        "message": "Laurie Higdon Coca Cola Zero sugar"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-11-04T13:49:28+0000", 
+            "id": "1941784506061752_1946855165554686", 
+            "message": "Wowee, I\u2019d love a refreshing Coca Cola Zero sugar right about now."
+        }
+    ]
+}

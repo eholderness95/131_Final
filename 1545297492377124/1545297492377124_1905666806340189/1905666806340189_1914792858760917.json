@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-08-20T11:20:35+0000", 
+        "id": "1905666806340189_1914792858760917", 
+        "message": "Why not just use glass?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-09-01T16:26:00+0000", 
+            "id": "1905666806340189_1919368624970007", 
+            "message": "Hi Canaan, we produce glass bottles as part of our range, however,  plastic packaging is much lighter, has lower carbon impact, uses less energy to manufacture than glass and is fully recyclable. As long as it\u2019s responsibly disposed of, it can be recycled and reused into new packaging or other uses such as fibres and fabric. Recycled plastic also uses around two thirds less energy than virgin plastic, so as recovery rates and technology improve, plastic will become more sustainable."
+        }
+    ]
+}

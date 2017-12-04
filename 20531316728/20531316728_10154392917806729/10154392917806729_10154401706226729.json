@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2016-02-15T17:06:25+0000", 
+        "id": "10154392917806729_10154401706226729", 
+        "message": "Hi I've tried many times to merge two pages, but am not getting back the necessary information I need to submit the request. Can someone please help!?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-02-15T17:54:15+0000", 
+            "id": "10154392917806729_10154401802821729", 
+            "message": "Benjamin, thanks for reaching out. If you have two Facebook Pages for the same thing, you may be able to merge them. Please visit our Help Center to learn more: http://on.fb.me/1PMUXu0. -Azaria"
+        }, 
+        {
+            "created_time": "2016-02-15T19:33:52+0000", 
+            "id": "10154392917806729_10154402028331729", 
+            "message": "Facebook We also have a similar problem, I work for two small local bakeries and they got a bit confused, as their old pages got banned, they tried to merge with their new sites, but couldn't succeed. The result is that they have two sites for both shops with the same name. Unfortunately I have no idea what they did, but now we can't access the old sites, as they keep asking for merge. What we would like is just to get rid of the old ones and get them deleted. How could we get the old pages deleted? I looked through everywhere, but can't find the solution. Thank you very much for your help!"
+        }, 
+        {
+            "created_time": "2016-02-15T20:11:57+0000", 
+            "id": "10154392917806729_10154402097241729", 
+            "message": "Azaria this does not answer my question.  I have already read this information and submitted  a support case with no answer.  Please advise."
+        }
+    ]
+}

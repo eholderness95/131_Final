@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2010-11-15T18:33:53+0000", 
+        "id": "165158540184486_1861296", 
+        "message": "Facebook \u00e4r bra sida men \u00e4r lite k\u00e4nnslig sida att alla skriver olagliheter mer resperkt."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

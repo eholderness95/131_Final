@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2014-12-22T04:51:52+0000", 
+        "id": "10153264329856729_10153278649696729", 
+        "message": "Some phones including my galaxy s4 won't show the link at the bottom that everyone is talking about. To make it work you have to go on Facebook through your phone browser and make sure you are not on the mobile site only the desktop site."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 5
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-12-22T21:24:28+0000", 
+            "id": "10153264329856729_10153280099351729", 
+            "message": "Thx, this really helped!"
+        }
+    ]
+}

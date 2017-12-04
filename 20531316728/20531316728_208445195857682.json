@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2011-06-09T15:39:26+0000", 
+        "id": "20531316728_208445195857682", 
+        "message": "We love seeing non-profits use Pages to raise awareness and build a community around a cause. Greater Than AIDS is a national movement that seeks to inspire support for the HIV/AIDS community. On their Facebook Page, people share personal stories about loved ones who have been affected by HIV/AIDS and even their own diagnoses. Like their Page and tell us your success story at http://on.fb.me/jXpoLS", 
+        "story": "Facebook shared a Page."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 10774
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

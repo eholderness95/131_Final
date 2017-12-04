@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2014-06-05T16:55:54+0000", 
+        "id": "10152580066656729_10152792660411729", 
+        "message": "\u0645\u0646 \u0648\u0627\u062d\u062f \u0644\u0635\u0641\u0631 \u0647\u0647\u0647\u0647\u0647\u0647\u0647\u0647\u0647\u0647\u0647\u0647"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

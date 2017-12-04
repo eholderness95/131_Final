@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-09-30T16:24:07+0000", 
+        "id": "10154095097461729_10154098986921729", 
+        "message": "I just saw that notice and I couldn't believe. So I searched  at the source and here's the truth. Thanks, Facebook for all! >:D<"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-09-30T20:08:04+0000", 
+            "id": "10154095097461729_10154099468741729", 
+            "message": "We're glad we were able to help, Cristiana. We're happy to support our community! -Kate"
+        }
+    ]
+}

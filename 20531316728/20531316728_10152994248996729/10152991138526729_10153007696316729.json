@@ -1,0 +1,77 @@
+{
+    "data": {
+        "created_time": "2014-08-29T13:20:15+0000", 
+        "id": "10152991138526729_10153007696316729", 
+        "message": "New app update does nothing but crash! Freezes nonstop... and then crashes. well done."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 11
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-08-29T13:43:34+0000", 
+            "id": "10152991138526729_10153007754946729", 
+            "message": "Sorry to hear you're having trouble with the app, Tori. We first recommend to make sure you have the latest version of the app. If you've already got it \u2013 or if updating doesn't solve your problem \u2013 you can report the issue through our Help Center. Just tap the More button at the bottom right corner of the screen, and scroll down to select Report a Problem."
+        }, 
+        {
+            "created_time": "2014-08-29T13:46:15+0000", 
+            "id": "10152991138526729_10153007758551729", 
+            "message": "It updated automatically last night... it doesn't work."
+        }, 
+        {
+            "created_time": "2014-08-29T14:18:28+0000", 
+            "id": "10152991138526729_10153007928661729", 
+            "message": "Hey Tori. Sorry to hear you're unable to report the problem! It sounds like you're experiencing a bug. First, try uninstalling and reinstalling. If that doesn't work, please hang tight for our next update. We're working hard to resolve known bugs! -Kristen"
+        }, 
+        {
+            "created_time": "2014-08-29T14:21:26+0000", 
+            "id": "10152991138526729_10153008012506729", 
+            "message": "I don't want to reinstall it because I fear that it will remove any form of messages and I refuse to install messenger."
+        }, 
+        {
+            "created_time": "2014-08-29T14:31:46+0000", 
+            "id": "10152991138526729_10153008110951729", 
+            "message": "Hi Tori, We hear your concerns. Keep in mind, messages will be saved regardless if you uninstall and reinstall. They're also accessible when logging in through your desktop. Hope this helps. -Kristen"
+        }, 
+        {
+            "created_time": "2014-10-02T05:15:45+0000", 
+            "id": "10152991138526729_10153084969941729", 
+            "message": "je t'aime"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2013-08-21T05:50:05+0000", 
+        "id": "10152101244851729_31167805", 
+        "message": "Great! People will have internet, but no food, shelter, or clean water! Good job humanity-- You're doing it right."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 43
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2013-09-07T17:23:41+0000", 
+            "id": "10152101244851729_31468739", 
+            "message": "https://www.facebook.com/gokuomitopoderoso?fref=ts <<----------------- Like !!!!!"
+        }, 
+        {
+            "created_time": "2013-09-07T17:55:35+0000", 
+            "id": "10152101244851729_31469089", 
+            "message": "\u0645\u0631\u062d\u0628\u0627"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2012-06-13T22:01:00+0000", 
+        "id": "345543515519250_2872655", 
+        "message": "Kanki art\u0131k albumu \u00e7\u0131kar mal mal slaughterhouse \u015fark\u0131lar\u0131 payla\u015fma :)"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

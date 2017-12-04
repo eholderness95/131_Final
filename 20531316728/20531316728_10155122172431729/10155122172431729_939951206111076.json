@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2016-10-26T20:09:23+0000", 
+        "id": "10155122172431729_939951206111076", 
+        "message": "Can I do a live video on a page?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-10-26T20:11:12+0000", 
+            "id": "10155122172431729_1085921014789775", 
+            "message": "Hey Tammy. To go Live on Facebook from your Page, just tap the Live icon from your Page. You can write a quick description and choose the audience that you want to share with before you go Live. To learn more, visit: http://bit.ly/2eSoVkM. -Jessica"
+        }, 
+        {
+            "created_time": "2016-10-26T20:16:38+0000", 
+            "id": "10155122172431729_1085924151456128", 
+            "message": "I do not see a live icon. I see where I can post a video, but not a live one."
+        }
+    ]
+}

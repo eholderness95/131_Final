@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2016-11-19T18:00:00+0000", 
+        "id": "1545297492377124_1788015121438692", 
+        "message": "Are you ready for it... a certain special something will burst onto your screens tonight! #HolidaysAreComing"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 2482
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 453
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 33
+            }
+        }
+    }
+}

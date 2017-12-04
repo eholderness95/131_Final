@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2016-07-28T17:48:21+0000", 
+        "id": "10154835146021729_1091827040854182", 
+        "message": "A bit more description would be helpful. how long does it fly before landing ? Where does it land ? How big are the batteries ?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 9
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-07-28T17:50:52+0000", 
+            "id": "10154835146021729_1745445375693815", 
+            "message": "Great questions, Richard! Takeoff and landing are on auto-pilot. The ground-based crew is also able to control the aircraft's heading, altitude and airspeed through a ground control computer.  If you'd like to learn more about Aquila, please visit: http://bit.ly/2a2CnoB. -Jessica"
+        }, 
+        {
+            "created_time": "2016-07-29T07:30:45+0000", 
+            "id": "10154835146021729_593823574128439", 
+            "message": "If we have a few thousand  satellites in orbit why do we need this? That's why we use satellites and dishes, to connect us. \"Right\"? How many cameras are on board? How many will be flying at one time? \n\nBelieve in the Lord Jesus Christ and be saved."
+        }, 
+        {
+            "created_time": "2016-07-29T11:33:16+0000", 
+            "id": "10154835146021729_607484619437678", 
+            "message": "Cell phones don't talk to satellites. They use cell phone towers and no one wants one in their backyard. So presto ..... A cell tower overhead !"
+        }
+    ]
+}

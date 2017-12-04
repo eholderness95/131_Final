@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2010-08-20T17:38:11+0000", 
+        "id": "20531316728_119643098087099", 
+        "message": "Watch Facebook Live today at 11am PDT/2pm EDT to see a demo of our new Places product and learn how to control what you share.  We'll be hosting Jules Polonetsky of the Future of Privacy Forum and Larry Magid, Co-Director of ConnectSafely, so ask a question, and we might answer yours on-air.", 
+        "story": "Facebook shared a Page."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 7861
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "data": {
+        "created_time": "2015-03-10T22:14:38+0000", 
+        "id": "10153480920681729_10153508539551729", 
+        "message": "How do you activate this?  The link with \"more info\" not at all helpful."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 23
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-03-10T22:22:31+0000", 
+            "id": "10153480920681729_10153508554116729", 
+            "message": "Hey Laura. You don't need to activate Safety Check. If you are in the affected area, you will get a Facebook notification, see an alert at the top of your News Feed and receive an SMS from Facebook (if you have SMS enabled), asking if you are safe. Clicking on any of these messages will take you to Safety Check where you can mark yourself safe and check on others. In addition, you will see a bookmark on Facebook that takes you directly to the Safety Check. You may also search for Safety Check through the Facebook search bar.  -Hailey"
+        }, 
+        {
+            "created_time": "2015-03-10T22:35:12+0000", 
+            "id": "10153480920681729_10153508576426729", 
+            "message": "That's a great idea."
+        }, 
+        {
+            "created_time": "2015-03-10T23:05:39+0000", 
+            "id": "10153480920681729_10153508641771729", 
+            "message": "Great idea."
+        }, 
+        {
+            "created_time": "2015-03-10T23:43:15+0000", 
+            "id": "10153480920681729_10153508701876729", 
+            "message": "Thank you for your detailed reply Hailey!"
+        }, 
+        {
+            "created_time": "2015-03-10T23:51:01+0000", 
+            "id": "10153480920681729_10153508715251729", 
+            "message": "How do I activate SMS?"
+        }, 
+        {
+            "created_time": "2015-03-11T00:42:58+0000", 
+            "id": "10153480920681729_10153508806311729", 
+            "message": "How or where do I activate SMS?"
+        }, 
+        {
+            "created_time": "2015-03-11T01:30:19+0000", 
+            "id": "10153480920681729_10153508891021729", 
+            "message": "SMS is text messages on your phone. If you can receive text messages now no need to do anything."
+        }, 
+        {
+            "created_time": "2015-03-11T03:10:26+0000", 
+            "id": "10153480920681729_10153509044151729", 
+            "message": "Thanks for info, I was puzzled myself when I went there but saw no way to download it, I will share this on my wall, and yes, a great idea!!! Thanks Facebook!!"
+        }, 
+        {
+            "created_time": "2015-03-11T11:32:37+0000", 
+            "id": "10153480920681729_10153509976036729", 
+            "message": "Do we need to have location services turned on for Facebook? Mine are off. (I don't like how it automatically posts your location with each status posted)"
+        }, 
+        {
+            "created_time": "2015-03-11T14:50:01+0000", 
+            "id": "10153480920681729_10153510332436729", 
+            "message": "Good question.  Hope facebook will give answer"
+        }
+    ]
+}

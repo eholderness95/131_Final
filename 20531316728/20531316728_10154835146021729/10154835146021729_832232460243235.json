@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2016-07-31T03:28:56+0000", 
+        "id": "10154835146021729_832232460243235", 
+        "message": "I would very much like to know full total flight time, if anyone has it on record. Thanks in advance."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-08-01T17:06:35+0000", 
+            "id": "10154835146021729_608906529295487", 
+            "message": "Hey Jackie. Aquila flew for more than 90 minutes. Learn more here: http://bit.ly/2acNY4v. -Brad"
+        }
+    ]
+}

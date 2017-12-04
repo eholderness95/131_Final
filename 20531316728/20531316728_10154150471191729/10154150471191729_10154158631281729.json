@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2015-10-29T17:40:35+0000", 
+        "id": "10154150471191729_10154158631281729", 
+        "message": "HI. Somehow my business page is attached to my personal FB.  How can I separate the 2?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-10-29T18:12:07+0000", 
+            "id": "10154150471191729_10154158680821729", 
+            "message": "Thanks for asking, Richard. Pages aren't separate Facebook accounts and do not have separate login information from your Timeline. They are just different entities on our site, similar to how Groups and Events function. We hope this clarifies! -Rey"
+        }, 
+        {
+            "created_time": "2015-10-29T20:43:35+0000", 
+            "id": "10154150471191729_10154158925586729", 
+            "message": "Thank you Rey. My FB page is mostly made up of old high school friends.  My business has nothing to do with them nor do I feel a need to share information about my business with those friends!  I can't have a separate FB business page?!"
+        }
+    ]
+}

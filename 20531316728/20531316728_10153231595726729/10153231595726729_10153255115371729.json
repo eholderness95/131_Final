@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2014-12-12T15:18:31+0000", 
+        "id": "10153231595726729_10153255115371729", 
+        "message": "I like that... Thanks"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-12-12T16:06:05+0000", 
+            "id": "10153231595726729_10153255257016729", 
+            "message": "You\u2019re so welcome, Maria! We\u2019re happy you like it. -Chantal"
+        }
+    ]
+}

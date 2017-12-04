@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2017-11-07T19:55:13+0000", 
+        "id": "10156648524256729_290857151409803", 
+        "message": "Hello - I tried to create a professional profile to use for work and it got disabled for 'Security Reasons'. Please explain how this can be corrected. I was told someone would reach out to me and no one has. I have messaged this page and no one has responded. Please tell me what else I should do at this point."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-11-07T20:01:11+0000", 
+            "id": "10156648524256729_341424196267550", 
+            "message": "This is extremely frustrating. And I have been waiting for a few days now. I would definitely appreciate some help."
+        }, 
+        {
+            "created_time": "2017-11-07T21:34:42+0000", 
+            "id": "10156648524256729_256302564897272", 
+            "message": "Hey Samantha. It's possible your account got disabled because it is against Facebook Terms to maintain more than one personal account. If you'd like to learn more, Facebook Terms can be found here: http://bit.ly/2hQdTR6. Instead of creating two profiles, we recommend that you make a Page to represent yourself as a professional, public figure. Instructions to do so can be found in our Help Center: http://bit.ly/2zrk6fN. You will be able to manage your Page from your personal profile. We hope this helps! -Elizabeth"
+        }, 
+        {
+            "created_time": "2017-11-08T03:35:11+0000", 
+            "id": "10156648524256729_914553378720423", 
+            "message": "Facebook many times I appealed but you always reply \"Unfortunately we do not offer support for blocked or disabled accounts from this alias\" I gave you my real passport ID but until now you always reply me that message. Please reactivate my account"
+        }
+    ]
+}

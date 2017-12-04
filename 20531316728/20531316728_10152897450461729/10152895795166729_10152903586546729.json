@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2014-07-19T23:31:39+0000", 
+        "id": "10152895795166729_10152903586546729", 
+        "message": "Can you add a privacy setting to make it so that what I post and/or comment to public posts and pages does not show up in my friends news feed?  I realize it will still be visible to them if they like the same page, or are friends with the same friend, but I would still like the option to not have it blaring in friends news feed. Ya know?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-07-20T12:38:53+0000", 
+            "id": "10152895795166729_10152904706641729", 
+            "message": "Exactly! Best suggestion yet!!! Wish I knew how to make a thumbs up lol"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2016-01-25T13:16:16+0000", 
+        "id": "1671684426405096_978385475582502", 
+        "message": "Funny and Touching. Nice ad :)"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-01-25T13:58:01+0000", 
+            "id": "1671684426405096_1673565532883652", 
+            "message": "Thank you Kiev!"
+        }
+    ]
+}

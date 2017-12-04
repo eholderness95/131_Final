@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-11-01T20:44:00+0000", 
+        "id": "10156648524256729_282421085602306", 
+        "message": "I'm trying to hide other people's comments on some of my posts on my timeline. They say click X to hide, but I only see remove this. Can you help me hide my comments? How do I do this?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-11-01T21:06:42+0000", 
+            "id": "10156648524256729_129834157707922", 
+            "message": "Hey Justin. You can only remove comments on a personal profile, not hide them. However, the person who commented will not be notified that you removed their comment. We hope this helps. -Elizabeth"
+        }, 
+        {
+            "created_time": "2017-11-02T01:23:27+0000", 
+            "id": "10156648524256729_1088890137915275", 
+            "message": "I figured. Thanks."
+        }
+    ]
+}

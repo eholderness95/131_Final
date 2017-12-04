@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2016-05-19T19:25:39+0000", 
+        "id": "10152991138526729_1253579324675768", 
+        "message": "Hi, I woudnt know what to call this matter, but, I constantly recieve friendship acceptances from people i neither knew and who never requested for my friendship. They are just granted my friendship without my authorization."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

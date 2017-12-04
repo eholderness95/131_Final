@@ -1,0 +1,92 @@
+{
+    "data": {
+        "created_time": "2014-09-09T12:17:52+0000", 
+        "id": "10153005994571729_10153036465456729", 
+        "message": "Your ads are playing on phones even when the  phone setting is at ONLY auto play  videos when on wifi. This eats up data and if only auto play on wifi in setting is activated no videos should play, let alone ads we don't want to see. Fix this bug"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 23
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-09-09T15:15:02+0000", 
+            "id": "10153005994571729_10153036726441729", 
+            "message": "Hey Laura. You should be able to adjust videos to pre-load when you're connected to Wi-Fi by following these steps: http://on.fb.me/1qJdME9. If you're still having trouble, please let us know at: http://on.fb.me/1qJdM74 . -Jenny"
+        }, 
+        {
+            "created_time": "2014-09-09T15:18:21+0000", 
+            "id": "10153005994571729_10153036731651729", 
+            "message": "I am set as only play videos when on wifi - none of them play unless I'm on wifi  except for ADS - this is draining my data and costing me money.  please fix this bug - this is ONLY happening with ADS - please fix this"
+        }, 
+        {
+            "created_time": "2014-09-09T15:23:50+0000", 
+            "id": "10153005994571729_10153036739426729", 
+            "message": "also I've noticed you gave me info how to stop auto play on my COMPUTER not on my PHONE!"
+        }, 
+        {
+            "created_time": "2014-09-09T15:47:52+0000", 
+            "id": "10153005994571729_10153036773981729", 
+            "message": "Hey Laura. You can also find information on how to adjust these settings from your iOS or Android device here: http://on.fb.me/1qJgMQU. If you're still unable to change your settings, you may be experiencing a bug. You can report bugs through our Help Center at: http://on.fb.me/1qJgNnV.  -Jenny"
+        }, 
+        {
+            "created_time": "2014-09-09T15:53:09+0000", 
+            "id": "10153005994571729_10153036784606729", 
+            "message": "I have reported it since it's only an issue with ADS - this should not happen when I'm on \"only auto play videos while on wifi\" I actually went over in data a few months ago due to FB allowing auto play when not on wifi - this is a setting you need to let people know.  Plus the fact that ads are still auto playing is not acceptable."
+        }, 
+        {
+            "created_time": "2014-09-09T17:51:00+0000", 
+            "id": "10153005994571729_10153036988231729", 
+            "message": "I go over on data now too... I just heard about turning it off recently from the local news."
+        }, 
+        {
+            "created_time": "2014-09-09T19:31:13+0000", 
+            "id": "10153005994571729_10153037256921729", 
+            "message": "I heard about it recently and I know I posted it to my friends but if nobody hears about this issue they won't know what's going on.  It's not right for FB to do this - it's costing it's users money - if they aren't careful it will hurt their stock prices"
+        }, 
+        {
+            "created_time": "2014-09-12T10:59:45+0000", 
+            "id": "10153005994571729_10153042317576729", 
+            "message": "...I don't keep up with updating apps. So I still have the old version of Facebook that allows the bubbles. Haha suckers, thanks for warning me not to get the update."
+        }, 
+        {
+            "created_time": "2014-09-12T15:47:12+0000", 
+            "id": "10153005994571729_10153042792576729", 
+            "message": "that's how I am - I don't do updated on FB - but at one point about 5 updates before it wouldn't let me move unless I updated so it may happen at some point"
+        }
+    ]
+}

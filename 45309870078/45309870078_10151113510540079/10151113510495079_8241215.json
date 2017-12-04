@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2012-10-31T14:46:28+0000", 
+        "id": "10151113510495079_8241215", 
+        "message": "Turkler be\u011fen\u0131nde yabanc\u0131lar oneml\u0131 b\u0131s\u0131 sans\u0131n amk up up !!1!1"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

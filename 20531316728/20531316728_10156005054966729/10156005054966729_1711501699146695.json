@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-08-25T21:27:04+0000", 
+        "id": "10156005054966729_1711501699146695", 
+        "message": "As of 25 August 2017, 2 days in a row, a comment I make on a friend's post suddenly is copied to the next comment box below. This is annoying and needs to stop. I see another person, commenting, tapped return 5 times in a row with her post repeating, word for word. Please fix this bug ASAP!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-08-25T22:02:05+0000", 
+            "id": "10156005054966729_271608383336032", 
+            "message": "Hi Eliza. If something isn't working on Facebook, please follow these instructions to report it: http://bit.ly/2voDe9r . -Tenaya"
+        }
+    ]
+}

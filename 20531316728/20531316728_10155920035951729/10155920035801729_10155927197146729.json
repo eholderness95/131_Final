@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-06-16T17:33:23+0000", 
+        "id": "10155920035801729_10155927197146729", 
+        "message": "How can the creator of GIF pronounce it wrong? That's actually pretty disrespectful. Pronounce it right or spell it out to cease the conflict. I can't stand when people say it with the hard G; makes you sound like a dolt with a lisp."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 6
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-06-25T12:26:11+0000", 
+            "id": "10155920035801729_237937493388788", 
+            "message": "If you say it with a J sound, go get some peanut butter."
+        }, 
+        {
+            "created_time": "2017-06-25T15:45:38+0000", 
+            "id": "10155920035801729_695583893982420", 
+            "message": "It's supposed to be pronounced that way. I rather sound like I'm referring to the peanut butter brand than sound like a moron"
+        }
+    ]
+}

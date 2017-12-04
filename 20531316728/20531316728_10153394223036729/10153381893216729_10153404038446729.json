@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-01-30T22:24:59+0000", 
+        "id": "10153381893216729_10153404038446729", 
+        "message": "Aww! I really like this one!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 11
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-01-30T23:33:12+0000", 
+            "id": "10153381893216729_10153404164961729", 
+            "message": "Thanks for sharing, Justine! We'll tell our team to keep up the good work. -Hailey"
+        }
+    ]
+}

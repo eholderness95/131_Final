@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2017-09-04T11:05:04+0000", 
+        "id": "1917707308469472_1920409051532631", 
+        "message": "I'm very disappointed with Coca Cola - rang customer care two weeks ago concerned about a can from a thirty pack I had bought, which had exploded in my refrigerator but in an unusual way causing the can to go rigid and blow outwards. Took many details from me and was asked to return can in a return bag that would be sent to me. Have heard nothing since and another can has exploded but not in the same way. Poor customer service."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

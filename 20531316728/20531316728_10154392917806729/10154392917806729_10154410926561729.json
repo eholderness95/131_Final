@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2016-02-19T15:45:51+0000", 
+        "id": "10154392917806729_10154410926561729", 
+        "message": "Please make it so we can turn off notifications when we click on that notification.  Not sure why you took that away.  It was a great feature."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-02-19T22:30:06+0000", 
+            "id": "10154392917806729_1037192369635515", 
+            "message": "Thanks for the feedback, Joeli. We listen to all the feedback we get from the Facebook community. If you have any suggestions, we'd love to hear from you: http://on.fb.me/1PXXAcK. -Nancy"
+        }
+    ]
+}

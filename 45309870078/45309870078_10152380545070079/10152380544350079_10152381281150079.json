@@ -1,0 +1,102 @@
+{
+    "data": {
+        "created_time": "2014-10-18T10:39:55+0000", 
+        "id": "10152380544350079_10152381281150079", 
+        "message": "Seneye T\u00fcrkiye'ye gelmezsen sana do\u011fum g\u00fcn\u00fc pastas\u0131 yok ibne."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 34
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-10-19T14:18:00+0000", 
+            "id": "10152380544350079_10152383582705079", 
+            "message": "gelmesin abi biliyosun nedenini :d"
+        }, 
+        {
+            "created_time": "2014-10-19T14:22:27+0000", 
+            "id": "10152380544350079_10152383587725079", 
+            "message": "Ta\u015f\u015fa\u011fana yaz\u0131yorum zaten :D gelmesini ben de istemiyorum."
+        }, 
+        {
+            "created_time": "2014-10-20T15:05:56+0000", 
+            "id": "10152380544350079_10152385711150079", 
+            "message": "Gelirse Herkez T\u00fcrk sanacak :("
+        }, 
+        {
+            "created_time": "2015-10-17T10:19:44+0000", 
+            "id": "10152380544350079_10153127929300079", 
+            "message": "Afafsfsgsv"
+        }, 
+        {
+            "created_time": "2015-10-17T10:44:26+0000", 
+            "id": "10152380544350079_10153127948400079", 
+            "message": "Gelmedi :("
+        }, 
+        {
+            "created_time": "2015-10-17T10:44:59+0000", 
+            "id": "10152380544350079_10153127948655079", 
+            "message": "Iste bu Dramdir :("
+        }, 
+        {
+            "created_time": "2015-10-17T10:55:55+0000", 
+            "id": "10152380544350079_10153127955150079", 
+            "message": "FA\u015e\u0130STL\u0130KT\u0130R BU"
+        }, 
+        {
+            "created_time": "2016-08-20T21:22:22+0000", 
+            "id": "10152380544350079_597977693704514", 
+            "message": ":("
+        }, 
+        {
+            "created_time": "2016-08-20T21:49:12+0000", 
+            "id": "10152380544350079_1167024760051446", 
+            "message": "Gelmicek :("
+        }, 
+        {
+            "created_time": "2016-08-20T22:25:59+0000", 
+            "id": "10152380544350079_1764130443866215", 
+            "message": "\u00d6nce alb\u00fcm yaps\u0131n amk"
+        }, 
+        {
+            "created_time": "2016-08-20T22:46:50+0000", 
+            "id": "10152380544350079_1042179302567587", 
+            "message": "Eren \u00d6zayd\u0131n +192918381838"
+        }
+    ]
+}

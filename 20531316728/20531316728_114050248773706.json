@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2013-01-23T18:06:26+0000", 
+        "id": "20531316728_114050248773706", 
+        "message": "How do you stay motivated when you're taking on one of the world's toughest ascents? See how rock climber Tommy Caldwell brings the encouragement of his friends, family and fans along for the ride.", 
+        "story": "Facebook shared Community Voices from Facebook's video."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 38340
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }
+    }
+}

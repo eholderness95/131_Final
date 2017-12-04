@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2014-12-21T22:11:17+0000", 
+        "id": "10153253485431729_10153277880221729", 
+        "message": "How do I stop videos from playing when on a mobile connection with limited data allowance?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-12-22T16:16:12+0000", 
+            "id": "10153253485431729_10153279510331729", 
+            "message": "Hey Scott. If you're concerned about data use, you can adjust some videos to only automatically play over WiFi. Head to our Help Center for instructions: https://www.facebook.com/help/633446180035470?sr=1&sid=0iMHILbfrl9vhobxU -Hailey"
+        }, 
+        {
+            "created_time": "2014-12-22T17:43:47+0000", 
+            "id": "10153253485431729_10153279706131729", 
+            "message": "The thing is, my mobile Internet is a portable router, and therefore classified as \"WiFi\". I need videos to NOT play automatically over a wifi connection that has a monthly data limit. Thanks."
+        }, 
+        {
+            "created_time": "2015-03-14T14:56:10+0000", 
+            "id": "10153253485431729_10153518091671729", 
+            "message": "Oy so jou na"
+        }
+    ]
+}

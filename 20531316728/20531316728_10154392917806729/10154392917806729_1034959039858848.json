@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2016-02-16T06:22:30+0000", 
+        "id": "10154392917806729_1034959039858848", 
+        "message": "Hi, I opened a group and have invited friends and others from another group that I am an administrator for. I have listed it as a Secret Group and I have given the URL for ones in the other group to join. They say that \"This content is currently not available\" when they click on the link. I do not know how to fix this. Can you please help me. Your help center does not contain any information that I can find. I am new at this so I could be going about this the wrong way. I would appreciate your assistance. Thank You :*"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-02-16T21:09:15+0000", 
+            "id": "10154392917806729_1035308776490541", 
+            "message": "Hey Bonnie. Have you tried using these tips to add new members to your group? Learn more: http://on.fb.me/1PPlszd. Thanks! -Jordan"
+        }, 
+        {
+            "created_time": "2016-02-17T01:26:57+0000", 
+            "id": "10154392917806729_10154404927466729", 
+            "message": "Yes, My problem is that some will not add. Do they have to be friends for me to add them? This could be the problem. I just need to figure this out. Thanks"
+        }, 
+        {
+            "created_time": "2016-02-17T01:29:32+0000", 
+            "id": "10154392917806729_10154404930606729", 
+            "message": "Also, could you please explain to me why my post from the Secret group is showing on my News Feed?"
+        }
+    ]
+}

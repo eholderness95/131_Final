@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-04-11T20:17:36+0000", 
+        "id": "10155656407651729_1677398599229820", 
+        "message": "Why does my husband have access to the marketplace but I don't even have the option! Very frustrating! It shows up on the bottom of his app but not on mine!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-04-11T20:25:52+0000", 
+            "id": "10155656407651729_1856811077865037", 
+            "message": "Hey Sarah. If you're not seeing this option after uninstalling and reinstalling your app, please feel free to share your interest in Marketplace here: http://bit.ly/2opEiJa. -Joe"
+        }
+    ]
+}

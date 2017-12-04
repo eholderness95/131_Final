@@ -1,0 +1,77 @@
+{
+    "data": {
+        "created_time": "2017-02-07T16:18:19+0000", 
+        "id": "10155484162461729_10154550135458285", 
+        "message": "The latest version of Facebook mobile  constantly crashes on android devices after recent updates."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 7
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-02-07T19:18:14+0000", 
+            "id": "10155484162461729_10154125272777181", 
+            "message": "Hi Michael. If you're still experiencing this issue after uninstalling and reinstalling your app, please report it to us here: http://bit.ly/2jZwe1o. -Joe"
+        }, 
+        {
+            "created_time": "2017-02-07T21:33:47+0000", 
+            "id": "10155484162461729_10158092339110167", 
+            "message": "That's not helping the situation at all.  I've tried uninstalling and reinstalling several times over and still have the same problem."
+        }, 
+        {
+            "created_time": "2017-02-07T21:35:20+0000", 
+            "id": "10155484162461729_10154125554922181", 
+            "message": "Simply put, the problem is in the app itself.  I guess I'll just have to use Facebook on my laptop or desktop  instead until this issue is resolved."
+        }, 
+        {
+            "created_time": "2017-03-23T16:47:38+0000", 
+            "id": "10155484162461729_107471753125972", 
+            "message": "Joe, can you help me?"
+        }, 
+        {
+            "created_time": "2017-03-23T21:44:14+0000", 
+            "id": "10155484162461729_100617300481222", 
+            "message": "I also want my messaging ability without the need for a separate app back on mobile.  I had to delete the app from my phone to make space for other apps and necessary updates  and cannot put the app back on my phone.  We don't need a separate software program for messenger on the desktop or laptop so WHY is Facebook forcing us to use a separate app for messages on mobile devices?  It's not right and not fair."
+        }, 
+        {
+            "created_time": "2017-03-23T21:45:16+0000", 
+            "id": "10155484162461729_272637263159172", 
+            "message": "As soon as a new social media site comes along  you can bet money that I'll be leaving Facebook for it."
+        }
+    ]
+}

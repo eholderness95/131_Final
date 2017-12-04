@@ -1,0 +1,77 @@
+{
+    "data": {
+        "created_time": "2015-10-27T11:44:16+0000", 
+        "id": "10154150471191729_10154153939586729", 
+        "message": "I stopped following but still see the notifications. I don't want to turn them off but don't want to see their notifications either. How do I do that?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-10-27T14:44:51+0000", 
+            "id": "10154150471191729_10154154214331729", 
+            "message": "Hey Kate. If you'd like to see less stories from someone in your News Feed, follow these instructions in our Help Center: http://on.fb.me/1WfEl6r. -Abby"
+        }, 
+        {
+            "created_time": "2015-10-28T18:31:42+0000", 
+            "id": "10154150471191729_10154156661121729", 
+            "message": "Just click the original post that you are getting notications from..then click the arrow on top right side of it and then choose to turn notifications off for that one particular post (if this is what you were asking)"
+        }, 
+        {
+            "created_time": "2015-10-28T21:28:35+0000", 
+            "id": "10154150471191729_10154156990186729", 
+            "message": "Thanks.  I already unfollowed the person but I keep getting notifications for every thing they post.  Oh well... thanks everyone"
+        }, 
+        {
+            "created_time": "2015-10-28T22:10:10+0000", 
+            "id": "10154150471191729_10154157064941729", 
+            "message": "Here is another question,  I have a friend who constantly posts game info/stats. How do I block that but leave her normal posts alone? I have already choose to unfollow those specific posts but still get them?"
+        }, 
+        {
+            "created_time": "2015-10-28T22:44:36+0000", 
+            "id": "10154150471191729_10154157119186729", 
+            "message": "Kate - I figured that out recently, they hid the subscription option so that it's only viewable in \"desktop\" mode if you go to the person's profile in your browser, you can finally just unselect \"get notifs\". #hopethathelps"
+        }, 
+        {
+            "created_time": "2015-11-01T11:37:04+0000", 
+            "id": "10154150471191729_10154164068716729", 
+            "message": "lahiru"
+        }
+    ]
+}

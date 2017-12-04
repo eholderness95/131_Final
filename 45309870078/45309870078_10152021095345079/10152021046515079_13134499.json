@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2014-04-18T20:33:50+0000", 
+        "id": "10152021046515079_13134499", 
+        "message": "Abd\u00d6\u00f9 \u00c9min\u1ec3m lool"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-04-18T21:19:49+0000", 
+            "id": "10152021046515079_13134871", 
+            "message": ":D luky lock"
+        }
+    ]
+}

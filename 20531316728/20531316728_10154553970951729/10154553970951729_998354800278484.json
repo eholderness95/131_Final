@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2016-05-06T15:37:24+0000", 
+        "id": "10154553970951729_998354800278484", 
+        "message": "How do you \"react\" to things on Facebook"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-05-06T17:35:06+0000", 
+            "id": "10154553970951729_1771954719690938", 
+            "message": "Hey Logan. To use Reactions, hold down the Like button on mobile or hover over the Like button on desktop. You'll see the Reaction image option to select Like, Love, Haha, Wow, Sad or Angry. -Jessica"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-02-13T22:29:15+0000", 
+        "id": "10155484162461729_10158118764545167", 
+        "message": "Dear Facebook could you please add an option to disable random refreshing of the news feed?\n\nSincerely, Millions of people who were just about to share something just before it disappeared."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-02-17T05:32:04+0000", 
+            "id": "10155484162461729_10158138115920167", 
+            "message": "Thanks for the feedback, Joseph. If you have any suggestions, we'd love to hear from you: http://bit.ly/2lUgLwA. -Zack"
+        }
+    ]
+}

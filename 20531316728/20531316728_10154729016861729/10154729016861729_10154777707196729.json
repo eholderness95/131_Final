@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2016-06-30T13:04:10+0000", 
+        "id": "10154729016861729_10154777707196729", 
+        "message": "Why cant I share storys..did I do something wrong ?????"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-06-30T14:28:07+0000", 
+            "id": "10154729016861729_10154777860876729", 
+            "message": "Hi Chuck. You can share a post you see on your News Feed by following these steps: http://bit.ly/2960QF2. -Rey"
+        }, 
+        {
+            "created_time": "2016-07-01T22:37:45+0000", 
+            "id": "10154729016861729_1417286904954928", 
+            "message": "I would like to know why I cant share my gofundme page for assistance for my rescued cat's surgery. That means that people in need of funding for organ transplants can't share their needs as well."
+        }, 
+        {
+            "created_time": "2016-07-01T22:41:58+0000", 
+            "id": "10154729016861729_1417288278288124", 
+            "message": "Karen Secor"
+        }, 
+        {
+            "created_time": "2016-07-01T22:45:05+0000", 
+            "id": "10154729016861729_1417289781621307", 
+            "message": "i still cant share. and facebook wont give me a reason..????"
+        }
+    ]
+}

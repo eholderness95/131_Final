@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-11-20T14:35:57+0000", 
+        "id": "10156765527136729_10156766696856729", 
+        "message": "OT:  Is there a way of retrieving a deleted post from a page I administer?  Thank you."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-11-20T20:44:10+0000", 
+            "id": "10156765527136729_10156768455161729", 
+            "message": "Once a post is deleted, it's gone."
+        }
+    ]
+}

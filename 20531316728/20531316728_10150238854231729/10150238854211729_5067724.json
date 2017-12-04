@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2011-04-21T21:58:08+0000", 
+        "id": "10150238854211729_5067724", 
+        "message": "https://www.facebook.com/pages/-%CE%B1%C5%9F%CE%BA-%D0%BC%C4%B1/137183269645771 like :("
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2016-05-12T15:18:00+0000", 
+        "id": "1702620793311459_1711855545721317", 
+        "message": "Yaaaay, apparently thanks to that promotion I can't validate any of my vouchers for free bottle of Coca-Cola Zero, even though they are \"valid until 26/06/2016\"... Thank you very much not really! Sincerely, \nThe only fan of Coca Cola Zero in my family."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-05-12T16:45:34+0000", 
+            "id": "1702620793311459_1711876762385862", 
+            "message": "Hi there, could you please give us a call on 0800 22 77 11, so we can look into this for you. Thanks"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2010-09-22T23:55:57+0000", 
+        "id": "149247885111538_1421389", 
+        "message": "Friends For Sale is STILL not working correctly and it is reportedly a server problem with facebook and not FFS.  Any ideas as to when it will be fixed??"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

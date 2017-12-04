@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2010-06-05T22:24:29+0000",
+        "id": "45309870078_132385700107908",
+        "message": "Check out the world premiere of the \"Not Afraid\" music video."
+    },
+    "reactions": {
+        "angry": {
+            "data": [],
+            "summary": {
+                "total_count": 0
+            }
+        },
+        "haha": {
+            "data": [],
+            "summary": {
+                "total_count": 0
+            }
+        },
+        "like": {
+            "data": [],
+            "summary": {
+                "total_count": 19712
+            }
+        },
+        "love": {
+            "data": [],
+            "summary": {
+                "total_count": 5
+            }
+        },
+        "sad": {
+            "data": [],
+            "summary": {
+                "total_count": 0
+            }
+        },
+        "wow": {
+            "data": [],
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2015-01-09T17:12:15+0000", 
+        "id": "10153269099906729_10153354585341729", 
+        "message": "How can I let this one, I don't want to add friends anymore and they are always adding me. How can I remove this \"add friend\" thingy from my timeline ? :D"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-01-09T17:14:29+0000", 
+            "id": "10153269099906729_10153354588921729", 
+            "message": "Hi Patrick. By default, anyone on Facebook can add you as a friend. You can adjust your settings to change who can add you as a friend. Learn more: https://www.facebook.com/help/www/217125868312360 -Chantal"
+        }, 
+        {
+            "created_time": "2015-01-09T17:22:42+0000", 
+            "id": "10153269099906729_10153354603276729", 
+            "message": "But its still not. I tried everything but the add friend thingy didn't happened to be gone."
+        }, 
+        {
+            "created_time": "2015-01-11T14:16:48+0000", 
+            "id": "10153269099906729_10153358998031729", 
+            "message": "It will be appear it the person who wants to add you has a MUTUAL FRIEND that is connected to your timeline"
+        }
+    ]
+}

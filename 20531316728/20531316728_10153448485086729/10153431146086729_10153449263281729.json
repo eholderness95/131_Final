@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2015-02-18T02:11:05+0000", 
+        "id": "10153431146086729_10153449263281729", 
+        "message": "I'd like to see none. Thank you."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 12
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-02-18T02:31:20+0000", 
+            "id": "10153431146086729_10153449301036729", 
+            "message": "Hey Anthony. You can't get rid of Facebook ads entirely because they help keep Facebook free. We strive to only show ads that are relevant and interesting to you. -Hailey"
+        }, 
+        {
+            "created_time": "2015-02-18T11:04:47+0000", 
+            "id": "10153431146086729_10153450026926729", 
+            "message": "Hey Anthony, you can use Adblock and it'll clear those annoying ads right out! Check it out!"
+        }, 
+        {
+            "created_time": "2015-02-18T14:47:29+0000", 
+            "id": "10153431146086729_10153450339866729", 
+            "message": "Amen Joshua!! Been using it for YEARS! Just say NO to FB ads!"
+        }, 
+        {
+            "created_time": "2015-02-18T18:20:08+0000", 
+            "id": "10153431146086729_10153450751316729", 
+            "message": "Hailey, from what I remember facebook use to have very little ads. Their purpose as you've described. Now you're doing it because you're greedy, not for a free Facebook interface. In fact ads that are relevant/interesting to me and others will only bring more clicks to that advertiser thus a higher revenue for you. When will I HAVE ENOUGH come back to America."
+        }
+    ]
+}

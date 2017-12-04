@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2016-01-12T15:46:43+0000", 
+        "id": "10154249775416729_484148068431573", 
+        "message": "Can  I do something when I don't receive an e-mail from facebook ( When I try to reset my password) ?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-01-12T16:11:11+0000", 
+            "id": "10154249775416729_453884151476327", 
+            "message": "Hey Micha\u0142. If you requested a new password but didn't receive your password-reset email, you have a few options. Learn more: http://on.fb.me/1mSP8nd. Thanks. -Kate"
+        }
+    ]
+}

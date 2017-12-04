@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2016-03-29T14:09:25+0000", 
+        "id": "10154392917806729_1691212877796883", 
+        "message": "Hey Facebook: is there any way to turn off attachments in messages without having to completely turn off messages on fan pages? I love hearing from people who are truly interested in what I do, but I've been getting a LOT of inappropriate photos sent to me lately and the only thing I can do (from my phone) is Delete or Mark as Spam. \nIs there any way you can upgrade some security features (especially via mobile apps), to either not receive photo messages at all, or perhaps to offer a Report button? \nThanks!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-03-29T15:11:13+0000", 
+            "id": "10154392917806729_1062751873746231", 
+            "message": "Hi Brittany. We're always looking for ways to improve and appreciate community feedback. If there's a specific feature you'd like to see on Facebook, let us know here: http://bit.ly/22Y0vtT. Thanks. -Azaria"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2016-08-08T14:58:24+0000", 
+        "id": "10154878491331729_1875328286031052", 
+        "message": "Hey Facebook  - I'm having repeated problems with a post I shared on my personal timeline - it keeps reposting and showing up over and over - I now have 11 iterations of it, and I've deleted as many if not more. It also repeatedly shows up in the public feed almost every time I click to that page. No legit response from FB support other than a canned message. Please make it stop, I feel like I'm living in a cross between Poltergeist and Ground Hog's Day!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 7
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-08-08T15:01:08+0000", 
+            "id": "10154878491331729_871072539693086", 
+            "message": "We're sorry to hear that you're experiencing this, Carolyn. If you believe a feature isn't working properly, please report it to us using these steps: http://bit.ly/2behpQA. Thanks. -Jordan"
+        }, 
+        {
+            "created_time": "2016-08-08T15:05:18+0000", 
+            "id": "10154878491331729_1800253043543415", 
+            "message": "Facebook yup, did that, and got this bot-message: \"Your feedback will be used to improve Facebook. Thanks for taking the time to make a report.\" Meanwhile, I'm continuing to get the same post after post after post on my timeline. Is there another course of action?"
+        }
+    ]
+}

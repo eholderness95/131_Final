@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-04-29T08:33:47+0000", 
+        "id": "10153526292576729_10153640198816729", 
+        "message": "how do you get a verified badge on a Facebook page?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 6
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-05-05T17:42:44+0000", 
+            "id": "10153526292576729_10153657751351729", 
+            "message": "Hi Prometh. Right now, we're only accepting verification requests from Pages that represent celebrities, public figures, sports teams, media and entertainment. To submit a request, make sure you're logged into Facebook and fill out this form here: https://www.facebook.com/help/contact/356341591197702. Please keep in mind that most Pages and profiles, including local businesses, aren't eligible for verification. -Sarah"
+        }
+    ]
+}

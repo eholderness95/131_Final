@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2015-03-13T03:51:23+0000", 
+        "id": "10153480920681729_10153514613176729", 
+        "message": "How does it work? Do you have to download something?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-03-13T16:45:58+0000", 
+            "id": "10153480920681729_10153515807526729", 
+            "message": "Hi Ruthellen. There is no download. If you are in an affected area, Safety Check will activate. You will then get a Facebook notification, see an alert at the top of your News Feed and receive an SMS from Facebook asking if you are safe. Clicking on any of these messages will take you to Safety Check where you can mark yourself safe and check on others. To learn more, please visit: http://on.fb.me/1wm6VFE. We hope that helps! -Hailey"
+        }, 
+        {
+            "created_time": "2015-03-13T19:42:14+0000", 
+            "id": "10153480920681729_10153516150376729", 
+            "message": "Thank you can you give an address were you are too?"
+        }
+    ]
+}

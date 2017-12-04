@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2016-08-26T16:30:02+0000", 
+        "id": "1545297492377124_1750592618514276", 
+        "message": "An ice cold Coca-Cola \u2713 Awesome tunes \u2713 Weekend \u2713 #FridayFeeling #TasteTheFeeling"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 99
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 6
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

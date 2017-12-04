@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-04-04T22:21:01+0000", 
+        "id": "10155656407651729_620856691447106", 
+        "message": "Does the new Facebook camera work on all ipads or just certain models?\n\nMy ipad model doesn't allow this feature even though it's already updated. My parents have the same iPhone. One has the new features while the other doesn't"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-04-04T22:29:02+0000", 
+            "id": "10155656407651729_620858964780212", 
+            "message": "Hi Bennett. You should be able to access Camera if you have the latest version of the app and are using an iPhones 4S and higher or an Android devices with OS 4.1.2 and higher. If you're still having trouble, please let us know here: http://bit.ly/2o6WLKT. -Jessica"
+        }
+    ]
+}

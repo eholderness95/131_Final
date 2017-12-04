@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-04-12T11:56:51+0000", 
+        "id": "1856269227946614_1856271567946380", 
+        "message": "Are these plastic bottles that damage the oceans or the classic reusable glass bottles?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-04-12T12:11:35+0000", 
+            "id": "1856269227946614_1856276791279191", 
+            "message": "Guessing from the cap that they're glass which damages animals and wildlife when not disposed of properly."
+        }, 
+        {
+            "created_time": "2017-04-12T12:34:48+0000", 
+            "id": "1856269227946614_1856284777945059", 
+            "message": "Agreed Rachel."
+        }
+    ]
+}

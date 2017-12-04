@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2014-09-02T19:15:12+0000", 
+        "id": "10152288594035079_10152289242745079", 
+        "message": "Permisi 8-) Robot like dan komentar otomatis tiba di status Anda :|] Jangan lupa like back! (y) Ingin di Like? Add aja! ^_^ Ingin pasang BOT? PM aja Esemka Kite! :3"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

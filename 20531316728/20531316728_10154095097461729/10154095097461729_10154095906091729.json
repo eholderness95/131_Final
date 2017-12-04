@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2015-09-29T07:19:43+0000", 
+        "id": "10154095097461729_10154095906091729", 
+        "message": "are you an artificial intelligence answering to us?\ud83d\ude00"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 10
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-09-29T11:35:57+0000", 
+            "id": "10154095097461729_10154096181516729", 
+            "message": "Negative. 100% human, Jean. Thanks for checking! -Liz"
+        }, 
+        {
+            "created_time": "2015-10-03T14:14:21+0000", 
+            "id": "10154095097461729_10154104918776729", 
+            "message": "https://www.facebook.com/report/dispatch/?content_type=98&cid=816229408494949&rid=100004451086969&comment_id=816229408494949"
+        }
+    ]
+}

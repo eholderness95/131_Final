@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2015-09-25T18:22:52+0000", 
+        "id": "10154085960266729_10154087933361729", 
+        "message": "Sorry, but i'm seeing everything black in the video.... :/"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 7
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-09-25T20:44:12+0000", 
+            "id": "10154085960266729_10154088217241729", 
+            "message": "Thanks for letting us know, Charlie. If you're still having trouble, you can report the issue here: http://on.fb.me/1KzYxY2. Hope this helps! -Rey"
+        }, 
+        {
+            "created_time": "2015-09-29T14:35:46+0000", 
+            "id": "10154085960266729_10154096477901729", 
+            "message": "Did you actually angle your phone around? I thought i was only seeing black too until i realized i had to move my phone lol!"
+        }, 
+        {
+            "created_time": "2015-10-20T20:48:32+0000", 
+            "id": "10154085960266729_10154140696676729", 
+            "message": "why can't i visit my neighbors in cafeland or cook my food, it is very slow is that a problem on facebook"
+        }
+    ]
+}

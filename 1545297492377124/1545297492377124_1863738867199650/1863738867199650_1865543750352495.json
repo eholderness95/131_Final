@@ -1,0 +1,92 @@
+{
+    "data": {
+        "created_time": "2017-05-01T11:07:01+0000", 
+        "id": "1863738867199650_1865543750352495", 
+        "message": "Dear Coca Cola company, please would you use stevia as a sweetener instead of aspartame and other dangerous chemicals in your non sugar versions.  I am diabetic, and cannot drink the sugar version.  Until then I am going to have to stop drinking.  Very disappointed."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-05-01T13:03:33+0000", 
+            "id": "1863738867199650_1865588643681339", 
+            "message": "They do a stevia version, Coca Cola life (I'm sure it's stevia sugar, double check!)"
+        }, 
+        {
+            "created_time": "2017-05-01T14:05:35+0000", 
+            "id": "1863738867199650_1865613483678855", 
+            "message": "Coca cola life is stevia, Dane Maloney. It's hard to fine coca cola life in some areas though."
+        }, 
+        {
+            "created_time": "2017-05-01T14:43:40+0000", 
+            "id": "1863738867199650_1865639840342886", 
+            "message": "There was a stevia and cane sugar coca cola life version.  It contains sugar which is not good for me."
+        }, 
+        {
+            "created_time": "2017-05-01T14:58:50+0000", 
+            "id": "1863738867199650_1865645883675615", 
+            "message": "Aspartame is 100% safe for human consumption, this has been proven several times."
+        }, 
+        {
+            "created_time": "2017-05-01T15:04:49+0000", 
+            "id": "1863738867199650_1865647503675453", 
+            "message": "No aspartame is not safe.  Recently study has found it to cause dementia and strokes https://www.google.co.uk/url?sa=t&source=web&rct=j&url=http://www.cnn.com/2017/04/20/health/diet-sodas-stroke-dementia-study/&ved=0ahUKEwiP8qDh-87TAhXoDcAKHS8YBo0QFggcMAA&usg=AFQjCNHvMFdiDS3V03T0qaKD79CxrcuHcA&sig2=1ZyAJGAJnwsxmyM5PoZ82g"
+        }, 
+        {
+            "created_time": "2017-05-01T15:13:04+0000", 
+            "id": "1863738867199650_1865650443675159", 
+            "message": "It's been proven to cause cancer. Sounds pretty unsafe to me"
+        }, 
+        {
+            "created_time": "2017-05-01T19:12:27+0000", 
+            "id": "1863738867199650_1865752173664986", 
+            "message": "Well I'm not dead yet and I have a lot of aspartame. Sooo"
+        }, 
+        {
+            "created_time": "2017-05-01T22:58:21+0000", 
+            "id": "1863738867199650_1865814520325418", 
+            "message": "The FDA, the WHO and the European Food Safety and more all agree that Aspartame is safe for consumption and no studies done have ever been able to definitively prove cause and effect. \n\nIts never been proven to cause cancer."
+        }, 
+        {
+            "created_time": "2017-06-15T22:47:00+0000", 
+            "id": "1863738867199650_1885703291669874", 
+            "message": "What's Roger Daltry got to do with it?"
+        }
+    ]
+}

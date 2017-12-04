@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2011-01-28T07:39:08+0000", 
+        "id": "172178332826819_2085919", 
+        "message": "How about not selling our \"Likes\" to advertisers to push on our friends? I like FB, I like and fence, but if you do this, I will throw you the way I threw MySpace, okay?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2014-08-27T17:21:05+0000", 
+        "id": "10152991138526729_10153003159036729", 
+        "message": "return the old message system the hell is wrong with the new messenger i can't send a msg it keeps requiring me to allow  push notification if not you can't get to use it it is a stupid system like the timeline which i think a dung beetle is the one arranging it stupid Facebook keeps ignoring complaints now it's invading people's privacy so it can monitor everyone"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-09-03T17:32:13+0000", 
+            "id": "10152991138526729_10153022210331729", 
+            "message": "Hey Edward. You can turn push notifications on or off from the settings on your phone or mobile device. Learn how: http://on.fb.me/1hg26Sb. You can also adjust in-app notifications or notifications for a specific conversation directly from Messenger. Learn more: http://on.fb.me/Z0mwwu. -Natalie"
+        }
+    ]
+}

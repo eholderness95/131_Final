@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2014-11-18T22:15:38+0000", 
+        "id": "10153187499591729_10153201022356729", 
+        "message": "How do I set the feed to default to Most Recent instead of the pointless random order FB calls 'Top Stories'?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 16
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-11-18T22:20:50+0000", 
+            "id": "10153187499591729_10153201028891729", 
+            "message": "Hey David. Top Stories is designed to show you similar stories to ones that you engage with the most before ones that you typically don't. If you want to see stories in the order that they are posted, you can adjust your News Feed to Most Recent. Learn how at: http://on.fb.me/1xN9uyM.  -Chantal"
+        }, 
+        {
+            "created_time": "2014-11-18T22:24:06+0000", 
+            "id": "10153187499591729_10153201033266729", 
+            "message": "There is unfortunately a glitch, as each time I log out, or close and reopen the browser, it again defaults to 'Top Stories' (random order), and in order to see what if anything people have posted since I was signed in last, I have to select Most Recent again.  Please note the word 'default' in my first comment."
+        }, 
+        {
+            "created_time": "2014-12-19T19:19:33+0000", 
+            "id": "10153187499591729_10153271509801729", 
+            "message": "As a friend says: day after day it is what it is"
+        }
+    ]
+}

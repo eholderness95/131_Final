@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2017-06-06T21:08:08+0000", 
+        "id": "1878346129072257_1881499662090237", 
+        "message": "When I go to the summer site it takes me to another one in a different language."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-06-07T09:37:00+0000", 
+            "id": "1878346129072257_1881709042069299", 
+            "message": "Hi Pamela, that doesn't sound right. Please could you let us know what URL appears in the website bar at the top of the page when you're directed the other page? Thanks"
+        }, 
+        {
+            "created_time": "2017-06-07T09:39:49+0000", 
+            "id": "1878346129072257_1881709738735896", 
+            "message": "http://www.coke.at/de/coca-colazero/\nIt happens both if I type in the URL or follow a link from this page on any device I use."
+        }, 
+        {
+            "created_time": "2017-06-07T10:37:26+0000", 
+            "id": "1878346129072257_1881723358734534", 
+            "message": "Hi Pamela, thanks for this. Please could you PM us with the details of what devices you've used as well as the time of day you attempted to make the entries. Thanks"
+        }
+    ]
+}

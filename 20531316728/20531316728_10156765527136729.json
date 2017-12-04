@@ -21,7 +21,7 @@
         "like": {
             "data": [], 
             "summary": {
-                "total_count": 3776
+                "total_count": 3829
             }
         }, 
         "love": {
@@ -39,7 +39,7 @@
         "wow": {
             "data": [], 
             "summary": {
-                "total_count": 79
+                "total_count": 80
             }
         }
     }

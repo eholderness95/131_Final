@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2014-11-14T14:29:28+0000", 
+        "id": "10153187340336729_10153191221881729", 
+        "message": "Yes I agree the site was ....Checked mote than of the sites ..all I got was the blue page on one or two ir was a green page..\nDon't know what good that is....."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 6
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-11-14T14:56:55+0000", 
+            "id": "10153187340336729_10153191269496729", 
+            "message": "Had the same problem"
+        }, 
+        {
+            "created_time": "2014-11-14T15:10:43+0000", 
+            "id": "10153187340336729_10153191295321729", 
+            "message": "Hi Larry & Mona. Sorry to hear the page isn't functioning properly. You might try clearing your cache and browsing history. Hope this helps! -Kristen"
+        }, 
+        {
+            "created_time": "2014-11-14T15:35:43+0000", 
+            "id": "10153187340336729_10153191344701729", 
+            "message": "How do you do that?  I am not very good at knowing the ins and outs of all this technology.  :(. I had the same problem as Diane and Larry.  But where do I find the cache and browsing history?  As I mentioned, I am a 'dummy' when it comes to this."
+        }
+    ]
+}

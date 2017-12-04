@@ -1,0 +1,72 @@
+{
+    "data": {
+        "created_time": "2016-11-07T22:23:43+0000", 
+        "id": "10155122172431729_1828391790730168", 
+        "message": "You started notifying EVERY follower when our page created a Facebook event!! The page that I manage created multiple events and it spammed every single one of our followers, resulting in many followers unfollowing us and giving us bad reviews. Can you please let us know how to turn this off? Even though I turned off the notifications on my personal account, it is still continuing. This is a REALLY bad glitch that needs to be fixed asap!! https://www.facebook.com/Saltwater-Brewery-405925712808848/"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-11-07T22:28:06+0000", 
+            "id": "10155122172431729_952914144814782", 
+            "message": "We have literally lost 1500 followers in one hour!!! Please help us fix this! Final loss count was 2000 followers......"
+        }, 
+        {
+            "created_time": "2016-11-07T23:01:43+0000", 
+            "id": "10155122172431729_1828398570729490", 
+            "message": "Should we cancel the events or will that result in everyone getting notified too?"
+        }, 
+        {
+            "created_time": "2016-11-09T20:03:17+0000", 
+            "id": "10155122172431729_1798585500427451", 
+            "message": "I know you have people that monitor and respond to these comments...so PLEASE...can you tell me how I can create a Facebook event for my brand page and NOT notify all of my page's followers? Thank you."
+        }, 
+        {
+            "created_time": "2016-11-09T20:11:36+0000", 
+            "id": "10155122172431729_683879825104038", 
+            "message": "Thanks for the suggestion, Katelyn. We're always listening to feedback from the Facebook community. If you have an idea on how to improve the overall Facebook experience, please give us more information by filling out this form: http://bit.ly/2fE8UQ2. -Nick"
+        }, 
+        {
+            "created_time": "2016-11-09T20:13:14+0000", 
+            "id": "10155122172431729_1798590663760268", 
+            "message": "Facebook Nick - It's not a suggestion, it's a question...is there really no possible to way to turn off the notifications so our 26,000 followers (used to be 28k until you added this new feature) do not get notified every time we create an event?"
+        }
+    ]
+}

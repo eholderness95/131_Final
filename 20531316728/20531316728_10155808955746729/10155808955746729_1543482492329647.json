@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-05-17T14:49:44+0000", 
+        "id": "10155808955746729_1543482492329647", 
+        "message": "Facebook: Please please please bring back the Thankful flower reaction emoji! It was so great and now we miss it!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-05-17T14:56:37+0000", 
+            "id": "10155808955746729_124286251473102", 
+            "message": "Hi Sandra. We're glad you enjoyed the flower reaction. We're continuing to test different ways to bring you the most relevant experiences for the moments you care about. -William"
+        }
+    ]
+}

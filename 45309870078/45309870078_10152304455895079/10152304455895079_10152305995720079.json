@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2014-09-10T22:29:25+0000", 
+        "id": "10152304455895079_10152305995720079", 
+        "message": "Hamudi Karim Kassem  ich freu mich schon auf den Kampf Dmax \u00fcbertr\u00e4gt ;)"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

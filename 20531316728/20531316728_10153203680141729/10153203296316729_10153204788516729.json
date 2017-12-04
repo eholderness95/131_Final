@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2014-11-20T20:21:08+0000", 
+        "id": "10153203296316729_10153204788516729", 
+        "message": "stop re-ordering my newsfeed. Why does FB think it knows what my \"top stories\" are?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-11-20T20:31:10+0000", 
+            "id": "10153203296316729_10153204806081729", 
+            "message": "Hey Gale. You can control what you see in News Feed by sorting the order that posts appear or creating lists to organize friends as you like. See how at: http://on.fb.me/1xSMjTG. -Chantal"
+        }, 
+        {
+            "created_time": "2014-11-20T20:36:31+0000", 
+            "id": "10153203296316729_10153204814281729", 
+            "message": "I know how to do that. It keeps switching back on me. I don't want to create lists-I just want to see my newsfeed. I can't add groups to the lists."
+        }, 
+        {
+            "created_time": "2014-11-21T09:19:47+0000", 
+            "id": "10153203296316729_10153205972346729", 
+            "message": "You need to give us back the sort icon please!  I have always selected recent instead of top. Please add it back!"
+        }, 
+        {
+            "created_time": "2014-11-22T06:05:28+0000", 
+            "id": "10153203296316729_10153207874371729", 
+            "message": "Well that was a record. It switched back to 'top stories' after just a day. WTH. Why can't 'recent' be the default and people who feel like facebook knows what they like (NOT me) can switch it to top stories."
+        }
+    ]
+}

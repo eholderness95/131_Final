@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-11-07T22:41:11+0000", 
+        "id": "10156688916596729_10156712213496729", 
+        "message": "Facebook I tried the poll and completed it but it wouldn't let me enter my email for the gift. Every time I started typing, it disappeared. I took a screenshot as proof! Please Help!!!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-11-07T22:54:09+0000", 
+            "id": "10156688916596729_10156712247026729", 
+            "message": "We're sorry to hear this happened, Ryan. Thanks for bringing it to our attention. Please help our team track this issue by reporting it with these tips from our Help Center: http://bit.ly/2zDkWHr. -Jessica"
+        }, 
+        {
+            "created_time": "2017-11-16T06:40:39+0000", 
+            "id": "10156688916596729_238540326681773", 
+            "message": "I haven't heard anything back.. its been 8 days!!!"
+        }
+    ]
+}

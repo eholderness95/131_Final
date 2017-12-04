@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-01-26T12:48:29+0000", 
+        "id": "10153381893216729_10153393610631729", 
+        "message": "Friends are priceless.  Keep them close."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 17
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-01-26T15:09:00+0000", 
+            "id": "10153381893216729_10153393826746729", 
+            "message": "We couldn't agree more, Mary! Thank you for being a part of our community. -Jenny"
+        }
+    ]
+}

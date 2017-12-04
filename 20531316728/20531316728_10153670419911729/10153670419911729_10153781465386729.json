@@ -1,0 +1,92 @@
+{
+    "data": {
+        "created_time": "2015-06-05T20:01:10+0000", 
+        "id": "10153670419911729_10153781465386729", 
+        "message": "HOW or WHERE do I pose a question to Facebook that will elicit an answer?  Thank you."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 9
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-06-05T20:06:43+0000", 
+            "id": "10153670419911729_10153781477396729", 
+            "message": "Hey there, Ellen! How can we help you. -Chantal"
+        }, 
+        {
+            "created_time": "2015-06-05T20:10:31+0000", 
+            "id": "10153670419911729_10153781487071729", 
+            "message": "Hey facebook can you please reply to my comment?"
+        }, 
+        {
+            "created_time": "2015-06-05T20:13:23+0000", 
+            "id": "10153670419911729_10153781492896729", 
+            "message": "Chantal:   Until a few days ago, when I posted a comment on various Facebook pages, I could see a record of that comment on My Timeline.  Now, I cannot.  How do I restore ability to see such comments?  Thank you."
+        }, 
+        {
+            "created_time": "2015-06-05T20:25:24+0000", 
+            "id": "10153670419911729_10153781517191729", 
+            "message": "Potassium:   Are you Deliquescent?"
+        }, 
+        {
+            "created_time": "2015-06-05T20:26:21+0000", 
+            "id": "10153670419911729_10153781518496729", 
+            "message": "having the same problem can't see my comments on my activity log"
+        }, 
+        {
+            "created_time": "2015-06-05T21:50:12+0000", 
+            "id": "10153670419911729_10153781623741729", 
+            "message": "CHANTAL:     We are waiting for your answer."
+        }, 
+        {
+            "created_time": "2015-06-05T22:06:48+0000", 
+            "id": "10153670419911729_10153781647826729", 
+            "message": "Chantal: ...  I meant Activity Log.  I can no longer view the comments I posted."
+        }, 
+        {
+            "created_time": "2015-06-06T05:57:58+0000", 
+            "id": "10153670419911729_10153782459611729", 
+            "message": "i can"
+        }, 
+        {
+            "created_time": "2015-06-06T08:09:15+0000", 
+            "id": "10153670419911729_10153782569166729", 
+            "message": "THANKS"
+        }
+    ]
+}

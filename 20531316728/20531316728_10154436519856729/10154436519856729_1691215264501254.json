@@ -1,0 +1,77 @@
+{
+    "data": {
+        "created_time": "2016-03-03T17:47:34+0000", 
+        "id": "10154436519856729_1691215264501254", 
+        "message": "I like the \"reactions.\" Great move Facebook! They work for main posts. Can you make them work for comments on posts too?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-03-03T17:49:58+0000", 
+            "id": "10154436519856729_1706656412879829", 
+            "message": "Thanks for the feedback, Michelle. We're glad to hear you're enjoying Reactions! We listen to all the feedback we get from the Facebook community. If you have any more suggestions, we'd love to hear from you: http://on.fb.me/1RKLuqc. -Jordan"
+        }, 
+        {
+            "created_time": "2016-07-07T08:50:26+0000", 
+            "id": "10154436519856729_862820263862881", 
+            "message": "Im glad to see the new emoticons"
+        }, 
+        {
+            "created_time": "2016-07-07T15:59:02+0000", 
+            "id": "10154436519856729_1069810689776646", 
+            "message": "One more, Facebook... PLEASE bring back the purple flower. It is awesome. \ud83c\udf38"
+        }, 
+        {
+            "created_time": "2016-07-07T16:02:50+0000", 
+            "id": "10154436519856729_1190068121038260", 
+            "message": "Hey Michelle. This feature was something we created to help celebrate Mother's Day. If you\u2019d like to see something like this year round, you can let us know here: http://bit.ly/29lnc5D. -Colleen"
+        }, 
+        {
+            "created_time": "2016-07-07T16:03:39+0000", 
+            "id": "10154436519856729_639020889589844", 
+            "message": "We're glad to hear it, Lorence! -Colleen"
+        }, 
+        {
+            "created_time": "2016-07-07T16:11:06+0000", 
+            "id": "10154436519856729_1756629394584622", 
+            "message": "Thank you Ms. Colleen. I didn't know it was temporary. I was crushed when it was just gone. \ud83d\ude2f I gave feedback and the request to bring it back on it at the link you provided. Thank you!"
+        }
+    ]
+}

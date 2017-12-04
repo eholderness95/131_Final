@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2014-09-02T14:52:53+0000", 
+        "id": "10152991138526729_10153019009101729", 
+        "message": "Don't care for the huge \"floating\" ads that now appear to the right of my timeline.  I understand why ads are needed, but if they are too big, they really distract from the timeline.  Can't they at least be minimized or made smaller somehow?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 6
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-09-02T18:12:18+0000", 
+            "id": "10152991138526729_10153019386436729", 
+            "message": "Thanks for your feedback, Beverly! We'll take this back to our team, and if you have any more suggestions, let us know here: http://on.fb.me/1rL53F5 -Sarah"
+        }, 
+        {
+            "created_time": "2014-09-04T01:43:11+0000", 
+            "id": "10152991138526729_10153023379161729", 
+            "message": "I agree with this they are to big."
+        }, 
+        {
+            "created_time": "2014-09-04T07:42:48+0000", 
+            "id": "10152991138526729_10153023815301729", 
+            "message": "Yes they are 56% as wide as the wall... That's over the half of the Wall size and even worse, they are sticky to the scrolling..."
+        }, 
+        {
+            "created_time": "2014-09-04T12:48:44+0000", 
+            "id": "10152991138526729_10153024100971729", 
+            "message": "I have epilepsy, and the flashing ads at the top and bottom of games could cause me to have a seizure.  I would like to be able to play without fear.  I understand the ads are needed to keep facebook free, but couldn't they be placed at either the top OR the bottom, so I (and others) could play without fear of seizures?"
+        }
+    ]
+}

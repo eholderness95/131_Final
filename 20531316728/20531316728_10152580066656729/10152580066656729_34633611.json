@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2014-03-15T21:14:42+0000", 
+        "id": "10152580066656729_34633611", 
+        "message": "Takie opcj\u0119 Nie przeszkadza\u0107, Zaraz wracam, niewidoczny, czy niedost\u0119pny przyda\u0142by si\u0119 na FACE"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

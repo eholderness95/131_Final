@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2015-10-03T03:41:20+0000", 
+        "id": "10153102599140079_10153104587695079", 
+        "message": "Das ist die beste Werbung was ein Rapper f\u00fcr seine Fan Artikel machen kann klein schnell geil i love shady"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

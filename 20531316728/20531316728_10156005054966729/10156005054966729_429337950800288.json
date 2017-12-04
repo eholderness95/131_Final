@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-08-09T11:33:20+0000", 
+        "id": "10156005054966729_429337950800288", 
+        "message": "I have recently become the administrator of a Facebook site for a local not for profit organization. The original site for this group was set up by another individual, and it seems to be tied to his personal site. I believe the site should be tied to the non profit organization, not to one persons FB site. Can you help me with this?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-08-09T13:13:22+0000", 
+            "id": "10156005054966729_152170562028596", 
+            "message": "Hi Kathy. Are you looking to link a Group to a Page, or are you looking to remove an admin from a Page? Thanks! -Caitlin"
+        }
+    ]
+}

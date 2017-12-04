@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2017-08-02T10:17:52+0000", 
+        "id": "1905666806340189_1908024819437721", 
+        "message": "How does the Recovery and Reward trial system work? Is it like the refund per bottle, like that have in Adelaide, Australia?\n\nWhere would people bring the reovered bottles to?\n\nThis could be a great benefit to the community. Especially for homeless people who might have a way of earning a bit of income"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-08-02T16:48:00+0000", 
+            "id": "1905666806340189_1908151779425025", 
+            "message": "Hi Andrew, details of any trials still need to be finalised. From our experience in other countries, the consumer pays a small fee on top of the purchase price which is returned once the bottle or can is given back to retail outlets and supermarkets or civic sites."
+        }, 
+        {
+            "created_time": "2017-08-02T17:33:28+0000", 
+            "id": "1905666806340189_1908165699423633", 
+            "message": "Would this mean that Coca Cola  will be offering incentives to retail outlets and supermarkets in order to encourage them to take part? Or will it just distribute special bins that would collected every so often?\n\nIf a homeless person collected a few Coke bottles on the side of the road, could they bring it in to one of these retail outlets and get a reward? Or would they need proof of purchase?"
+        }, 
+        {
+            "created_time": "2017-08-14T10:40:04+0000", 
+            "id": "1905666806340189_1912506495656220", 
+            "message": "Germany implemented this in 2003, it's called the Pfandsystem and it works very well over there.  The buyer pays a deposit on the bottle and can get that back when returning the empty bottle to a supermarket, the impetus is put back on the drinks companies to make reuseable products, and dare I say the streets feel cleaner. http://liveworkgermany.com/2017/05/how-does-the-german-pfand-system-work-and-is-it-effective/"
+        }
+    ]
+}

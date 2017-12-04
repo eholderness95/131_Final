@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2011-02-11T17:48:17+0000", 
+        "id": "139735366090888_1078585", 
+        "message": "ANan\u0131z\u0131 sikeyim pi\u00e7ler T\u00fcm t\u00fcrkler anan\u0131z\u0131 isksin aq Gavurlar\u0131 :D"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-02-02T20:02:35+0000", 
+        "id": "10153398878696729_10153410817131729", 
+        "message": "thanks a lot  now i can communicate specifically and easily"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-02-02T20:36:16+0000", 
+            "id": "10153398878696729_10153410886776729", 
+            "message": "You're welcome, Omar! We're happy to hear the Facebook Groups app has been helpful. :) -Rose"
+        }
+    ]
+}

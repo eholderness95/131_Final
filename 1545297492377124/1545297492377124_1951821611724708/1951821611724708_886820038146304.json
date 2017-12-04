@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-11-19T01:11:57+0000", 
+        "id": "1951821611724708_886820038146304", 
+        "message": "I was just wondering if this sugar free Coke I keep hearing about will replace Coke Zero in the UK. Is it really more like Coke than the Coke Zero?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-11-20T11:54:00+0000", 
+            "id": "1951821611724708_147011472600135", 
+            "message": "Hi Danielle, Coke Zero is now known as Coca-Cola Zero Sugar. It has a new and improved recipe to taste more like Coca-Cola but without the sugar. Thanks"
+        }
+    ]
+}

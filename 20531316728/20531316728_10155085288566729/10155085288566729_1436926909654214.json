@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2016-10-28T11:35:30+0000", 
+        "id": "10155085288566729_1436926909654214", 
+        "message": "Dear Facebook: it doesn't feel quite appropriate to express empathy with a Sad Frankenstein emoji. \"...I'm so sorry your heart is broken, but YAY, Halloween!...\" Please don''t repeat this with sad turkeys and tearful santas. TY"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 6
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-10-28T16:34:06+0000", 
+            "id": "10155085288566729_1215702225161211", 
+            "message": "Hi Jen. We're sorry to hear that, but we appreciate your feedback. If you have any more suggestions on how we can improve, please let us know: http://bit.ly/2eZFMCz. -Elizabeth"
+        }
+    ]
+}

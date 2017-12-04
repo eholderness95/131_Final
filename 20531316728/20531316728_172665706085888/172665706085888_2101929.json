@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2010-11-18T22:21:35+0000", 
+        "id": "172665706085888_2101929", 
+        "message": "I've been having major issues with facebook for a couple of wks. now...can't \"like\" things unless I do it 2 or 3 times, lose all kinds of gifts, can't share more than one thing w/out going back to my homepage, do something totally different, then share something again.....it's ridiculous!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

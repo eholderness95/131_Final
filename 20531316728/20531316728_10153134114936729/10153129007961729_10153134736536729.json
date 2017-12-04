@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2014-10-20T15:31:50+0000", 
+        "id": "10153129007961729_10153134736536729", 
+        "message": "Can you fix the bug so I can see what people have commented on my statuses? Have logged out, logged in, and not made any changes to my privacy settings. Getting frustrated here."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 6
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-10-20T15:41:23+0000", 
+            "id": "10153129007961729_10153134756781729", 
+            "message": "Hey Melissa. We\u2019re sorry to hear that you\u2019re experiencing issues with viewing comments on your statues. Please help us track this issue by reporting it in our Help Center. http://on.fb.me/1wfLBzc -Sarah\n"
+        }, 
+        {
+            "created_time": "2014-10-20T20:15:33+0000", 
+            "id": "10153129007961729_10153135425436729", 
+            "message": "I'm having the same problem. I've posted in the help section, nobody has answered. I've been having this problem since May."
+        }
+    ]
+}

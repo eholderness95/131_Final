@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2013-09-07T19:00:02+0000", 
+        "id": "45309870078_10151604075000079", 
+        "message": "Check out the lyric video for #Berzerk...and don't forget to tune into the Michigan game at halftime to catch a sneak preview of the music video!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 65423
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

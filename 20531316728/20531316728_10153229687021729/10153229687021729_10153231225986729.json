@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2014-12-02T16:28:47+0000", 
+        "id": "10153229687021729_10153231225986729", 
+        "message": "for some reason I can not write to the group you please take a look at"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-12-02T16:55:12+0000", 
+            "id": "10153229687021729_10153231267926729", 
+            "message": "Hi Horv\u00e1th. There are a few reasons why you might not be able to post in a group. For more information, please visit our Help Center here: https://www.facebook.com/help/312392868815963. Hope this helps! -Hailey"
+        }
+    ]
+}

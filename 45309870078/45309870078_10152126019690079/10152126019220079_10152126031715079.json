@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2014-06-12T20:12:02+0000", 
+        "id": "10152126019220079_10152126031715079", 
+        "message": "who is your fave female actor ?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 5
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-06-13T22:16:15+0000", 
+            "id": "10152126019220079_10152128188935079", 
+            "message": "the hot ones"
+        }
+    ]
+}

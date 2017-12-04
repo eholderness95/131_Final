@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2012-08-14T19:04:58+0000", 
+        "id": "10151001512115079_7592861", 
+        "message": "beyler be\u011feninde yabanc\u0131lar \u00f6nemli bi\u015fey yazd\u0131m sans\u0131nlar :D"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-03-12T22:59:10+0000", 
+        "id": "10153480920681729_10153514077976729", 
+        "message": "Okay.  How do you get this feature or is Facebook just asking?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-03-16T00:43:32+0000", 
+            "id": "10153480920681729_10153521996641729", 
+            "message": "Hi Christina, great question! If we think you're in the affected area, you'll receive a notification from Facebook asking if you're OK. Sharing that you're in the affected area is optional and only your friends will see your safety status. Learn more:  http://on.fb.me/1wm6VFE. -Elisha"
+        }
+    ]
+}

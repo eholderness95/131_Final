@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-02-13T18:43:37+0000", 
+        "id": "10155484162461729_10154139284067181", 
+        "message": "Somehow, a second account was created for me using a different name.  How can I delete the false account without disrupting my original account?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-02-13T21:47:04+0000", 
+            "id": "10155484162461729_10154139641847181", 
+            "message": "Hi Joyce. You can learn how to remove or recover an old account you can't log into here: http://bit.ly/2ld4HJ5. Please keep in mind that it's against our Community Standards to maintain more than one personal account. -Jon"
+        }
+    ]
+}

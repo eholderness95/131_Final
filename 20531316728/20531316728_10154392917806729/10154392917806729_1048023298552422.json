@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2016-03-10T16:12:18+0000", 
+        "id": "10154392917806729_1048023298552422", 
+        "message": "how can I make sure the video uploaded through the facebook app gets posted as high definition? The quality I recorded in is HD but the final quality is horrible. None of my uploaded videos have the intended quality and are images barely recognizable with zero detail."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-03-10T20:27:26+0000", 
+            "id": "10154392917806729_555268631300854", 
+            "message": "Great question, Michael. You can find tips for uploading high quality videos to Facebook in our Help Center: http://on.fb.me/1LURGwx. Thanks for reaching out! -Anna"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2014-12-09T17:46:27+0000", 
+        "id": "10152477703840079_10152477707535079", 
+        "message": "come turkey bro"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-12-14T10:37:22+0000", 
+            "id": "10152477703840079_10152485435005079", 
+            "message": "o da seni dinlicekti kanka"
+        }, 
+        {
+            "created_time": "2014-12-14T10:46:33+0000", 
+            "id": "10152477703840079_10152485445005079", 
+            "message": "dinlemez mi kanka :D"
+        }, 
+        {
+            "created_time": "2014-12-14T10:47:17+0000", 
+            "id": "10152477703840079_10152485445590079", 
+            "message": "Amk \u00f6yle olsayd\u0131 adam 10000 kere d\u00fcnya turu yapm\u0131\u015ft\u0131"
+        }, 
+        {
+            "created_time": "2014-12-14T10:48:21+0000", 
+            "id": "10152477703840079_10152485446455079", 
+            "message": "olum dalgas\u0131na diyom zaten aq :D"
+        }
+    ]
+}

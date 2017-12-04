@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-01-17T20:54:18+0000", 
+        "id": "10155008726816729_1247197261984649", 
+        "message": "This video is awesome and so cute! Thank you for all @facebook Hello from Romania!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-01-17T20:55:05+0000", 
+            "id": "10155008726816729_1223213561102078", 
+            "message": "You're very welcome, Alexandra! Thanks for being part of our community. -Hannah"
+        }
+    ]
+}

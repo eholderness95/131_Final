@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2015-12-10T23:27:58+0000", 
+        "id": "10154244454516729_10154247235231729", 
+        "message": "I just got a message from a Jennifer L Turner saying she works for Facebook and that I was picked as a winner of a Facebook promo draw.  her fb page says she is facebook online promo claim agent and that I won some money from the drawing and is asking me for my name, address, phone number and email address.  I am assuming this is a hoax.  is that correct?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-12-10T23:31:18+0000", 
+            "id": "10154244454516729_10154247239121729", 
+            "message": "Hey Carol. We recommend that you do not provide any personal or financial information to the sender and report the spam to us by following these steps: http://on.fb.me/1U9HArv. Thanks for helping us keep Facebook a safe place! -Abby"
+        }, 
+        {
+            "created_time": "2015-12-10T23:32:55+0000", 
+            "id": "10154244454516729_503397819842688", 
+            "message": "she sent me Mark's email address to confirm that I won Markzuckerberg470@outlook.com  is this his email or is this a hoax"
+        }, 
+        {
+            "created_time": "2015-12-11T14:53:32+0000", 
+            "id": "10154244454516729_10154248640096729", 
+            "message": "I reported this as you said but the options were limited and you reviewed and didn't inactivate her account. She is sending pm to people saying they won money in fb promo draws so I am reporting it to you here because several people I know got pm from her"
+        }
+    ]
+}

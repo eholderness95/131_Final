@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2011-03-11T20:55:12+0000", 
+        "id": "10150172702486729_4765653", 
+        "message": "Breaking News\n\nA Tsunami warning is in effect for the entire Pacific Coast after a major eathquake hits off the coast of Japan.\n\nWaves between 6 feet and nearly 8 feet is in effect from Seaside to the north to Crescent City to the south.\n\nOfficials say do NOT go to the coast to see the waves.\n\nSeek higher ground and evacuate if at all possible.\n\nThe first wave is scheduled to hit around 6:15.\n\nCrescent City is expecting a wave greater than 7 feet."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

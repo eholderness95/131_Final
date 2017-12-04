@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-11-15T17:10:48+0000", 
+        "id": "10156725574856729_1289296517882806", 
+        "message": "My ticker disappeared, it's not hidden, there is no option to hide/unhide it anymore, no arrow, no nothing.  Help."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-11-16T19:55:05+0000", 
+            "id": "10156725574856729_147724329285761", 
+            "message": "Hi Debbi. Ticker only shows up when there's a certain amount of activity from the people or Pages you're connected with. You can learn more about the Ticker in our Help Center: http://bit.ly/2zIlwTO. - Mollie"
+        }, 
+        {
+            "created_time": "2017-11-16T22:12:21+0000", 
+            "id": "10156725574856729_437984299930298", 
+            "message": "I have plenty of activity between my friends and pages, that is not the issue, I've read the help.pages and the questions from others with no resolution."
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2015-09-27T00:44:19+0000", 
+        "id": "10154090187691729_10154090457611729", 
+        "message": "Telling it like it is!  Yea Facebook!  You guys Rock!  Wish there was a way to make this really happen! It would be great no doubt!!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 16
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-09-27T01:23:12+0000", 
+            "id": "10154090187691729_10154090513891729", 
+            "message": "Thank you for the comment and the kind words, Sherrill! Check out our Internet.org initiative to find out about our efforts to bring the internet into more homes across the world: https://internet.org/about -Ovidio"
+        }, 
+        {
+            "created_time": "2015-10-11T07:49:26+0000", 
+            "id": "10154090187691729_10154120163561729", 
+            "message": "\u0647\u063a\u0628\u0633\u0649\u062a\u0638\u062a\u064a\u0628"
+        }, 
+        {
+            "created_time": "2016-01-07T15:01:50+0000", 
+            "id": "10154090187691729_545774488921234", 
+            "message": "That is a really weird thing to say!!     >tip hop topsy"
+        }
+    ]
+}

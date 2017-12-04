@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2014-10-14T17:43:59+0000", 
+        "id": "10152373715990079_10152374023200079", 
+        "message": "Premi\u00e4r i Sons of anarchy. Tyckte den var bra Tim Ingvarsson"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-10-14T18:18:43+0000", 
+            "id": "10152373715990079_10152374083910079", 
+            "message": "H\u00f6rde den p\u00e5 radion. Sen kollade jag upp den p\u00e5 spotify. L\u00e4t b\u00e4ttre sj\u00e4lv i bilen \u00e4n vid matbordet med familjen. Jag gillart\ud83d\ude0a"
+        }
+    ]
+}

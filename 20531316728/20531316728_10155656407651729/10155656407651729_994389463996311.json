@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-03-30T00:35:05+0000", 
+        "id": "10155656407651729_994389463996311", 
+        "message": "Please make it so we can turn some of this stuff off. Stories for example clutters up the app a lot. I don't want any of this."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-03-30T15:58:41+0000", 
+            "id": "10155656407651729_609583445898911", 
+            "message": "Thanks for reaching out, Brian. You will be able to swipe away away when you don't want to use it or flip through Stories that friends have shared and continue browsing your News Feed like you've done before. However, people won't be able to remove it from the app. -Jon"
+        }
+    ]
+}

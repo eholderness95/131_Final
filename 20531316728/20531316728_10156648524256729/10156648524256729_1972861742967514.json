@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-11-03T18:09:30+0000", 
+        "id": "10156648524256729_1972861742967514", 
+        "message": "What is going on with facebook? I am unable to see all comments on posts that I had previously commented on in some groups. If this is a glitch that face book is aware of and can fix please correct."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-11-03T18:17:22+0000", 
+            "id": "10156648524256729_1892592604403284", 
+            "message": "Hi Candy. Can you please report what you're experiencing in our Help Center: http://bit.ly/2lMT3GE? Thanks! -Stephanie"
+        }
+    ]
+}

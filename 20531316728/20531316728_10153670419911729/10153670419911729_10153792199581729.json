@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-06-10T02:50:48+0000", 
+        "id": "10153670419911729_10153792199581729", 
+        "message": "Facebook, do you have \"give always\" each Tuesday or is it a spam?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-06-10T15:36:48+0000", 
+            "id": "10153670419911729_10153793355161729", 
+            "message": "This sounds like a spam message. Please report this message as spam by going to the conversation, opening the Actions menu and selecting 'Report as Spam or Abuse'. Thank you for checking in with us and taking the time to keep Facebook a safe and welcoming environment. -Sidney"
+        }
+    ]
+}

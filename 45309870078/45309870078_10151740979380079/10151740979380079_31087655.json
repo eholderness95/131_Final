@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2013-11-15T21:59:20+0000", 
+        "id": "10151740979380079_31087655", 
+        "message": "emineme ba man se ti repa hajmo ba na cevape"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2013-11-15T22:02:45+0000", 
+            "id": "10151740979380079_31087807", 
+            "message": "bravo kralju"
+        }
+    ]
+}

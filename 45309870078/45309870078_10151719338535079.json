@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2013-11-06T21:53:07+0000", 
+        "id": "45309870078_10151719338535079", 
+        "message": "Honored to be on the alternate cover for Marvel's Mighty Avengers #3 with Iron Man! In stores today."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 306434
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 28
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 5
+            }
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2015-02-20T17:00:32+0000", 
+        "id": "10153431146086729_10153456021071729", 
+        "message": "I don't need any ads at all.  Guess I can't arrange that, huh?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 14
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-02-20T17:06:18+0000", 
+            "id": "10153431146086729_10153456032231729", 
+            "message": "Hey Debby. If you don't want to see a specific ad, you can click the X on the top right corner of the ad and choose hide. This will ensure that you no longer see this ad. You can't block Facebook ads entirely. Ads help keep Facebook free and we strive to only show ads that are relevant and interesting to you. -Chantal"
+        }, 
+        {
+            "created_time": "2015-02-20T19:08:02+0000", 
+            "id": "10153431146086729_10153456323291729", 
+            "message": "Hi Debbie. I understand not wanting ads. But I've been using that \"x\" choice a lot over time. And now the ads I see often are ones that I actually am interested in. As long as I buy products and services in this life, I'm going to keep my eyes open for choices in which to purchase them. Ads tend to help in this process. \nI do however hope that the space they take up on my page stay on one side and don't keep getting wider. I really don't like them in my news feeds!"
+        }
+    ]
+}

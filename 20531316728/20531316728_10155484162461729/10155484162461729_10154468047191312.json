@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-02-13T21:06:12+0000", 
+        "id": "10155484162461729_10154468047191312", 
+        "message": "I wish we could have control of our newsfeed filter.\n\nI prefer to scroll my newsfeed with the most recent posts first and then scroll down to the post I saw during my last time using FB, but with the available filters, I have to choose Most Recent to do that, and choosing Most Recent only provides some of my friends' posts.\n\nfor a while, I thought maybe it was because I sometimes choose not to see the posts of a friend's friend, so maybe it's those posts I asked to not be on my newsfeed that I wasn't seeing.\n\nbut nope .  even status messages that my friends compose direct to their timeline ... when I choose Top Stories, I can see them (in random order that FB chooses), but choosing Most Recent doesn't reveal them.\n\nI loved FB best when we could choose to filter by type of post.\n\nI'd choose status message first and read how my friends were doing\n\nthen I'd choose photos and see what images my friends are sharing.\n\nthen, I'd make use of the other filters too.\n\nif you ever think about bringing those filter options back... PLEASE DO IT!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-02-13T22:03:40+0000", 
+            "id": "10155484162461729_10154468161771312", 
+            "message": "Thanks for reaching out to us. We've invested a lot to understand how News Feed can show the most engaging content to the majority of people. Top Stories is the result of our findings, which is why it is the default. We know that some people prefer the Most Recent view, so we've kept this option available. If you have specific thoughts you want to share, please let us know here: http://bit.ly/2kqeLdv. -Joe"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2015-06-05T18:14:04+0000", 
+        "id": "10153670419911729_10153781120456729", 
+        "message": "Don't know what you did to alter Facebook recently, but I really hate the new changes.."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 11
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-06-05T18:48:02+0000", 
+            "id": "10153670419911729_10153781279486729", 
+            "message": "We\u2019re sorry to hear that, Bernie. We\u2019re working hard to ensure that our updates improve everyone\u2019s Facebook experience. Let us know what would make your experience more enjoyable at our feedback page: http://on.fb.me/1MtoBEe. Hope you have a great day! -Lauren"
+        }, 
+        {
+            "created_time": "2015-06-06T20:33:09+0000", 
+            "id": "10153670419911729_10153783792366729", 
+            "message": "Me too ! I HATE the game ads popping up on my news feed !!"
+        }, 
+        {
+            "created_time": "2015-06-06T21:00:38+0000", 
+            "id": "10153670419911729_10153783840521729", 
+            "message": "why do u keep changing my news feed preference from top stories instead of most recent? leave my settings alone. I don't want top stories I want most recent to be my preference."
+        }
+    ]
+}

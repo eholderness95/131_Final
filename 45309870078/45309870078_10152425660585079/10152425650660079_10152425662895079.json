@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2014-11-10T21:49:22+0000", 
+        "id": "10152425650660079_10152425662895079", 
+        "message": "delirdim anan\u0131z\u0131 sikiyim delirdim"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-11-10T21:51:49+0000", 
+            "id": "10152425650660079_10152425671045079", 
+            "message": "zenmate indir ayarlardan sa\u011f \u00fcstten amerikaya al"
+        }, 
+        {
+            "created_time": "2014-11-10T21:51:59+0000", 
+            "id": "10152425650660079_10152425671460079", 
+            "message": "ben \u00f6yle izliyorum zar zor ilerliyo 20 dk"
+        }, 
+        {
+            "created_time": "2014-11-10T22:12:53+0000", 
+            "id": "10152425650660079_10152425717500079", 
+            "message": "hotspot indir freenin keyfini \u00e7\u0131kar"
+        }, 
+        {
+            "created_time": "2014-11-10T22:16:24+0000", 
+            "id": "10152425650660079_10152425724720079", 
+            "message": "https://www.youtube.com/watch?v=bziPrnhdwPM"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2015-01-12T20:22:45+0000", 
+        "id": "10153355445876729_10153362324396729", 
+        "message": "Is there a setting to not allow tagging at all?..There used to be, but I can't find it. I do not like tagging..It feels like a surprise attack.."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 6
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-01-12T20:49:45+0000", 
+            "id": "10153355445876729_10153362372401729", 
+            "message": "Hi Sandra. You can actually dismiss or approve tags from other people using these tips from our Help Center: http://on.fb.me/1y5iqTP. We hope that helps! -Rose"
+        }, 
+        {
+            "created_time": "2015-01-12T22:11:17+0000", 
+            "id": "10153355445876729_10153362535216729", 
+            "message": "Reviewing tags is a serious pain. I'd prefer to be able to block others from tagging me in the first place.\n\nIdeally, I could either selectively block individuals from being able to tag me (like, say, my brother who keeps tagging me in 30 pictures a day, despite multiple requests to stop), or block anyone from tagging me at all.\n\nAs it stands, either I have to unfriend/block someone, or sift through dozens of tags per day. Neither is a palatable option."
+        }
+    ]
+}

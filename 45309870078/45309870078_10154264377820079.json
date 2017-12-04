@@ -1,0 +1,20 @@
+{
+    "data": {
+        "error": {
+            "code": 4, 
+            "fbtrace_id": "Dzt9h7kYZrY", 
+            "is_transient": true, 
+            "message": "(#4) Application request limit reached", 
+            "type": "OAuthException"
+        }
+    }, 
+    "reactions": {
+        "error": {
+            "code": 4, 
+            "fbtrace_id": "D2IrwyLYzTj", 
+            "is_transient": true, 
+            "message": "(#4) Application request limit reached", 
+            "type": "OAuthException"
+        }
+    }
+}

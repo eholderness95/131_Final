@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-06-08T19:46:19+0000", 
+        "id": "10155849356871729_870881423066582", 
+        "message": "Hi,   I am CEO of media company, you have disabled fb account of my  co-worker,  how has enable ads on page.  Now  as I see from page statistics ads account work, but she can't login,  because you have disable her account."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-06-08T20:59:45+0000", 
+            "id": "10155849356871729_115101039086357", 
+            "message": "Hi Taron. Here are possible reasons why your co-worker's account may have been disabled: http://bit.ly/2sjYNtP. If your co-worker believes that it was disabled by mistake, they can submit an appeal in the link above. Thanks. -Jessica"
+        }, 
+        {
+            "created_time": "2017-06-08T21:12:46+0000", 
+            "id": "10155849356871729_137523793477736", 
+            "message": "Thanks for answer, we have appeal 10 more times, but  without  results. So, now in this account work ads manager and we  can't  disable it,  because you  have disable account."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2013-06-26T17:49:43+0000", 
+        "id": "10151984153576729_12228169", 
+        "message": "Wow Facebook ... One of the most ignorant comments I have seen!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 27
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2013-06-26T17:54:10+0000", 
+            "id": "10151984153576729_12228366", 
+            "message": "you're talking about your own comment, right?"
+        }, 
+        {
+            "created_time": "2013-06-26T18:34:38+0000", 
+            "id": "10151984153576729_12229566", 
+            "message": "lol hats of to u!! ^ haha"
+        }
+    ]
+}

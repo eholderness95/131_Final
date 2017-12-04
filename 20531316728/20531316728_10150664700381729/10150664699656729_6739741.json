@@ -1,0 +1,50 @@
+{
+    "data": {
+        "created_time": "2011-11-09T00:14:36+0000", 
+        "from": {
+            "id": "10213117313800576", 
+            "name": "Ahmet Ko\u00e7"
+        }, 
+        "id": "10150664699656729_6739741", 
+        "message": "tipe bak ya :D"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

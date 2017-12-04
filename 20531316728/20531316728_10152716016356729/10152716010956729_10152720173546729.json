@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2014-05-04T22:56:38+0000", 
+        "id": "10152716010956729_10152720173546729", 
+        "message": "Dear Facebook, Please return to just showing my friends posts -- not other people's post that my friends liked or shared or commented on.  I am now seeing more posts from people that I don't know, than I am seeing of my own friends!!!!!  Thank you!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 9
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

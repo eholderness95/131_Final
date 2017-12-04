@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2011-07-14T16:47:24+0000", 
+        "id": "20531316728_221504961224958", 
+        "message": "Discovering music with your friends just got easier. Spotify, now available in the US, uses Facebook features to help you find great new music. Check it out: http://www.spotify.com"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 12144
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

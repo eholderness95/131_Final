@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2011-04-21T01:09:42+0000", 
+        "id": "20531316728_196547783720930", 
+        "message": "Story of the Week: When disastrous floods hit Australia, the Queensland Police Service paused its press release protocol and adopted Facebook as a one-stop shop for news and live updates."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 9318
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

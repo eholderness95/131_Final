@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2014-12-04T15:40:05+0000", 
+        "id": "10153229687021729_10153234976006729", 
+        "message": "The untag does not remove the photo from FB. Just from your wall right?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 5
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-12-04T17:25:13+0000", 
+            "id": "10153229687021729_10153235136876729", 
+            "message": "That's a great question, Kathy. That is correct. Removed tags will no longer appear on the post or photo, but the post or photo is still visible to the audience it's shared with. People may be able to view the post or photo in places like News Feed or search results. To fully remove it from Facebook, ask the person who posted it to take it down. -Sarah"
+        }, 
+        {
+            "created_time": "2015-09-14T18:53:38+0000", 
+            "id": "10153229687021729_10154058263891729", 
+            "message": "Facebook how come i can't see who's following me? :)"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2016-04-16T14:37:55+0000", 
+        "id": "10154577326771729_10154584785631729", 
+        "message": "I'm writting already everywhere, cause I do not want to pay MY MONEY TO ANYBODY. I really hope that you 24/7 assistance."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

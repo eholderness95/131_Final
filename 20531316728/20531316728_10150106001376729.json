@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2010-11-22T23:19:00+0000", 
+        "id": "20531316728_10150106001376729", 
+        "message": "Huge thanks to David Beckham for lending support to Facebook's anti-bullying efforts. Check out his Page to see his shout-out to Facebook Safety."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 21453
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2010-10-06T17:03:49+0000", 
+        "id": "20531316728_159678727394210", 
+        "message": "Tune in to Facebook Live at 10:30 am PDT today to watch a live launch event from our headquarters with Mark Zuckerberg and other company leaders: http://apps.facebook.com/facebooklive/"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 570
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

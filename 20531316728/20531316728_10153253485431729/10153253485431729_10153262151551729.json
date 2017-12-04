@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2014-12-15T19:02:11+0000", 
+        "id": "10153253485431729_10153262151551729", 
+        "message": "Hi Facebook.  The help center has no help for me on this...perhaps you can assist me.  Months ago I stopped getting any notification in my email for the posts that I have responded to, or posts I make, or anything.  I have already cleared my cache, checked my spam folder, checked my blocked list at my email account, and no luck.  I have posted this in help 4 times over the last 3 months, with no response....well, there might have been a response, but how could I tell,  since I don't get notifications.  I am almost to the point of just  giving up and deactivating my facebook account, as it is so very frustrating to me.  Any ideas?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-12-15T20:55:33+0000", 
+            "id": "10153253485431729_10153262355011729", 
+            "message": "Hi Lori. If you've already tried all of our trouble shooting tips (https://www.facebook.com/help/202744123101612) and haven't had any luck, please let us know here: https://www.facebook.com/help/contact/156923807754889 Hope this helps! -Hailey"
+        }, 
+        {
+            "created_time": "2014-12-15T22:02:50+0000", 
+            "id": "10153253485431729_10153262481921729", 
+            "message": "I have \"let you know here\" about 5-6 times since August, with absolutely no response. Thankfully I kept the post that I made on my page with the link to this page right at the top by not posting,  so that I could find this one again, otherwise I wouldn't have known you responded."
+        }, 
+        {
+            "created_time": "2014-12-16T14:32:33+0000", 
+            "id": "10153253485431729_10153263781746729", 
+            "message": "I have tried everything you have suggested.  No luck.  Any other suggestions?"
+        }
+    ]
+}

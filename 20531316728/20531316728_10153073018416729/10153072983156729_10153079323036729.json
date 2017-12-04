@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2014-09-29T17:04:56+0000", 
+        "id": "10153072983156729_10153079323036729", 
+        "message": "Hi Facebook I was wondering why things on my timeline disappear when I go to look at them. Can you help? Thanks."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-09-29T18:33:15+0000", 
+            "id": "10153072983156729_10153079497381729", 
+            "message": "Thanks for your question, Mary. The News Feed algorithm responds to signals from you, including how often you interact with a friend, the number of likes, shares and comments a post receives, and how much you have interacted with this type of post in the past. You can use News Feed controls to adjust what you see in News Feed. Learn how at: http://on.fb.me/1oHTnjo. If you have any suggestions on how we can improve your experience, please let us know at: http://on.fb.me/1rmVirO. -Chantal"
+        }, 
+        {
+            "created_time": "2014-09-29T18:48:41+0000", 
+            "id": "10153072983156729_10153079543951729", 
+            "message": "Actually it is not the the news feed but my Mary Lou de george kelley page that disappears when I check it ."
+        }
+    ]
+}

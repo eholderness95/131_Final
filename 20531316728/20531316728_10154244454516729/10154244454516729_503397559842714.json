@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-12-10T23:30:52+0000", 
+        "id": "10154244454516729_503397559842714", 
+        "message": "Thanks facebook! Good to know! :)"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-12-11T15:56:05+0000", 
+            "id": "10154244454516729_10154248736546729", 
+            "message": "We're glad we could clear things up, Jeannie. Let us know if there's anything else we can you help with. -Jordan"
+        }
+    ]
+}

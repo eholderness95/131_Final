@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-02-01T20:32:39+0000", 
+        "id": "10154980190256729_10155800714628242", 
+        "message": "Can we fix the Android app please? This glitch of getting notifications and not being able to see them unless I force the app to stop and reopen it every time is annoying. And speaking of news feed. I want to see the most recent posts instead of what you guys think I want to see"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-02-01T20:46:45+0000", 
+            "id": "10154980190256729_10153679236453078", 
+            "message": "Hi Teri. If you continue to experience this after uninstalling and reinstalling your app, please report it to us by following these instructions: http://bit.ly/2kTw603. -Joe"
+        }, 
+        {
+            "created_time": "2017-02-01T21:56:24+0000", 
+            "id": "10154980190256729_10154303658316188", 
+            "message": "Thank you Joe. Doing this right now. I have uninstalled and reinstalled several times already. Very frustrating"
+        }
+    ]
+}

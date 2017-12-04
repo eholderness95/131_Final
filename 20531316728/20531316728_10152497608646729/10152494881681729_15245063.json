@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2014-01-29T21:48:45+0000", 
+        "id": "10152494881681729_15245063", 
+        "message": "how do you join a group?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 25
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-01-29T22:24:57+0000", 
+            "id": "10152494881681729_15245858", 
+            "message": "Thanks for the question, Stella. Go to the group you want to be part of and then click Join Group in the top-right corner. You can also join any Open group that you see on the About page of someone's Timeline by clicking Join. Learn more at: http://on.fb.me/1dORsPu  -Ryan"
+        }, 
+        {
+            "created_time": "2014-03-08T08:50:11+0000", 
+            "id": "10152494881681729_15909669", 
+            "message": "Helo"
+        }, 
+        {
+            "created_time": "2014-03-22T23:14:35+0000", 
+            "id": "10152494881681729_16176203", 
+            "message": "Slm "
+        }
+    ]
+}

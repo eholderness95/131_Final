@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2017-05-16T21:30:41+0000", 
+        "id": "10155808955746729_1204305626358202", 
+        "message": "Oh, hey, are we doing support here? Can someone help me with something?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-05-16T21:34:14+0000", 
+            "id": "10155808955746729_1471223976267851", 
+            "message": "Hi Alina. This is a great place to ask questions. How can we help? -William"
+        }, 
+        {
+            "created_time": "2017-05-16T21:37:33+0000", 
+            "id": "10155808955746729_1510668195659942", 
+            "message": "Cool! Hi Will, okay so I have two different groups right? One as part of the various groups within my university. It's searchable within that which is nice, it has maybe 50 people in it. I also have another group that's public and open, which has maybe 300 people in it. The issue is, they're for the same club and it's prone to fragmentation / confusion, is there some way I can merge the two?"
+        }, 
+        {
+            "created_time": "2017-05-16T21:46:10+0000", 
+            "id": "10155808955746729_1510673238992771", 
+            "message": "Hi Alina. It's currently not possible to merge two groups. I'd recommend notifying everyone in the group you want to stop using that you'll be using the other group going forward. I would also suggest providing your feedback to the groups product team through this form: http://bit.ly/2qpMjPF. Hope that helps! -William"
+        }, 
+        {
+            "created_time": "2017-05-16T21:47:44+0000", 
+            "id": "10155808955746729_1510674495659312", 
+            "message": "Facebook Alright, related to that, is it possible to link a university-based group to a public page? I noticed it worked with the public group perfectly fine but does it for the Uni one too?"
+        }
+    ]
+}

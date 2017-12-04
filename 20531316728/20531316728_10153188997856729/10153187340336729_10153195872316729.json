@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2014-11-16T17:19:00+0000", 
+        "id": "10153187340336729_10153195872316729", 
+        "message": "How do you stop sharing likes from appearing in the news feed? I don't like that post I like show up in my friends news feed like I posted/shared them. I also don't want to to see what my friends like and it showing up like a post/share. A like is a like...not a post or a share so why is it being put on our friends newsfeed \ud83d\ude20"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-11-16T17:58:49+0000", 
+            "id": "10153187340336729_10153195952331729", 
+            "message": "Exactly. I be liking big booty girl pix and my mom calls me and says....I hope your not going that way lmao. I had to tell her I was going to block her lol"
+        }, 
+        {
+            "created_time": "2014-11-16T17:59:13+0000", 
+            "id": "10153187340336729_10153195952851729", 
+            "message": "Facebook needs to fix this asap"
+        }, 
+        {
+            "created_time": "2014-11-16T18:19:07+0000", 
+            "id": "10153187340336729_10153195997111729", 
+            "message": "I put more thought in something I post up or share...not so much in something I like."
+        }
+    ]
+}

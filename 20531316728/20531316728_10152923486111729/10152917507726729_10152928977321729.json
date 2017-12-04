@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2014-07-30T17:18:39+0000", 
+        "id": "10152917507726729_10152928977321729", 
+        "message": "Hi Facebook. I am having trouble with the Cover Photo Reposition feature which isn't working properly. I go to reposition the cover photo on my page here but when I reload, the image keeps loading from the top of the image. Cover Photo reposition was working for a day or two but it seems to not load from the saved reposition position. Can you doublecheck my page to see if it is working properly? It would be awesome if you guys would like to help sponsor my cause too if you'd like. I will be walking across America from New York to Los Angeles to help raise further awareness on the issue of bullying around October 1st. Thanks https://www.facebook.com/JDswalkacrossamerica?ref=hl&ref_type=bookmark"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 8
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-07-30T22:42:09+0000", 
+            "id": "10152917507726729_10152929625861729", 
+            "message": "Hi JD. We're happy to answer your question. You may consider adjusting your photo to the recommended dimensions. If an image is smaller than the dimensions it will be stretched. Learn more at: http://on.fb.me/1s5jrF1"
+        }, 
+        {
+            "created_time": "2014-09-14T14:09:47+0000", 
+            "id": "10152917507726729_10153046885246729", 
+            "message": "TY U HALF A SLEEP"
+        }
+    ]
+}

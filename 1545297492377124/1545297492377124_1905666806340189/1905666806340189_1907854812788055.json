@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-08-01T21:46:57+0000", 
+        "id": "1905666806340189_1907854812788055", 
+        "message": "Why are your bottles not made from recycled plastic ?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-08-03T08:22:54+0000", 
+            "id": "1905666806340189_1908411226065747", 
+            "message": "Hi Amy, currently we use 25% recycled plastic and have committed to doubling the amount to 50%  by 2020. We\u2019d like to use more but there\u2019s not enough recycled plastic in the UK at the moment, we need more bottles to be recycled. This is why as part of our strategy we will be seeking reform of the recycling system in the UK to improve recovery and recycling rates. For more, read here: http://spr.ly/61818QBR9"
+        }
+    ]
+}

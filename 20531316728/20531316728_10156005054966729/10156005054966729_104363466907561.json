@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-07-20T18:54:09+0000", 
+        "id": "10156005054966729_104363466907561", 
+        "message": "Where are the Facebook Settings? The top right corner has drop down for my pages, but no settings anymore."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-07-20T19:00:12+0000", 
+            "id": "10156005054966729_1946153175641953", 
+            "message": "Hi Cyndi. You can follow these steps to find your settings: http://bit.ly/2vojovu. Hope that helps! -William"
+        }, 
+        {
+            "created_time": "2017-07-20T19:02:05+0000", 
+            "id": "10156005054966729_104365996907308", 
+            "message": "That's the old method. That spot doesn't have Settings in the drop down anymore."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2017-11-17T19:51:19+0000", 
+        "id": "10156746971476729_10156755370986729", 
+        "message": "Hi Facebook, I would really like to reinstate the ticker on my page.  It has been gone for over a week or so now and there is no longer a hide/show ticker button or option anywhere.  Other people I know still have their ticker.  Is this related to my browser or something else?  Please advise.  Thanks."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

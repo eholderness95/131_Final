@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-11-16T02:38:12+0000", 
+        "id": "10156746728201729_10156747352256729", 
+        "message": "ENCOURAGEMENT!!!  As a college counselor, all many students needed to succeed was a little encouragement!  And yes, I respected the maintenance staff the same as administration and faculty!!!  After all, everyone is equal in God's sight!!!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 15
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-11-16T07:55:59+0000", 
+            "id": "10156746728201729_1973581086236234", 
+            "message": "Yes!So true!"
+        }, 
+        {
+            "created_time": "2017-11-16T13:38:16+0000", 
+            "id": "10156746728201729_133165750719018", 
+            "message": "Agreed, Mary!"
+        }
+    ]
+}

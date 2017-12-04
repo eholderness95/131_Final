@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2011-03-10T15:51:27+0000", 
+        "id": "20531316728_10150171593346729", 
+        "message": "We're taking more steps to help you stay safe online. Learn more in an announcement on the Facebook Safety page at http://on.fb.me/i2NhVu, and join a discussion on the topic on Facebook Live from the White House at 12:20 pm EST today at http://on.fb.me/fIBanj."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 12567
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

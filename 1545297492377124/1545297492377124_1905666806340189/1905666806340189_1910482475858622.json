@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-08-08T20:01:03+0000", 
+        "id": "1905666806340189_1910482475858622", 
+        "message": "Are the bottle caps recyclable?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-08-09T09:42:00+0000", 
+            "id": "1905666806340189_1910651259175077", 
+            "message": "Hi Stephanie, 100% of our packaging is 100% recyclable. We\u2019ve spent many years ensuring all of our drinks packaging is fully recyclable, from our lids to the type of glue we use to stick on the labels and the colour of PET plastic."
+        }
+    ]
+}

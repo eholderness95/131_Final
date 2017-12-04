@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2015-10-04T05:01:43+0000", 
+        "id": "10154090187691729_10154106330836729", 
+        "message": "Because Internet is a great EQUALIZER just as Facebook is!!!\nIt creates no boundaries between the marginalized and the economically developed."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

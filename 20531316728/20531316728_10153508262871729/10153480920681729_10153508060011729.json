@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2015-03-10T18:20:43+0000", 
+        "id": "10153480920681729_10153508060011729", 
+        "message": "Have to learn how to put this app on my phone"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-03-10T18:58:42+0000", 
+            "id": "10153480920681729_10153508124676729", 
+            "message": "Hello Howard. Safety Check is not an app, but rather a website that can be accessed here: https://www.facebook.com/about/safetycheck/. To learn more about this tool, visit: http://on.fb.me/1wm6VFE. -Rose"
+        }, 
+        {
+            "created_time": "2015-03-10T20:34:02+0000", 
+            "id": "10153480920681729_10153508343991729", 
+            "message": "Como lo descargo \u00bf"
+        }, 
+        {
+            "created_time": "2015-03-10T23:25:48+0000", 
+            "id": "10153480920681729_10153508673046729", 
+            "message": "Doesn't work"
+        }, 
+        {
+            "created_time": "2015-03-12T00:57:41+0000", 
+            "id": "10153480920681729_10153511789511729", 
+            "message": "The links fb is providing just explain what the service does. You don't have to do anything or download anything. If you are in the area of a disaster, Facebook will notify you and give you instructions on how to proceed from there. YOU don't have to activate anything :) Facebook will decide when/who this applies to as the natural disasters etc happen and you'll be notified if you are in the affected area."
+        }
+    ]
+}

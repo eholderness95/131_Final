@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2016-03-02T18:42:58+0000", 
+        "id": "10154436519856729_500724133463840", 
+        "message": "Hi Facebook,\nI've just been contacted through a Facebook claims agent who told me that I've just won $600,000 dollars in a new Facebook lottery. Please confirm whether this is true or not. The gentleman\u2019s name who contacted me is: Phillips Lonnie Paul\nThank you,\nJames Renguette"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 6
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-03-02T19:17:35+0000", 
+            "id": "10154436519856729_1688542418087060", 
+            "message": "Thanks for your question, James. It sounds like you've received a spam message. We recommend that you not provide any personal or financial information to the sender. Additionally, please report this message as spam by following these steps listed in our Help Center: http://on.fb.me/1Qsj7Oh. -Anna"
+        }, 
+        {
+            "created_time": "2016-03-02T19:19:01+0000", 
+            "id": "10154436519856729_433947493461423", 
+            "message": "Thank you! You folks are excellent (and so is Facebook)! Jim"
+        }
+    ]
+}

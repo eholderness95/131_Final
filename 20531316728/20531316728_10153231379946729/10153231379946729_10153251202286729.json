@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2014-12-11T02:47:44+0000", 
+        "id": "10153231379946729_10153251202286729", 
+        "message": "I can no longer share with just one friend. Why did you do away with this feature?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 12
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-12-12T19:20:21+0000", 
+            "id": "10153231379946729_10153255602141729", 
+            "message": "Hey Risa. This sounds like a bug. Can you please help us track these issues and submit the problem to support through our Help Center? http://on.fb.me/18dEFaD -Sarah"
+        }, 
+        {
+            "created_time": "2014-12-12T19:33:38+0000", 
+            "id": "10153231379946729_10153255624146729", 
+            "message": "it is working"
+        }, 
+        {
+            "created_time": "2014-12-13T16:03:42+0000", 
+            "id": "10153231379946729_10153257247351729", 
+            "message": "I have the same problem. Now it makes me she with friends \"except\"...and I have to check everyone except the one person I want to share it with. It's suddenly backwards"
+        }, 
+        {
+            "created_time": "2017-09-30T13:48:39+0000", 
+            "id": "10153231379946729_910395909129721", 
+            "message": "Please help me\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22"
+        }
+    ]
+}

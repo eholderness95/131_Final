@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-10-04T16:50:30+0000", 
+        "id": "10156384500276729_1875884839407530", 
+        "message": "Dear Facebook, my wife received an email from FB support that her account's password has been reset, which she didn't do. Naturally, she followed the Secure Account link. After following and answering the questionnaires, she was asked to set up a new password but upon submitting, this http error 500 appears. She tried on IE and Firefox and deleting her cache but still, the error was still there.  Can you please help. her email is ma.sheilaofrecio@yahoo.com.ph."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-10-04T17:05:20+0000", 
+            "id": "10156384500276729_509676809397926", 
+            "message": "Hi John. We're sorry to hear she's having this issue. \n Here are a few things to try first: http://bit.ly/2xhlRre. She can also learn how to regain access to her account here: http://bit.ly/2gbCDCu.  Please keep in mind that if the email address associated with her Facebook account has changed, she can reverse this. When an email address is changed, we send a message to the previous email account with a special link. She can click this link to reverse the email address change and secure her account. Additionally, we have several helpful tools she can use to better secure her account and recognize attempts to compromise her information. To learn more about these tools and how to keep her account safe, visit Privacy Basics at: http://bit.ly/2yIwNj4. Additionally, if the problem continues, please report it to us: http://bit.ly/2xhgkRq. -Tenaya"
+        }
+    ]
+}

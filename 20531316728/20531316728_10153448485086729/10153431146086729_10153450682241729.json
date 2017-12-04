@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-02-18T17:49:17+0000", 
+        "id": "10153431146086729_10153450682241729", 
+        "message": "I went in and used that feature, and it really does help with the spam types of ads"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-02-18T19:27:06+0000", 
+            "id": "10153431146086729_10153450889526729", 
+            "message": "Excellent! Glad we could help, Wayne. Thanks for sharing! -Rose"
+        }
+    ]
+}

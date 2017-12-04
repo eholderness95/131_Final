@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2010-10-21T07:14:27+0000", 
+        "id": "10100503334101314_6371973", 
+        "message": "Sziasztok!K\u00e9rlek, Mindk\u00e9t linket nyiss\u00e1tok meg, \u00e9s nyomj\u00e1tok meg a \"Tetszik\"-et! Fontos lenne! K\u00f6sz\u00f6n\u00f6m sz\u00e9pen!\nhttp://www.maxiking.hu/kiralysag/53\nhttp://www.maxiking.hu//kiralysag/52\nMinden szavazat sz\u00e1m\u00edt. Nagyon k\u00f6sz\u00f6n\u00f6m"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

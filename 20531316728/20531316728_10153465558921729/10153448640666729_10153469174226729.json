@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-02-25T15:42:17+0000", 
+        "id": "10153448640666729_10153469174226729", 
+        "message": "So true!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-02-25T15:54:59+0000", 
+            "id": "10153448640666729_10153469192711729", 
+            "message": "Happy to hear you agree, Terry! Thanks for being part of our community. -Hailey"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-02-08T17:48:10+0000", 
+        "id": "10153415603156729_10153426564591729", 
+        "message": "Thanks for the chat sidebar. Easy to use!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-02-10T01:14:33+0000", 
+            "id": "10153415603156729_10153429794926729", 
+            "message": "Thanks for your feedback, Marc. We'll tell our product team to keep up the good work! -Hailey"
+        }
+    ]
+}

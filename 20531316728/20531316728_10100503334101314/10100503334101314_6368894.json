@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2010-10-21T02:12:51+0000", 
+        "id": "10100503334101314_6368894", 
+        "message": "que pasa que anda mal el face??? no se pueden ver los comentarios todos juntos entrando directamente a fortos hay que abrir una por una de cada album para verlos..."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

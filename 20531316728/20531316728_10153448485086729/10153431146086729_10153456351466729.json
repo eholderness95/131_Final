@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-02-20T19:23:35+0000", 
+        "id": "10153431146086729_10153456351466729", 
+        "message": "Hey Facebook! My Facebook android app has set the language to Arabic i think it is... How do you go in to setting to setting it back to Danish again.. I can  not read the text??"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 5
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-02-20T20:43:32+0000", 
+            "id": "10153431146086729_10153456501466729", 
+            "message": "Hi Nikolai. Please follow these steps from our Help Center to change your language settings on the Android app: http://on.fb.me/1ztE53A. We hope that does the trick! -Rose"
+        }
+    ]
+}

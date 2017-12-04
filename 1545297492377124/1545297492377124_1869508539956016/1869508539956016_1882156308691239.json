@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-06-08T10:30:41+0000", 
+        "id": "1869508539956016_1882156308691239", 
+        "message": "Why so much plastic?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-06-09T08:44:30+0000", 
+            "id": "1869508539956016_1882521271988076", 
+            "message": "Hi Richard, thanks for getting in touch. Sustainability is an important issue and one that we care about deeply as a company. All of our bottles and cans in Great Britain are 100% recyclable and can be recycled at home or when you\u2019re out and about. We also want to make sure we use the least amount of plastic, aluminium or glass in each container and that as much recycled material as possible makes into new cans and bottles. At the moment, at least 25% of the material in all of our bottles is recycled plastic, our aluminium cans contain around 42% recycled aluminium and there\u2019s 47% recycled glass in our glass bottles. And we want to go further that\u2019s why we\u2019re currently in the process of reviewing our sustainable packaging strategy which we will publish in the summer. To keep up to date, please head to: www.coca-cola.co.uk/sustainability-section"
+        }
+    ]
+}

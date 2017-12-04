@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-07-24T23:49:39+0000", 
+        "id": "10156005054966729_454354634947793", 
+        "message": "My wife, Dee Collins had her Facebook account hacked and her password was changed. She does not have trusted contacts set up. How can her account be recovered or password reset. Her email set up with the account also does not woe"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-07-25T14:00:05+0000", 
+            "id": "10156005054966729_279322369210831", 
+            "message": "Hi Scott. If your wife's account was taken over by someone else, please have her follow these steps to secure it: http://bit.ly/2uxkfKs. Thank you. -Caitlin"
+        }, 
+        {
+            "created_time": "2017-07-25T23:20:56+0000", 
+            "id": "10156005054966729_1993503014220103", 
+            "message": "Facebook  my wife tried this process already that you referenced. The email account tied to Facebook also had the password changed. The email account password is unable to be reset.  She does not have any trusted contacts set up. Is there anything else that can be tried other than deactivating the account?"
+        }
+    ]
+}

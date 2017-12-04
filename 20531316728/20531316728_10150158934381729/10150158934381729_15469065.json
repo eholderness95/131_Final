@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2011-02-22T21:22:09+0000", 
+        "id": "10150158934381729_15469065", 
+        "message": "La adam do\u011fru d\u00fcr\u00fcst bi\u015fey yazm\u0131\u015f k\u00fcf\u00fcr ediyosunuz t\u00fcrKleri reziL etme b\u00e2ri o\u011fLum xD"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

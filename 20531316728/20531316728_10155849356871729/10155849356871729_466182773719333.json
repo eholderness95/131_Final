@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2017-05-28T22:04:59+0000", 
+        "id": "10155849356871729_466182773719333", 
+        "message": "So, uh... with your new iOS update, how do you react to comments that are just photos? Just tapping on them like other comments only enlarges the photo; tapping and holding does nothing unless the photo is enlarged, and then it only brings up the usual \"save photo\", \"report\", etc. option set. Halp?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-06-04T05:40:40+0000", 
+            "id": "10155849356871729_308416119607613", 
+            "message": "Bueller??"
+        }, 
+        {
+            "created_time": "2017-06-04T18:49:45+0000", 
+            "id": "10155849356871729_1388409204580381", 
+            "message": "Here! To react to a photo comment, hover over \"Like\" and choose a reaction. If you're not seeing that option, please let us know by reporting a problem: http://bit.ly/2rGRXgS. -Aurora"
+        }, 
+        {
+            "created_time": "2017-06-11T22:52:16+0000", 
+            "id": "10155849356871729_1579907112032698", 
+            "message": "Here's how I react to some posts. I use my \"wow\" face. Or sometimes I start laughing and put \"lol\" in the comments section. Every once in a while a sad post shows up and my eyes water. My suggestion for reactions would be taking a selfie while you're reacting and post it. Or if it was a quick reaction, just re-enact it and take a selfie."
+        }
+    ]
+}

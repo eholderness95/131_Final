@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2014-11-21T06:03:34+0000", 
+        "id": "10153187499591729_10153205802116729", 
+        "message": "I want to stop my news feed from scrolling to the top when I'm reading something!  How do I do that?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-11-21T17:09:20+0000", 
+            "id": "10153187499591729_10153206521136729", 
+            "message": "Hey Jacob. It's possible you may be experiencing a bug. The more detail you provide the better. Can you please report it at: http://on.fb.me/1v39D1k  -Elissa"
+        }
+    ]
+}

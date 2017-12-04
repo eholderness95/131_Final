@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2016-11-23T20:32:05+0000", 
+        "id": "10155214512696729_668548963319930", 
+        "message": "- Hey! This has nothing to do with the video, mut I want an anser to my problem. Why can i see in my conversation / messenger  people who a) i don't know and arent friends with and b) who i know but arent friends with? How can i get rid of them?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 5
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-11-23T20:45:24+0000", 
+            "id": "10155214512696729_1016842488425827", 
+            "message": "Hi Teija. Here are a few measures to take if someone is bothering you in messages: http://bit.ly/2fGyNio. Hope this helps! -Nick"
+        }, 
+        {
+            "created_time": "2016-11-23T20:52:36+0000", 
+            "id": "10155214512696729_1016845831758826", 
+            "message": "- No one is bothering me in the messages. There are people in my contact list that i have never heard of and who i\u00b4m not friends with. They weren't there couple of days ago! And some of my friends tells me that they have the same problem. So can you check that is it some kind of a bug in facebook or what is going on."
+        }, 
+        {
+            "created_time": "2016-11-24T03:13:49+0000", 
+            "id": "10155214512696729_668663109975182", 
+            "message": "I also have a couple of people in my messenger app that i have no clue who they are or how they got there , so i too would like to know how they got there and how to get rid of them , also can you check my Facebook to make sure there aren't any bugs in mine ? Because my Facebook acts up a lot"
+        }
+    ]
+}

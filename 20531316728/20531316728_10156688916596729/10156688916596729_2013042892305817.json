@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2017-11-09T11:50:54+0000", 
+        "id": "10156688916596729_2013042892305817", 
+        "message": "Can anyone explain a banning to me? Explain a banishment that, according to the community standards, no rules were broken."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-11-09T18:23:42+0000", 
+            "id": "10156688916596729_2013182558958517", 
+            "message": "Thanks for your question, Jim. Your account can be blocked from using certain features due to member feedback received by our team, or for overusing a feature. Blocks can last a few days or a few hours, and we can't lift the ban for any reason. For more information, visit: http://bit.ly/2yKjdA1. -Kiara"
+        }, 
+        {
+            "created_time": "2017-11-09T18:34:54+0000", 
+            "id": "10156688916596729_130123380961235", 
+            "message": "But what I posted didn't violate anything they listed as a violation!"
+        }, 
+        {
+            "created_time": "2017-11-11T19:06:00+0000", 
+            "id": "10156688916596729_1837044843003070", 
+            "message": "overusing a feature?"
+        }
+    ]
+}

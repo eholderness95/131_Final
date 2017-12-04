@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2016-05-11T14:04:21+0000", 
+        "id": "10154392917806729_714366881999966", 
+        "message": "My husband wants my cell phone # on his account, as he is not computer/cell phone literate.  By putting my phone # on his account, you removed my cell phone # from my account.  How can I have my cell phone # on both accounts for security purposes?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-05-11T14:24:18+0000", 
+            "id": "10154392917806729_1707929369458567", 
+            "message": "Hey Betty. Because your phone number is used to uniquely identify your account, you won't be able to use the same phone number to verify multiple accounts. Learn more: http://bit.ly/1rVwLk0. -Jordan"
+        }, 
+        {
+            "created_time": "2016-05-12T13:24:01+0000", 
+            "id": "10154392917806729_1088731017814983", 
+            "message": "Facebook Thanks!  Maybe that is something that can be looked into in the future.  I can't believe that my husband is the only person not comfortable with technology."
+        }
+    ]
+}

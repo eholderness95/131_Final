@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2017-07-01T22:42:32+0000", 
+        "id": "10155920035801729_118811365394669", 
+        "message": "Hiii! I have an other kind of troubel with \"Gif\". I tried to load up a photo which will become bigger when we click on it, but today and yesterday FB treats the picture / photo as a video !!  and when i click on it -- it shows the circle with the GIF in it. I dont want to animate it..just to load it up. Please..What to do???"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

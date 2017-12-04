@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2016-11-18T02:43:01+0000", 
+        "id": "20531316728_10155214512696729", 
+        "message": "We believe in the power of our community, so we've built tools to enable people to do good in the world and help keep people safe during personal and global crises. See what was announced at today's Social Good Forum."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 85
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 118
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 44080
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1942
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 40
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 339
+            }
+        }
+    }
+}

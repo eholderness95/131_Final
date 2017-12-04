@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2016-09-19T00:54:13+0000", 
+        "id": "10154980190256729_1769687313274329", 
+        "message": "When I try to comment on my own page or actually any page other than this particular one my posts are garbled. For instance, if I type the words thanks, it instead looks more like hankst and then will repeat ithe garbled sentance even if I go back over and correct it before hitting enter. This only happens on my computer, not when I type on my cell phone or tablet. I have run virus scan but don't come up with any problems so not sure how to fix this issue."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 9
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-09-19T01:04:26+0000", 
+            "id": "10154980190256729_1053343891401743", 
+            "message": "Hey, Barb. Thanks for bringing this to our attention. This sounds like a feature issue. Please help us track these issues and submit the problem to support through our Help Center: http://bit.ly/2cAQS5q. -Rhea"
+        }, 
+        {
+            "created_time": "2016-11-07T12:42:44+0000", 
+            "id": "10154980190256729_1811548759060313", 
+            "message": "@"
+        }
+    ]
+}

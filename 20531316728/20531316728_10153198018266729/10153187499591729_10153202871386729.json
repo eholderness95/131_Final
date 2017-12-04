@@ -1,0 +1,82 @@
+{
+    "data": {
+        "created_time": "2014-11-19T19:57:41+0000", 
+        "id": "10153187499591729_10153202871386729", 
+        "message": "videos on wall shouldn't turn on automatic...\nit's annoying..."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 27
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-11-19T20:11:51+0000", 
+            "id": "10153187499591729_10153202893661729", 
+            "message": "U do hv the option to turn off auto play on videos. Go to App Settings"
+        }, 
+        {
+            "created_time": "2014-11-19T20:22:08+0000", 
+            "id": "10153187499591729_10153202912851729", 
+            "message": "Hi Adrian. You can adjust the Facebook app's auto-play settings to On, Wi-Fi only or Off. To stop videos from playing automatically on your computer, please visit:  http://on.fb.me/1uS2il1 -Chantal"
+        }, 
+        {
+            "created_time": "2014-11-19T20:35:45+0000", 
+            "id": "10153187499591729_10153202937351729", 
+            "message": "Thank you Facebook :)"
+        }, 
+        {
+            "created_time": "2014-11-19T20:47:29+0000", 
+            "id": "10153187499591729_10153202958721729", 
+            "message": "You\u2019re welcome, Adrian! Have a great day. -Chantal"
+        }, 
+        {
+            "created_time": "2014-11-19T21:07:27+0000", 
+            "id": "10153187499591729_10153202992151729", 
+            "message": "I like that you  You can help everyone indywidual \nIt's very nice!  :)"
+        }, 
+        {
+            "created_time": "2014-11-20T00:57:47+0000", 
+            "id": "10153187499591729_10153203354076729", 
+            "message": "Hi. I love Facebook"
+        }, 
+        {
+            "created_time": "2014-11-20T01:23:24+0000", 
+            "id": "10153187499591729_10153203388186729", 
+            "message": "That's fixable go to your settings/video."
+        }
+    ]
+}

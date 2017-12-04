@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-02-26T04:16:48+0000", 
+        "id": "10153448640666729_10153470495196729", 
+        "message": "Love It!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-02-26T05:52:52+0000", 
+            "id": "10153448640666729_10153470623656729", 
+            "message": "We're happy to hear that, Darryl! Thanks for sharing with us. -Hailey"
+        }
+    ]
+}

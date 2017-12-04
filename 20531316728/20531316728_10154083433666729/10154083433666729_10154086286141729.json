@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2015-09-25T00:21:48+0000", 
+        "id": "10154083433666729_10154086286141729", 
+        "message": "Hello, Facebook, there should be a privacy setting to give users a choice to  PREVENT folks from sharing our posts with pictures, etc. If someone likes a photo or graphic which I uploaded on my timeline and they then 'share' it on THEIR timeline, all of their friends can click the forward (or back) side arrow button on the photo which will then have grabbed all of MY photos to be shown on the person's page who 'shared' it on their page. They are not aware of that. It's mostly done innocently but it compromises the timeline and security of the original person's timeline from where it was originally shared. Any solutions, other than create a separate Album per event, etc.?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

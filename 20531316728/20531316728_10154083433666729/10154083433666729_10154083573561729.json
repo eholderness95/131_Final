@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-09-23T17:37:16+0000", 
+        "id": "10154083433666729_10154083573561729", 
+        "message": "Thank you for sharing with us!!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 7
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-09-23T19:11:06+0000", 
+            "id": "10154083433666729_10154083727456729", 
+            "message": "You're very welcome, Margareta! Thanks for being part of our community. -Kate"
+        }
+    ]
+}

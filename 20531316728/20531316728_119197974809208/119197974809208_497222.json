@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2010-11-15T17:18:49+0000", 
+        "id": "119197974809208_497222", 
+        "message": "bu yorumu 16 yerin alt\u0131na yaz g\u00f6zlerini 4 kere kapa a\u00e7 facebook un arka plan\u0131nda senin resmin \u00e7\u0131k"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

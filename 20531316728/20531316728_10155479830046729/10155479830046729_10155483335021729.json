@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2017-02-03T14:32:47+0000", 
+        "id": "10155479830046729_10155483335021729", 
+        "message": "Can you stop the large fonts for short posts?  I won't post with that."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-02-03T21:12:07+0000", 
+            "id": "10155479830046729_10155001616954464", 
+            "message": "Hello Robert. To highlight posts that contain only text, some Facebook posts may appear larger in News Feed. Unfortunately, you can't edit the text size of these posts. -Jon"
+        }, 
+        {
+            "created_time": "2017-02-03T21:21:05+0000", 
+            "id": "10155479830046729_10155001636224464", 
+            "message": "Facebook I start to write a post, and it's very large - until you get several spaces out - then it shrinks to a normal size.  Anything less than that ends up being very large.  I am unaware if there is a setting I can adjust - but I don't believe so.  Thank You for your response."
+        }, 
+        {
+            "created_time": "2017-02-03T21:25:18+0000", 
+            "id": "10155479830046729_10154393315741985", 
+            "message": "Hi Robert. To highlight posts that contain only text, some Facebook posts may appear larger in News Feed. You can't edit the text size of these posts. Learn more: http://bit.ly/2jHzfTH. -Jessica"
+        }, 
+        {
+            "created_time": "2017-02-03T21:42:57+0000", 
+            "id": "10155479830046729_10154393350491985", 
+            "message": "Facebook large fonts should not be forced upon my posts.  To return to normal size, one needs to have no less than 86 spaces.  Anything less remains large."
+        }
+    ]
+}

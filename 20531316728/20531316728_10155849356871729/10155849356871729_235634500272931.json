@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-06-06T13:24:46+0000", 
+        "id": "10155849356871729_235634500272931", 
+        "message": "Hi, can you tell why do you bloked my acoount? I can't share and comment anything on my group."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-06-06T14:43:03+0000", 
+            "id": "10155849356871729_1739967836020017", 
+            "message": "Hi Arkadiusz. It's possible that your account was blocked due to member feedback our team received. Keep in mind that blocks are temporary and can last a few hours or a few days and that we can't lift this block for any reason. -William"
+        }
+    ]
+}

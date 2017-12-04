@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-05-22T15:22:34+0000", 
+        "id": "10155808955746729_1336572576431991", 
+        "message": "Why my Post can't change to Public?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-05-22T15:26:10+0000", 
+            "id": "10155808955746729_261207164348311", 
+            "message": "Hi Mohd. You can use the audience selector to change who can see stuff you share on your Timeline after you share it. Keep in mind that when you share something on someone else's Timeline, they control the audience for the post. Learn more: http://bit.ly/2q9n7tW. Hope that helps! -William"
+        }, 
+        {
+            "created_time": "2017-05-22T17:02:07+0000", 
+            "id": "10155808955746729_106205579931857", 
+            "message": "I'm only have three option (from Malaysia) its 'Friend of friend','Friend' and 'Only me'. Its doesn't same as others country."
+        }
+    ]
+}

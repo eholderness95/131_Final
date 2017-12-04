@@ -1,0 +1,77 @@
+{
+    "data": {
+        "created_time": "2014-08-24T07:57:23+0000", 
+        "id": "10152991138526729_10152994339526729", 
+        "message": "SUGGESTION! Design it to where we can delete messages instead of archiving. that would be very useful and would cut down on amount of storage being used."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 29
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-08-24T14:28:31+0000", 
+            "id": "10152991138526729_10152994811351729", 
+            "message": "You can delete messages. I do it all the time."
+        }, 
+        {
+            "created_time": "2014-08-24T19:39:25+0000", 
+            "id": "10152991138526729_10152995414441729", 
+            "message": "get gud don't use your phone."
+        }, 
+        {
+            "created_time": "2014-08-25T01:11:46+0000", 
+            "id": "10152991138526729_10152996052946729", 
+            "message": "How Sirier Cistine?"
+        }, 
+        {
+            "created_time": "2014-08-25T02:06:39+0000", 
+            "id": "10152991138526729_10152996146266729", 
+            "message": "go he messages setting, and click \"delete conversation\""
+        }, 
+        {
+            "created_time": "2014-08-25T11:38:52+0000", 
+            "id": "10152991138526729_10152996873546729", 
+            "message": "But always know.. They still keep the messages in the server.. They're watching you. =_="
+        }, 
+        {
+            "created_time": "2014-08-25T12:34:25+0000", 
+            "id": "10152991138526729_10152996945246729", 
+            "message": "Just hold down on it, it will say delete whole convo!"
+        }
+    ]
+}

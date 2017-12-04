@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2016-02-05T19:50:26+0000", 
+        "id": "10154376342171729_10154379016561729", 
+        "message": "Wonderful video! Thanks! Why is it that many of my friends are not able to see the video? It doesn't appear on my timeline when they look for it on my timeline even though I have it set to be seen by friends. Some get a message that \"something is broken\" or it is simply \"unavailable.\""
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 6
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-02-05T20:45:14+0000", 
+            "id": "10154376342171729_1643835315866906", 
+            "message": "Hey there, Marilyn. Only you have access to your Friends Day video unless you decide to share it, which you can do by clicking the \u2018Share\u2019 button. -Nancy"
+        }, 
+        {
+            "created_time": "2016-02-05T20:47:47+0000", 
+            "id": "10154376342171729_10154379126171729", 
+            "message": "Thanks. I clicked share, but no widespread sharing is taking place. Only two or three people were able to see it, and others get a message that is is unavailable, even people who are in it!"
+        }
+    ]
+}

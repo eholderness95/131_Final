@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2016-11-04T15:18:28+0000", 
+        "id": "1545297492377124_1781971932043011", 
+        "message": "And go go go! The Truck Tour dates have been released! Visit http://spr.ly/61868E0gC to see when it will be coming to you #HolidaysAreComing"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 24
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 5
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 2541
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 174
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 54
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 11
+            }
+        }
+    }
+}

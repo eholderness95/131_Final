@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-09-06T19:20:09+0000", 
+        "id": "1921323018107901_1921325448107658", 
+        "message": "Cherry coke caffeine and sugar free....???  Would be nice!!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-09-07T12:59:36+0000", 
+            "id": "1921323018107901_1921558364751033", 
+            "message": "Hi Jenny, thanks for the suggestion. We'll be sure to share this with our brand team. Thanks"
+        }, 
+        {
+            "created_time": "2017-09-07T14:14:57+0000", 
+            "id": "1921323018107901_1921587951414741", 
+            "message": "Thank you for replying!! \ud83d\ude01"
+        }
+    ]
+}

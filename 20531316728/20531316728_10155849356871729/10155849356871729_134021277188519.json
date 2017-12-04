@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-07-17T21:02:05+0000", 
+        "id": "10155849356871729_134021277188519", 
+        "message": "Can any one help plz.\n\nOne of my business websites has been blocked by Facebook but now I have taken all safety measures n moved to other secured server as well. Can Facebook deactivate it please.\n\nIt's impacting my business"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 18
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-07-17T21:34:24+0000", 
+            "id": "10155849356871729_1369201486532581", 
+            "message": "Hi Pooja. If your website is being blocked on Facebook, try running your website through the Facebook Debugger: http://bit.ly/2vbs4Wb. This tool was built to help to identify any errors that Facebook is reading from your website, and help provide information on what needs to be fixed to unblock your link. From there, you can get help from your developers team or from the Facebook Developers team to make your website compliant and help our systems detect it as safe. Click the link below and select \"Get Started\" to open a support ticket with the Facebook Developers team (this option may not be available for all websites): http://bit.ly/2tklWNS. -Jessica"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-10-06T11:17:58+0000", 
+        "id": "10156384500276729_113083126113431", 
+        "message": "Dear all, i need to get a verification badge for a very important page. please help"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-10-06T13:21:17+0000", 
+            "id": "10156384500276729_427471180981496", 
+            "message": "Hi Samir! You can learn more about the process for verifying Pages here: http://bit.ly/2xZoxf2. Please keep in mind that not all Pages are currently eligible for verification. Thanks! -Caitlin"
+        }, 
+        {
+            "created_time": "2017-10-06T13:24:07+0000", 
+            "id": "10156384500276729_354484821640815", 
+            "message": "I understand this issue, but the link says that verification is not available in the meantime. What do I have to do to explain why I need the badge for my page and the Page's content. The page I am trying to verify is an official page in my country. Please Advise."
+        }
+    ]
+}

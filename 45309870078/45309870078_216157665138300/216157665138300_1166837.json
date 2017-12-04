@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2012-01-13T18:55:39+0000", 
+        "id": "216157665138300_1166837", 
+        "message": ",,,\n\ncan you press like in my page pleas\n,,\n,,\n,,\n,,\n,,\n,,\n,,\n\u0623\u0646\u0627 \u0623\u062d\u0628 \u0627\u0644\u0644\u0647"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

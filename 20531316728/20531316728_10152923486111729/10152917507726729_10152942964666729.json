@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2014-08-03T12:55:58+0000", 
+        "id": "10152917507726729_10152942964666729", 
+        "message": "Dear Facebook, please stop playing with my news feed. I don't appreciate being your science experiment. Thanks!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 5
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-08-04T20:59:00+0000", 
+            "id": "10152917507726729_10152946580671729", 
+            "message": "Thanks for your feedback, Denny. Please let us know how we can improve your experience with your News Feed here: http://on.fb.me/UXgxG9 Take care. -Leigh"
+        }
+    ]
+}

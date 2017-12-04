@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2015-11-19T23:59:46+0000", 
+        "id": "1652901121616760_1654664071440465", 
+        "message": "Josephine Andersson wow du kan till o med vinna ett bes\u00f6k!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-11-20T00:00:30+0000", 
+            "id": "1652901121616760_1654664334773772", 
+            "message": "l\u00e4mnar den pengar till mig s\u00e5 f\u00e5r den komma"
+        }, 
+        {
+            "created_time": "2015-11-20T00:01:11+0000", 
+            "id": "1652901121616760_1654664454773760", 
+            "message": "N\u00e4\u00e4\u00e4!!"
+        }
+    ]
+}

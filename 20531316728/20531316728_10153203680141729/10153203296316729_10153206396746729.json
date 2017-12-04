@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2014-11-21T15:47:54+0000", 
+        "id": "10153203296316729_10153206396746729", 
+        "message": "Yeah I downloaded but dont know wr they went"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 8
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-11-21T16:45:02+0000", 
+            "id": "10153203296316729_10153206484316729", 
+            "message": "Hi Carrie. You can add a sticker to a chat with friends or in a comment. Open a chat window and click the smiley face. Then select the sticker package you'd like to use and scroll through to select a sticker. Learn more at: http://on.fb.me/1v32XQW. Hope this helps! -Elissa"
+        }
+    ]
+}

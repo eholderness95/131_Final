@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2011-02-11T17:43:48+0000", 
+        "id": "20531316728_139735366090888", 
+        "message": "We've begun expanding the rollout of the new Messages to everyone. Look out for it over the next few weeks if you're not yet using it.", 
+        "story": "Facebook shared their note."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 12393
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

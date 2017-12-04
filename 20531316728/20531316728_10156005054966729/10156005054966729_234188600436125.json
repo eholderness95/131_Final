@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-07-17T23:51:55+0000", 
+        "id": "10156005054966729_234188600436125", 
+        "message": "I don't like that videos automatically play sound. It's disruptive when scrolling through feed.  I can't keep the media volume low because I want to listen to music."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-07-18T14:01:45+0000", 
+            "id": "10156005054966729_109867556336183", 
+            "message": "Hi Idania. You can learn how to stop videos from playing automatically in your News Feed here: http://bit.ly/2u4Dhrl. Thanks! -Caitlin"
+        }
+    ]
+}

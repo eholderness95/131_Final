@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-06-20T17:36:16+0000", 
+        "id": "1886058418301028_1887938951446308", 
+        "message": "I do not have a coke zero at home and the local store do not sell it..."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-06-21T09:44:19+0000", 
+            "id": "1886058418301028_1888204801419723", 
+            "message": "Holnapig m\u00e8g beszerezheted!\ud83d\ude09"
+        }
+    ]
+}

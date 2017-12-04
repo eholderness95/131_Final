@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2015-02-20T19:42:27+0000", 
+        "id": "10153431146086729_10153456390951729", 
+        "message": "Prefer  no ads."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 42
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-02-20T19:54:22+0000", 
+            "id": "10153431146086729_10153456414206729", 
+            "message": "Hey Jaime. We're sorry to hear that. We want the ads you see on Facebook to be as interesting and useful to you as possible. You have several ways to control which ads we show you. To learn how to control the ads you see, please visit our Help Center here: https://www.facebook.com/help/562973647153813 -Hailey"
+        }, 
+        {
+            "created_time": "2015-02-21T00:52:14+0000", 
+            "id": "10153431146086729_10153457360166729", 
+            "message": "Adblock works"
+        }, 
+        {
+            "created_time": "2015-02-21T17:06:47+0000", 
+            "id": "10153431146086729_10153459347326729", 
+            "message": "Ad block plus works great to.."
+        }, 
+        {
+            "created_time": "2015-02-21T22:56:01+0000", 
+            "id": "10153431146086729_10153460000621729", 
+            "message": "Facebook  is there a way to get in touch with someone, as in a real person not a  form or inquiry, as to why some content is removed even though it does  not violate the terms of service but other content that clearly violates  terms of service is not removed???"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2017-06-05T13:45:32+0000", 
+        "id": "1869508539956016_1880914495482087", 
+        "message": "We have submitted a couple of codes one for marbella, barcelona and cancun however I have only recieved an email confirmation for the marbella entry. why is this?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-06-05T16:24:00+0000", 
+            "id": "1869508539956016_1880965798810290", 
+            "message": "Hi Tori, Thanks for getting in touch. We can confirm you only receive an email after the first time you make an entry. Each time after then, you will receive an on-screen message to confirm that you are now in the running to win a dream holiday. If you have any other questions please let us know :)"
+        }, 
+        {
+            "created_time": "2017-06-05T16:29:02+0000", 
+            "id": "1869508539956016_1880967375476799", 
+            "message": "This makes sense! Thank you \u263a\ufe0f"
+        }, 
+        {
+            "created_time": "2017-06-08T08:14:46+0000", 
+            "id": "1869508539956016_1882122625361274", 
+            "message": "Joanna Tildesleiha I'm sorry if I offended you \ud83d\ude33"
+        }, 
+        {
+            "created_time": "2017-06-08T10:36:01+0000", 
+            "id": "1869508539956016_1882157352024468", 
+            "message": "Yes Joanna, because the planes weren't going to be flying there anyway.."
+        }
+    ]
+}

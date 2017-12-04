@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-11-07T20:16:05+0000", 
+        "id": "10156688916596729_10156711853336729", 
+        "message": "how do I change my primary email"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-11-07T21:27:01+0000", 
+            "id": "10156688916596729_10156712035556729", 
+            "message": "Hey Jamie. You can learn how to change your email address by following the instructions listed in our Help Center: http://bit.ly/2j8Cgx5. Thanks for reaching out! -Elizabeth"
+        }, 
+        {
+            "created_time": "2017-11-07T21:58:56+0000", 
+            "id": "10156688916596729_10156712105566729", 
+            "message": "thank you got a friend to show me and done"
+        }
+    ]
+}

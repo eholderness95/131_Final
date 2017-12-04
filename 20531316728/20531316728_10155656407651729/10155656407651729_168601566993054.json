@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-04-02T22:40:39+0000", 
+        "id": "10155656407651729_168601566993054", 
+        "message": "Whenever I tried to share a post on my iPhone 5s (after today's update) they are posting multiple times! It's out of hand. As soon as I delete a bunch of them, more reappear on my timeline and in groups where I participate. MAKE. IT. STOP."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-04-03T01:06:24+0000", 
+            "id": "10155656407651729_337285483336225", 
+            "message": "Hi, Kirsten. It's possible you may be experiencing a known issue. Can you please give us more detail here http://bit.ly/2nuDC1u? -Krista"
+        }
+    ]
+}

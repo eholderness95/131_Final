@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2010-09-23T20:09:54+0000", 
+        "id": "20531316728_110848502310119", 
+        "message": "We\u2019re currently experiencing some site issues causing Facebook to be slow or unavailable for some people.  We are working to resolve this issue as quickly as possible."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 24457
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

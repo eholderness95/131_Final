@@ -1,0 +1,112 @@
+{
+    "data": {
+        "created_time": "2015-02-23T23:41:19+0000", 
+        "id": "10153431146086729_10153465867251729", 
+        "message": "My Newsfeed is all jumbled up.  How can I get it to sort Most Recent?  I knew how to do this, but my newsfeed setup changed a couple days ago.  I'm on a Mac laptop.  I can sort it correctly on my iPhone, but cannot figure it out on my laptop."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-02-25T16:31:05+0000", 
+            "id": "10153431146086729_10153469250731729", 
+            "message": "Hi Roxanne. To select the Most Recent News Feed please click the More button (three lines on the top right), scroll down to the Feeds section and select Most Recent. -Sarah"
+        }, 
+        {
+            "created_time": "2015-03-01T03:17:48+0000", 
+            "id": "10153431146086729_10153477200726729", 
+            "message": "Me too but how do i change it from my phone app? My newsfeed is the only pg that lists by most recent. All other pgs are are out of order and i lose the post! Including this pg"
+        }, 
+        {
+            "created_time": "2015-03-01T03:25:08+0000", 
+            "id": "10153431146086729_10153477218301729", 
+            "message": "Tom Sin to sort Most Recent on your phone app, just select the 3 bars icon on the bottom right that says \"more\". From there, select Most Recent. Did that help?"
+        }, 
+        {
+            "created_time": "2015-03-01T03:26:30+0000", 
+            "id": "10153431146086729_10153477220876729", 
+            "message": "No it is already...its not working right...hasnt for a week at least"
+        }, 
+        {
+            "created_time": "2015-03-01T03:30:38+0000", 
+            "id": "10153431146086729_10153477230226729", 
+            "message": "Sorry. I'm still waiting on another reply from Facebook. I don't have a Most Recent option on my laptop. I just don't understand why Facebook won't keep it sorted by Most Recent; who the hell wants to see a story from 20 hrs ago??  Good luck!"
+        }, 
+        {
+            "created_time": "2015-03-01T03:31:42+0000", 
+            "id": "10153431146086729_10153477231966729", 
+            "message": "I think its opposite...i just noticed here its recent on the bottom and goes older going up...i have it set on Most Recent. Always have"
+        }, 
+        {
+            "created_time": "2015-03-01T03:34:44+0000", 
+            "id": "10153431146086729_10153477237961729", 
+            "message": "I think we have found a bug where its inverting the order"
+        }, 
+        {
+            "created_time": "2015-03-01T03:36:29+0000", 
+            "id": "10153431146086729_10153477241236729", 
+            "message": "Well, please let me know if you get it figured out."
+        }, 
+        {
+            "created_time": "2015-03-01T03:47:11+0000", 
+            "id": "10153431146086729_10153477259611729", 
+            "message": "I just posted here that theres a problem but now i cant see it because its gone to the bottom of the whole outer page. Apparently it shows up as the most recent post until you leave the page and come back...then it goes all the way to the bottom because the order is inverting"
+        }, 
+        {
+            "created_time": "2015-03-01T03:52:19+0000", 
+            "id": "10153431146086729_10153477267351729", 
+            "message": "Yes, I noticed that when I posted this question a couple days ago. I came back to check and see if anyone commented on it & couldn't find it & didn't want to spend time looking for it. Finally got a reply from FB, but it didn't help since I don't have a Most Recent option on my Mac FB. I had mine set to Most Recent like you do until FB changed my Newsfeed screen a few days ago. Now my Most Recent option is gone."
+        }, 
+        {
+            "created_time": "2015-03-01T06:19:51+0000", 
+            "id": "10153431146086729_10153477477876729", 
+            "message": "Good luck getting help from fb. ive been asking what happened to my post-by-email option on my fan pages for almost a month & they just ignored me. and reporting a bug NEVER works. try the fb developers pg. they wouldnt help me either but u may have better luck!"
+        }, 
+        {
+            "created_time": "2015-04-18T16:36:03+0000", 
+            "id": "10153431146086729_10153609515661729", 
+            "message": "Zuckerberg is trying his best to run Facebook into the ground."
+        }, 
+        {
+            "created_time": "2015-04-19T16:17:28+0000", 
+            "id": "10153431146086729_10153612417486729", 
+            "message": "You can't set most recent as the default, it's stupid."
+        }
+    ]
+}

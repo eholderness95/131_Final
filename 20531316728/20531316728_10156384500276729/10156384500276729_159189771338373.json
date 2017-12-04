@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-10-11T20:23:57+0000", 
+        "id": "10156384500276729_159189771338373", 
+        "message": "Hello Facebook I have some questions about document authentication with the blue mark can I close my account with the blue mark and thank you"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-10-12T18:50:02+0000", 
+            "id": "10156384500276729_122872535052510", 
+            "message": "Hi Thyron. You can find information on verification here: http://bit.ly/2yjZKV4. Additionally, you can learn how to delete or deactivate an account in this Help Center article: http://bit.ly/2i5sdIl. We hope this helps. -Elizabeth"
+        }
+    ]
+}

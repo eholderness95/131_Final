@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-07-21T13:24:50+0000", 
+        "id": "10156005054966729_339797616455681", 
+        "message": "What can I do when admin of my comany's facebook site delete his account? Now I am only \"Editor\", the Admin field is in grey and I can't do anything. How to become new Admin? Please help"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-07-21T17:30:05+0000", 
+            "id": "10156005054966729_340215819747717", 
+            "message": "Hi Patryk. Please keep in mind that if a Page is unmanaged, you'll see Unofficial Page below its cover photo. If a page is unmanaged, you will might be able to claim it.  If a Page is managed, however, you won't see the option to claim it: http://bit.ly/2txe5fQ. Instead, you can report the Page: http://bit.ly/2uHIlEM. Hope this helps! -Ashley"
+        }, 
+        {
+            "created_time": "2017-07-21T18:01:16+0000", 
+            "id": "10156005054966729_1825319980817111", 
+            "message": "I can't see any info about the page is Unofficial/unmanaged. In settings tab there is no any admin only one Editor (me). So you suggest to report the page? What if Facebook will decide to delete fanpage? Could you give me some contact information to someone from Facebook Support Team to fix that situation?"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-10-28T14:49:19+0000", 
+        "id": "10154150471191729_10154156275631729", 
+        "message": "this has come in very handy for me"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-10-28T15:40:08+0000", 
+            "id": "10154150471191729_10154156349796729", 
+            "message": "We're glad to hear you found this feature helpful, Gayle. Thanks for being part of our community! -Kate"
+        }
+    ]
+}

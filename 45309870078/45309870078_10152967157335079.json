@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2015-07-23T17:30:32+0000", 
+        "id": "45309870078_10152967157335079", 
+        "message": "Get your questions in on Twitter #DearSlim"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 20
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 76200
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 77
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }
+    }
+}

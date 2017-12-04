@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-02-21T17:25:05+0000", 
+        "id": "10154558273596729_10158260473490273", 
+        "message": "Could you tell me about an offer for free money from a Janet Wilson who is telling people she has money to give away--is this legit?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 16
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-02-22T22:48:02+0000", 
+            "id": "10154558273596729_10158420661645093", 
+            "message": "Thanks for the question, Judy. Our team is aware of this hoax campaign. Please disregard the message and be sure not to release any personal or financial information to the sender. Thanks for checking in with us! -Zack"
+        }
+    ]
+}

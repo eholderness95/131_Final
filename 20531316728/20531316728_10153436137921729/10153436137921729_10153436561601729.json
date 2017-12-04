@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-02-12T21:12:34+0000", 
+        "id": "10153436137921729_10153436561601729", 
+        "message": "Love is not only FOR sharing, love IS sharing."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-02-12T21:46:23+0000", 
+            "id": "10153436137921729_10153436632766729", 
+            "message": "Agreed, Chuck. Thanks for being part of our community! -Hailey"
+        }
+    ]
+}

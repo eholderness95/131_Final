@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2011-02-15T19:05:51+0000", 
+        "id": "10150153393351729_15311310", 
+        "message": "Traduction Fran\u00e7ais: L'\u00e9cheveau vous \u00e0 chacun qui a vot\u00e9 sur notre sondage de Jour de la Saint-Valentin. Pour ceux de vous qui avez suppos\u00e9 qu'il y avait une augmentation de 20 pour cent de changements de statut de relation Facebook l'ann\u00e9e derni\u00e8re sur le Jour de la Saint-Valentin, vous aviez raison. Pour mettre \u00e0 jour votre statut de relation, \u00e9ditez votre profil a"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

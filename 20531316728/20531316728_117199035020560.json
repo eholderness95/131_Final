@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2011-01-08T17:31:05+0000", 
+        "id": "20531316728_117199035020560", 
+        "message": "Remember to tune in to Facebook Live (http://apps.facebook.com/facebooklive) starting today at 10 AM PST for our 2nd day of conversations at the Consumer Electronics Show with movers and shakers who are bringing Facebook features to gadgets and electronics."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 6742
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

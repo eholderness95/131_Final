@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2010-12-06T02:30:44+0000", 
+        "id": "136993443022265_1080705", 
+        "message": "I think you guys should use a program like Skype on facebook. Then we will not only be able to IM and message people, we will also be able to call them if they're on facebook. Weather they have a camera or not, if they have a Mic, it'll work. :)"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

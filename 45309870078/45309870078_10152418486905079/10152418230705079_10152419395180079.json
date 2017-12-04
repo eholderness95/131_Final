@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2014-11-07T15:35:31+0000", 
+        "id": "10152418230705079_10152419395180079", 
+        "message": "\u00d6zg\u00fcr, benim koleksiyonun foto\u011fraf\u0131n\u0131 atm\u0131\u015f :/"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-11-07T16:37:26+0000", 
+            "id": "10152418230705079_10152419472645079", 
+            "message": "H\u0131rh\u0131z ipne \ud83d\ude04 kesin wh kanka bu \ud83d\ude1b"
+        }
+    ]
+}

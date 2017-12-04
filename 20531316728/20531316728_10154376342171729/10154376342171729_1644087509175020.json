@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2016-02-06T13:43:30+0000", 
+        "id": "10154376342171729_1644087509175020", 
+        "message": "is it possible to block every thing my friends like, shares, their updates etc? i dont want to see it. i dont care about a friend of mine befriending someone i dont know. why would i care about that? i dont know that person."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-02-06T15:58:33+0000", 
+            "id": "10154376342171729_10154380882751729", 
+            "message": "Hi Magnus. We recommend unfollowing them if you no longer want to receive updates, but you don't want to remove them as a friend. https://www.facebook.com/help/104941232944896 -Zack"
+        }, 
+        {
+            "created_time": "2016-02-06T16:22:11+0000", 
+            "id": "10154376342171729_10154380920946729", 
+            "message": "Facebook We want to receive their posts but NOT the likes, Zach.  I like knowing what my friends are talking about, but my timeline gets clusterbombed by the likes people put out.  I really don't care what they are liking.  Let us opt out of serendipity please."
+        }, 
+        {
+            "created_time": "2016-02-06T16:24:07+0000", 
+            "id": "10154376342171729_1644131045837333", 
+            "message": "Facebook Please help me fb there is a problem to verify my page.it show this msg..\nMentions Verification Request\nUnfortunately, we're unable to process your Mentions request right now."
+        }, 
+        {
+            "created_time": "2016-02-06T16:30:05+0000", 
+            "id": "10154376342171729_1019337421437793", 
+            "message": "why is it of my concern who my friends befriend? if someone in real life gets a new friend should he notify me of it? maybe call me and say \"hey man, i just got a new friend at work, just letting you know!!\" ?"
+        }
+    ]
+}

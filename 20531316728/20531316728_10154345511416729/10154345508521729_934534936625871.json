@@ -1,0 +1,97 @@
+{
+    "data": {
+        "created_time": "2016-01-25T23:09:43+0000", 
+        "id": "10154345508521729_934534936625871", 
+        "message": "Hi FB... I have a technical question - I searched the FAQs and was unable to locate the information I need. Is there an email address or link I can use? Thanks in advance."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 5
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-01-25T23:47:04+0000", 
+            "id": "10154345508521729_934546083291423", 
+            "message": "Hey Mary. This is a great place to ask a question. How can we help? -Jordan"
+        }, 
+        {
+            "created_time": "2016-01-26T00:32:57+0000", 
+            "id": "10154345508521729_10154354645426729", 
+            "message": "hello"
+        }, 
+        {
+            "created_time": "2016-01-26T02:20:47+0000", 
+            "id": "10154345508521729_10154354816821729", 
+            "message": "Guacamole, since people are just randomly saying whatever"
+        }, 
+        {
+            "created_time": "2016-01-26T04:02:09+0000", 
+            "id": "10154345508521729_934627523283279", 
+            "message": "Facebook your report system is broken"
+        }, 
+        {
+            "created_time": "2016-01-27T11:18:00+0000", 
+            "id": "10154345508521729_10154357768166729", 
+            "message": "OK...  The reason I am asking this question is because I am helping a friend write a book \u2013 he is writing the content and I am helping him structure the content as well as edit the content.  A lot of the content that is going to be in his book is contained in posts of his on Facebook. At one point, I manually  copied all of his 2014 posts into a word document (extremely labor-intensive and time-consuming). plus some of his 2015 posts. He had given me permission to do that.  So that I could organize his posts into what/how to include in his book and, now, what to include in another book (he has come to the conclusion that he needs to also write a 'fictional' book based on thoughts and reflections \u2013 many of which are in his Facebook posts). Question in next comment..."
+        }, 
+        {
+            "created_time": "2016-01-27T11:28:24+0000", 
+            "id": "10154345508521729_935345876544777", 
+            "message": "So...  My friend is not extremely technical, so I mentioned to him that I would contact Facebook on his behalf to find out how to download his posts from 2015 into an editable and  savable format. Or at least a format that can be copied or imported into, say, a word document or something like that. Obviously,  he will be doing it because the posts are his; I did some research on this and found that we cannot pick and choose  what information is downloaded \u2013 for example only posts, only pictures, etc.  that is fine. (I  also found that the download is placed into an archive \u2013 I do not know exactly what that means and what format that is in as well as  where it would be located.) We have known each other for many many years and I know that he will take a look at the information and edit it  if he wants to before he gives me a copy.  The reason he wants me to have a copy of his posts is so that I can organize them into what goes into one book and what goes into another book and also organize them further  in order to give him something to work with. (As an aside, we have already started working on the book; these posts will help move it along  and get the second book going.)"
+        }, 
+        {
+            "created_time": "2016-01-27T22:20:05+0000", 
+            "id": "10154345508521729_10154358998741729", 
+            "message": "Hey Mary. Your friend can download the personal data from their Facebook account with these tips from our Help Center. Learn more: http://on.fb.me/20ty7yK. Thanks for reaching out! -Jordan"
+        }, 
+        {
+            "created_time": "2016-01-27T22:20:43+0000", 
+            "id": "10154345508521729_935617826517582", 
+            "message": "Facebook your reporting system is broken!"
+        }, 
+        {
+            "created_time": "2016-01-28T15:58:46+0000", 
+            "id": "10154345508521729_935965059816192", 
+            "message": "Facebook   I have already checked out the help center and found the instructions that you posted in reply to my question. They are missing information, however. For example, where it  is the archive located? Does a user have a choice as to the location of the archive? Also, does the user have the ability  to either edit the archive or copy it to another location and/or \"file\" in order to edit it?"
+        }, 
+        {
+            "created_time": "2016-01-28T16:00:35+0000", 
+            "id": "10154345508521729_10154360417421729", 
+            "message": "Facebook   Additionally, in what format is the archive? (text file, word doc, etc.)"
+        }
+    ]
+}

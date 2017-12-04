@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2011-04-20T19:00:10+0000", 
+        "id": "20531316728_186751254704618", 
+        "message": "One hour to go until the Facebook Live pre-show of President Obama's townhall at our headquarters. Tune in starting at 1 p.m. PDT/4 p.m. EDT and ask your question:  https://apps.facebook.com/facebooklive/"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 5
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 8051
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

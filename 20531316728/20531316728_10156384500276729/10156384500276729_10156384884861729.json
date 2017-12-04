@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-08-28T23:56:30+0000", 
+        "id": "10156384500276729_10156384884861729", 
+        "message": "I don't find an icon on my computer.  Is this just for phones?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-08-29T14:07:38+0000", 
+            "id": "10156384500276729_10156386928601729", 
+            "message": "Hi Ginger. Currently, you can upload and take a 360 Cover Photo on Facebook on iPhone and Android. -Stephanie"
+        }
+    ]
+}

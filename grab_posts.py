@@ -15,7 +15,10 @@ with open(os.path.join(os.path.dirname(sys.argv[0]),'page_ids.csv')) as pages, o
             data = posts.json()
             print(row[0])
             for x in range(0,8):
-                posts = requests.get(data['paging']['next'])
+                try:
+                    posts = requests.get(data['paging']['next'])
+                except KeyError:
+                    pass
                 data = posts.json()
             cursor = 1
             while 'next' in data['paging'] and not re.match(r'\b2015-10',data['data'][0]['id']):

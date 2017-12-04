@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2012-07-12T18:39:54+0000", 
+        "id": "429504727093630_5202305", 
+        "message": "prosz\u0119 wejdz na t\u0105 strone i kliknij lubie to :link: https://www.facebook.com/\r\nExtremEstreetbloogpl"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

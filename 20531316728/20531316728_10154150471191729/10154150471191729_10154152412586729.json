@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2015-10-26T17:56:42+0000", 
+        "id": "10154150471191729_10154152412586729", 
+        "message": "I want to see my friends important posts on my news feed like adding photos and writing posts but i dont want to see what they liked or what comments they put under a post , it makes my news feed very messy ."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 14
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-10-26T18:03:28+0000", 
+            "id": "10154150471191729_10154152424766729", 
+            "message": "Hey Ally. You adjust your notifications by following these steps: http://on.fb.me/1RxF1O2. Hope this helps! -Kristin"
+        }, 
+        {
+            "created_time": "2015-10-26T23:15:11+0000", 
+            "id": "10154150471191729_10154152990266729", 
+            "message": "This does not work. Notifications is not an option under settings."
+        }, 
+        {
+            "created_time": "2015-10-27T01:59:02+0000", 
+            "id": "10154150471191729_10154153252426729", 
+            "message": "It didn't help :("
+        }, 
+        {
+            "created_time": "2015-10-28T09:11:08+0000", 
+            "id": "10154150471191729_10154155862746729", 
+            "message": "Try not being on the mobile site"
+        }
+    ]
+}

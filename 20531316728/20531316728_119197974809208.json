@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2010-11-15T17:15:57+0000", 
+        "id": "20531316728_119197974809208", 
+        "message": "One hour to go: Tune in at 10 a.m. PST to watch a live announcement from Facebook at http://apps.facebook.com/facebooklive."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 7434
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

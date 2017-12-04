@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-04-08T18:51:07+0000", 
+        "id": "10155656407651729_711036272412594", 
+        "message": "Hi I need help.  I sent a message in inbox.  I am trying to receive money as I usually do and now it says all of a sudden payment is pending and in review?  What is that."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-04-09T15:19:28+0000", 
+            "id": "10155656407651729_758894427607996", 
+            "message": "Hi, James. So that we are better able to help, could you please clarify what problem you are experiencing? We would be more than happy to help in any way that we can! -Rhea"
+        }
+    ]
+}

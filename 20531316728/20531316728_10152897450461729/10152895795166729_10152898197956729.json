@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2014-07-17T16:59:58+0000", 
+        "id": "10152895795166729_10152898197956729", 
+        "message": "I'm sick of seeing what my friends \"like\" in my news feed. Are they seeing the same from me?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 17
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-07-17T17:38:21+0000", 
+            "id": "10152895795166729_10152898264691729", 
+            "message": "Hi Kimberly. You can adjust what you see in your News Feed by choosing to view stories you don't want to see, by following or unfollowing friends and by using friends lists. Learn how at: https://www.facebook.com/help/335291769884272/ -Sarah"
+        }, 
+        {
+            "created_time": "2014-07-19T13:48:10+0000", 
+            "id": "10152895795166729_10152902632891729", 
+            "message": "gago kau"
+        }
+    ]
+}

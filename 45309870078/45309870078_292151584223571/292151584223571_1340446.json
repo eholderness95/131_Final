@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2012-10-09T18:48:06+0000", 
+        "id": "292151584223571_1340446", 
+        "message": "Oddaj prosze g\u0142os i udost\u0119pnij na swojej tablicy  https://apps.facebook.com/adidas-represent-pl/FacebookApp/profile/alias:axis"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

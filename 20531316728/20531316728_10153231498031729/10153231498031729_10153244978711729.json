@@ -1,0 +1,72 @@
+{
+    "data": {
+        "created_time": "2014-12-08T20:39:48+0000", 
+        "id": "10153231498031729_10153244978711729", 
+        "message": "Hey FaceBook! Can you sort out the continuity problem we all appear to have with your Timeline sync. \nWe keep getting yesterday's updated all the time, today. \nYour attention to this would be most appreciated. \nYou know who I am, and how to reply. \n\nMany thanks."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 26
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-12-08T20:46:04+0000", 
+            "id": "10153231498031729_10153245032576729", 
+            "message": "Thanks for the question, Ken. Visit our Help Center for step-by-step instructions on how to change the order of the stories that appear in your News Feed: http://on.fb.me/1nIlfDM. -Chantal"
+        }, 
+        {
+            "created_time": "2014-12-08T20:49:42+0000", 
+            "id": "10153231498031729_10153245052611729", 
+            "message": "Thanks Chantal. \nBut, why do we have to go to another menu to read the live feed to our Timelines?"
+        }, 
+        {
+            "created_time": "2014-12-09T13:56:48+0000", 
+            "id": "10153231498031729_10153247043711729", 
+            "message": "Because Chantal isn't a human. She's a computer who picks through your words to find a common one that deals with things other people have problems with then gives you a link. They don't actually care about what we as facebook users have to say."
+        }, 
+        {
+            "created_time": "2014-12-09T18:19:10+0000", 
+            "id": "10153231498031729_10153247538976729", 
+            "message": "Hi Ken.  We know it can be frustrating when something you're used to changes, but we try to ensure our changes improve the Facebook experience for everyone. For example, we moved Most Recent so you can find photos, events and other Facebook feeds all in one place. Also, you can adjust your News Feed to Most Recent. Learn how at: http://on.fb.me/1nIlfDM. Thank you for being part of our community. Have a great day! -Chantal (the human)"
+        }, 
+        {
+            "created_time": "2014-12-10T04:34:20+0000", 
+            "id": "10153231498031729_10153248781461729", 
+            "message": "What's not to love about Chantal?  Or as we would say in grade school to Bethany, what a burn! Lol"
+        }
+    ]
+}

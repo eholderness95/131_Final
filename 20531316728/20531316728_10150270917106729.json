@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2011-05-23T22:21:45+0000", 
+        "id": "20531316728_10150270917106729", 
+        "message": "We'd like to share more about the features you love to use. What Facebook feature would you like to learn more about?", 
+        "story": "Facebook created a poll."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 521
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "data": {
+        "created_time": "2016-04-06T18:25:02+0000", 
+        "id": "10154558273596729_1531656513805957", 
+        "message": "@facebook Can the live streaming be available on android?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-04-06T18:35:50+0000", 
+            "id": "10154558273596729_935468103240136", 
+            "message": "Hey Homer. Most people in the US and 25 other countries can go live from Android right now and we are in the process of rolling this out around the world. However, everyone can view live videos on iPhone, Android and web. Stay tuned! -Anna"
+        }, 
+        {
+            "created_time": "2016-04-06T19:36:28+0000", 
+            "id": "10154558273596729_1680451668879671", 
+            "message": "When will this be available?  I'm in the US & have an android, but it isn't an option for me.  I've had a Business Public Figure page for Years, but after sending in my drivers license I STILL never received a response to get it verified.   Really disappointing when I still can't get this feature."
+        }, 
+        {
+            "created_time": "2016-04-07T03:08:25+0000", 
+            "id": "10154558273596729_1531783690459906", 
+            "message": "Facebook what is happening with live in Australia for android?"
+        }, 
+        {
+            "created_time": "2016-04-07T04:45:30+0000", 
+            "id": "10154558273596729_866148120197510", 
+            "message": "Waiting on Facebook live for android"
+        }, 
+        {
+            "created_time": "2016-04-09T07:13:55+0000", 
+            "id": "10154558273596729_606448996186977", 
+            "message": "How does a friend of mine delete an account that somebody had made on her profile page which some one else used her phone and created the account"
+        }, 
+        {
+            "created_time": "2016-04-15T05:48:25+0000", 
+            "id": "10154558273596729_1756437504586325", 
+            "message": "Apparently it's going to be a loooooong time before many android users see this feature. IPhone users were first from what I understand, so that pretty much let's ya know that us android users are at the bottom of class to Facebook."
+        }
+    ]
+}

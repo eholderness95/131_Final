@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2013-11-18T17:08:17+0000", 
+        "id": "10151746541965079_11664909", 
+        "message": "\uc790\uae30\uc57c"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2013-11-18T23:17:38+0000", 
+            "id": "10151746541965079_11672220", 
+            "message": "\ub204\ub098   \ub0a8\uce5c\uc784"
+        }
+    ]
+}

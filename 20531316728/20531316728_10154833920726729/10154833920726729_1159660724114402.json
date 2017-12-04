@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2016-10-22T21:30:47+0000", 
+        "id": "10154833920726729_1159660724114402", 
+        "message": "Hate it !!!! And I don't want to here is the way to provide a faster and more reliable experience.  I don't care.  I want to be able to answer my messages and have an easier way to delete messages as well. By using ONE app only."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-10-23T00:42:31+0000", 
+            "id": "10154833920726729_1091640120885493", 
+            "message": "Hi, Elizabeth. With Messenger, we're able to provide a better overall experience, and linking between the two apps is fast and simple. -Rhea"
+        }, 
+        {
+            "created_time": "2016-10-23T01:13:05+0000", 
+            "id": "10154833920726729_1660831640875437", 
+            "message": "I don't like.  I prefer using one app. It was already a good experience using it. Messenger should be an option for people to download and for those who don't like it can continue using one app."
+        }
+    ]
+}

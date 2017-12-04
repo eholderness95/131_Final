@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2014-11-14T15:11:14+0000", 
+        "id": "10153187340336729_10153191295936729", 
+        "message": "I have a hard time figuring out how to change settings n then when I do it doesn't work right. So irritated."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 25
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-11-14T15:57:57+0000", 
+            "id": "10153187340336729_10153191377631729", 
+            "message": "Hey, Beth. Which settings are you trying to adjust? You might try searching through our Help Center for more info: http://on.fb.me/1vcL1of Hope this helps! -Kristen"
+        }, 
+        {
+            "created_time": "2014-11-14T16:00:04+0000", 
+            "id": "10153187340336729_10153191380286729", 
+            "message": "The main one I have trouble with is receiving pokes through my texts in my phone. I'll check settings n they r right but won't always come through. Oh and btw how high will pokes go before it resets?  I was in real high numbers with someone n at some point it reset n neither of us noticed."
+        }
+    ]
+}

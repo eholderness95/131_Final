@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2016-02-16T17:26:34+0000", 
+        "id": "10154392917806729_10154404065061729", 
+        "message": "please reply to this comment >_< <3 you all !!!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-02-16T20:41:14+0000", 
+            "id": "10154392917806729_10154404453851729", 
+            "message": "Hey Keidi! We hope you're having a great day. :) -Jordan"
+        }
+    ]
+}

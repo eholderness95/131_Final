@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-06-22T12:19:32+0000", 
+        "id": "10155849356871729_981450278625152", 
+        "message": "GREAT SPEECH!!  \nI am having a problem with my Facebook locking up when I try to scroll down..  I have to close the app and then get back into it..  it sometimes works and sometimes doesn't"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-06-22T14:37:23+0000", 
+            "id": "10155849356871729_1218901771552539", 
+            "message": "Thanks for the compliment, Karen. We're sorry to hear you're experiencing this issue. Please help our team track this issue by reporting it with these tips from our Help Center: http://bit.ly/2txwzt0. Thanks. -Jessica"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "data": {
+        "created_time": "2017-06-03T11:06:03+0000", 
+        "id": "10155849356871729_261538494320985", 
+        "message": "The option to \"Move photo to different album\" has not been working for 2 days now... Why??? Please help... Thanks..."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-06-05T17:43:39+0000", 
+            "id": "10155849356871729_712624695588835", 
+            "message": "Thanks for bringing this to our attention, Dian. Please help our team track this issue by reporting it with these tips from our Help Center: http://bit.ly/2rLTClx. -Jessica"
+        }, 
+        {
+            "created_time": "2017-06-05T17:45:30+0000", 
+            "id": "10155849356871729_309478532832103", 
+            "message": "Facebook It's been reported days ago!!!"
+        }, 
+        {
+            "created_time": "2017-06-05T17:46:18+0000", 
+            "id": "10155849356871729_1784608435183550", 
+            "message": "And, according to your \"help\" page, it's been reported by others several months ago!!!"
+        }, 
+        {
+            "created_time": "2017-06-05T17:51:06+0000", 
+            "id": "10155849356871729_1744801562431986", 
+            "message": "Hi Dian. If you have reported this issue to our team, please sit tight while we take the time to review it. Rest assured that we are looking into all the reports that we receive. Thanks for your patience. -Jessica"
+        }, 
+        {
+            "created_time": "2017-06-05T18:56:50+0000", 
+            "id": "10155849356871729_841802235973959", 
+            "message": "Facebook Thanks, Jessica, but some people have been having this SAME problem for MONTHS now!!!"
+        }, 
+        {
+            "created_time": "2017-06-05T19:08:57+0000", 
+            "id": "10155849356871729_1339768946101167", 
+            "message": "AND, I thought I'd try a different way to change the pics from one album to the next by following this tutorial---> \"Go to your timeline, click on photos, click on albums, click on your mobile upload album, click on the edit button, hover over the picture you want to move and a drop down menu button will appear in the top right of the photo (it looks like a v) click on that, then click on the move to other album option and select the album you want to move it to.\"\n\nProblem is, when I go to my timeline and click on photos, it takes a while for the next page to appear... When it does, I click on albums, and that option NEVER appears!!! It's just keep looking like it's trying to connect, but doesn't..."
+        }
+    ]
+}

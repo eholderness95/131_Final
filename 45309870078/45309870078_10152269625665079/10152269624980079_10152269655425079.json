@@ -1,0 +1,62 @@
+{
+    "data": {
+        "created_time": "2014-08-25T04:37:00+0000", 
+        "id": "10152269624980079_10152269655425079", 
+        "message": "Eminem just confirmed that there will be a new album with new tracks on Black Friday and also a best of Shady Records album that same day. Source:https://twitter.com/Channel955/status/503699981988274176  Channel955 is part of Shady Records so it is reliable."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 9
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-08-25T04:42:58+0000", 
+            "id": "10152269624980079_10152269661570079", 
+            "message": "I believe you but do you have a source?"
+        }, 
+        {
+            "created_time": "2014-08-25T04:44:57+0000", 
+            "id": "10152269624980079_10152269663580079", 
+            "message": "https://twitter.com/Channel955/status/503699981988274176"
+        }, 
+        {
+            "created_time": "2014-08-25T04:46:04+0000", 
+            "id": "10152269624980079_10152269664880079", 
+            "message": "Thank you much!!"
+        }
+    ]
+}

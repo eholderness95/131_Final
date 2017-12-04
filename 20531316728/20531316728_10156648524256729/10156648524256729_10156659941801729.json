@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2017-10-27T08:15:36+0000", 
+        "id": "10156648524256729_10156659941801729", 
+        "message": "Regarding the new green dot that indicates we're online, how do I set it to private so that no one knows whether or not I'm online?  It's no one's business when I'm online!  Thanks."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-10-31T20:24:05+0000", 
+            "id": "10156648524256729_725321820999784", 
+            "message": "Hi Karen. You can learn how to turn chat off in our Help Center: http://bit.ly/2z8bV80. By turning it off, you will appear to be offline to your Facebook friends. -Anna"
+        }, 
+        {
+            "created_time": "2017-10-31T20:37:53+0000", 
+            "id": "10156648524256729_543813115960123", 
+            "message": "Thank you, Anna!"
+        }
+    ]
+}

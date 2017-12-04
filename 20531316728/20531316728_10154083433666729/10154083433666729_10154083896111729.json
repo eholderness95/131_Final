@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-09-23T20:50:58+0000", 
+        "id": "10154083433666729_10154083896111729", 
+        "message": "Just wondering why I am missing the reply button on some of the latest comments, thanks!"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 10
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-09-24T15:02:12+0000", 
+            "id": "10154083433666729_10154085311861729", 
+            "message": "Hey Daniela. Thanks for bringing this to our attention.  Can you please help us track these issues and submit the problem to support through our Help Center? http://on.fb.me/1iytnqC. -Kate"
+        }
+    ]
+}

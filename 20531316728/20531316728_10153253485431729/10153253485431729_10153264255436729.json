@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2014-12-16T17:50:25+0000", 
+        "id": "10153253485431729_10153264255436729", 
+        "message": "How can i open my account..because its temporarily lock.i've just log out yesterday.and then u tty"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 2
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-12-16T17:51:55+0000", 
+            "id": "10153253485431729_10153264260526729", 
+            "message": "I try to open but i cant"
+        }, 
+        {
+            "created_time": "2014-12-16T17:57:45+0000", 
+            "id": "10153253485431729_10153264285366729", 
+            "message": "Hey Lyn. If you're locked out of your account, you may have the option to reset your login info. Please visit our Help Center for more information:  https://www.facebook.com/help/228372557180280 -Hailey"
+        }, 
+        {
+            "created_time": "2014-12-16T19:15:02+0000", 
+            "id": "10153253485431729_10153264479496729", 
+            "message": "Is there a setting to open links in new tab for mobile. I hate the change that was made a few weeks or so that opens it in the Facebook app instead of my chrome. I like to scroll open links and then go back and read them when I'm done reading the other news feeds. Its really annoying when you are scrolling through and then the news feeds zip back to the top because fb is moving them around so most popular are at top. Then you have to rescroll through them all to get back to where you were. Would rather just have news feeds by time order rather then buy newest comment or like popularity"
+        }, 
+        {
+            "created_time": "2014-12-17T19:33:44+0000", 
+            "id": "10153253485431729_10153266526826729", 
+            "message": "I need help.why if i open my account.they have saying .\nThere are problem with the security certificate for this site..that is the warning .why u have that message.in my account if i open ."
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2010-12-20T07:03:15+0000", 
+        "id": "20531316728_140731125982620", 
+        "message": "On the \"seventh day of Facebook,\" log in with your smart phone for deals on the go. Check in to get 20 percent off at American Eagle Outfitters or $10 off a $50 purchase at JCPenney. Other places like Sephora and Toys ''R'' Us also have offers exclusively for their Facebook fans."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 10205
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

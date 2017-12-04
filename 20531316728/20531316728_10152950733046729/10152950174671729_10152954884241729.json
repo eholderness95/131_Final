@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2014-08-07T22:45:13+0000", 
+        "id": "10152950174671729_10152954884241729", 
+        "message": "Why is it I'm being FORCED into using MESSENGER?  I don't want it yet I CAN'T send anyone a message unless I install messenger. Why?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 11
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2011-10-10T20:07:36+0000", 
+        "id": "243507375696500_3049490", 
+        "message": "Cigno ti sta chiedendo aiuto per un potenziale problema di bullismo su Facebook. Il contenuto che Cigno vorrebbe sottoporre alla tua attenzione \u00e8 indicato di seguito:\n\nLa foto allegata \u00e8 stata pubblicata da Mara Ferluga (http://www.facebook.com/profile.php?id=1041751046) il 14/10 all'interno dell'album le mie amikette.e non!\nURL foto: http://www.facebook.com/photo.php?fbid=1049781678410&set=a.1049781118396.2008664.1041751046&type=1"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 69
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

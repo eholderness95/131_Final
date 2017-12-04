@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2010-09-11T21:27:12+0000", 
+        "id": "481509051728_3569260", 
+        "message": "b\u0131z neden eklemek \u0131sted\u0131g\u0131m\u0131z\u0131 ekl\u0131yem\u0131yoruz"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

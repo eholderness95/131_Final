@@ -1,0 +1,77 @@
+{
+    "data": {
+        "created_time": "2015-10-29T10:01:19+0000", 
+        "id": "10154150471191729_10154157978056729", 
+        "message": "It doesn't work  ... the people I unfollowed are still showing up in my news feed."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 7
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-10-29T15:18:09+0000", 
+            "id": "10154150471191729_10154158382241729", 
+            "message": "Hey Deborah. We're sorry to hear that. If you continue to have trouble with this feature, please report it here: http://on.fb.me/1M3nZaz. Thanks for helping us keep track of this issue. -Kate"
+        }, 
+        {
+            "created_time": "2015-10-29T17:05:07+0000", 
+            "id": "10154150471191729_10154158573891729", 
+            "message": "Thank you kindly!"
+        }, 
+        {
+            "created_time": "2015-10-29T17:05:48+0000", 
+            "id": "10154150471191729_10154158575011729", 
+            "message": "They will still show up in your news feed, their posts just won't show up in your notifications. If you don't want them in your news feed (on your wall) then you need to unfriend and/or block them."
+        }, 
+        {
+            "created_time": "2015-10-29T17:15:21+0000", 
+            "id": "10154150471191729_10154158588936729", 
+            "message": "Ok. Thank you!  The old way they didn't show up in my news feed."
+        }, 
+        {
+            "created_time": "2015-10-30T16:20:06+0000", 
+            "id": "10154150471191729_10154160371396729", 
+            "message": "Posts still show up in my notifications too. Blows up my phone all day, mainly one person. Can't get the unfollow to work even though it shows I have unfollowed her. Great person with too much time on her hands. Lol."
+        }, 
+        {
+            "created_time": "2015-10-30T18:25:15+0000", 
+            "id": "10154150471191729_10154160561671729", 
+            "message": "Hey there, Lauri. If you continue to have trouble with this feature, please report it here: http://on.fb.me/1NFVwH5. Thanks for helping us keep track of this issue. -Kate"
+        }
+    ]
+}

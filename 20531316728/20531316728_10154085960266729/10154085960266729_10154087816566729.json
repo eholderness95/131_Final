@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2015-09-25T17:27:37+0000", 
+        "id": "10154085960266729_10154087816566729", 
+        "message": "Facebook developers page is either on hiatus or just doesn't read their posts, so... I wanted to point some things out: There's no reason whatsoever I need to be notified of a new message if it's one I've sent myself. The scripting errors that cause graphical glitches and flickers need to be addressed and I'd like to be able to keep my \"most recent\" feed the same way I left it. There are other issues but these are the most recent that have really bothered me and slowed down things quite a bit, mostly because I need to reload my Firefox a few times per visit to my Facebook. Thanks."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

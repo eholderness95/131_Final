@@ -1,0 +1,162 @@
+{
+    "data": {
+        "created_time": "2014-02-05T16:04:24+0000", 
+        "id": "959895899447_4078701", 
+        "message": "For those of you who don't have a video showing up but viewed it in Firefox:\n\n? edited 36 mins ago\n\nI was able to download my video on Firefox.\nFirst you need to not close your browser or clear your cache since you watched the video.\n1. In Firefox, type \"about:cache\" into the URL field and enter\n2. Click the \"List Cache Entries\" button under the \"Disk Cache Device\" field.\n3. Do a search for mp4. I found a few and the one closest to the time I viewed my video ended up being the correct link. It looks like https://lookbackvideo4-a.akamaihd.net/hvideo-ak-frc3.mp4? ... I opened the link in a new tab, clicked the link, and the video played in its own tab. I went to File, Save As, and saved the .mp4 file\n\nFor chrome:\n\nDani edited 18 mins ago\nIf you used Chrome when you watched your video prior to deleting, just do these:\n\nType about:cache on your chrome search bar (provided that you don't clear history/cache after you close your browser)\nYou will see a list of links on your window, just click Ctrl F or \u2318 F to and search \"lookback\" in the Find searchbar\nLook for the link that will have something like https://lookbackvideo7-a.akamaihd.net/hvideo and so on. Click that link.\nAfter you clicked the link, you will see on your window a bunch of text with white background. Ignore that. LOOK AT YOUR URL BAR. You should be able to see something like chrome://view-http-cache/https://lookbackvideo7-a.akamaihd.net/hvideo-ak-prn etc etc. In the long string of url, DELETE THIS PART: chrome://view-http-cache/ then press enter.\nYou should be able to see your video again. Right click and choose \"Save Video As\" and just reupload on your Facebook timeline, Youtube, or anywhere."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 7
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2014-02-05T18:33:43+0000", 
+            "id": "959895899447_4080557", 
+            "message": "what about if you did it on internet explorer?"
+        }, 
+        {
+            "created_time": "2014-02-05T18:44:07+0000", 
+            "id": "959895899447_4080668", 
+            "message": "I'm wondering about explorer too. A friend uses that browser and I know nothing about it and she deleted her video, so I'm trying to help her find it... any suggestions you got are appreciated!"
+        }, 
+        {
+            "created_time": "2014-02-05T19:25:59+0000", 
+            "id": "959895899447_4081096", 
+            "message": "Thank you so much!!!  It worked!!!"
+        }, 
+        {
+            "created_time": "2014-02-05T19:34:08+0000", 
+            "id": "959895899447_4081235", 
+            "message": "that whole cache thing doesnt work."
+        }, 
+        {
+            "created_time": "2014-02-05T19:38:14+0000", 
+            "id": "959895899447_4081291", 
+            "message": "Melissa do another way that i write (down)"
+        }, 
+        {
+            "created_time": "2014-02-05T20:03:36+0000", 
+            "id": "959895899447_4081635", 
+            "message": "Ugh. I wish I had seen this last night. I cleared my cache thinking that would help. But I just tested using my husband's video, and it popped right up."
+        }, 
+        {
+            "created_time": "2014-02-05T20:14:46+0000", 
+            "id": "959895899447_4081812", 
+            "message": "I messaging u Tanya Merritte"
+        }, 
+        {
+            "created_time": "2014-02-05T20:27:01+0000", 
+            "id": "959895899447_4082026", 
+            "message": "Hesam, it says Access Denied I do not have permission to access. I used Chrome, and my video was accidentally deleted.."
+        }, 
+        {
+            "created_time": "2014-02-05T20:31:09+0000", 
+            "id": "959895899447_4082086", 
+            "message": "where say Access Denied?"
+        }, 
+        {
+            "created_time": "2014-02-05T20:32:30+0000", 
+            "id": "959895899447_4082103", 
+            "message": "Chrome Or FireFox Rick"
+        }, 
+        {
+            "created_time": "2014-02-05T20:33:39+0000", 
+            "id": "959895899447_4082122", 
+            "message": "in cache i have today.. where i can see history from yesterday night, when i was clik on the link? i use firefox"
+        }, 
+        {
+            "created_time": "2014-02-05T20:35:11+0000", 
+            "id": "959895899447_4082147", 
+            "message": "Do another way i write in down"
+        }, 
+        {
+            "created_time": "2014-02-05T20:42:58+0000", 
+            "id": "959895899447_4082280", 
+            "message": "Rick listen: go to Control panel>Internet properties>Security>Set scroll on middle.     Next go to next tab(Privacy)> and set Privacy On Medium."
+        }, 
+        {
+            "created_time": "2014-02-05T20:56:11+0000", 
+            "id": "959895899447_4082462", 
+            "message": "Same problem that Tanya. Also cleared my cache last night to try to solve the problem :\u00b4-("
+        }, 
+        {
+            "created_time": "2014-02-05T20:58:02+0000", 
+            "id": "959895899447_4082489", 
+            "message": "Use Down Way ."
+        }, 
+        {
+            "created_time": "2014-02-05T21:37:57+0000", 
+            "id": "959895899447_4083043", 
+            "message": "Got anything for explorer?"
+        }, 
+        {
+            "created_time": "2014-02-05T22:12:54+0000", 
+            "id": "959895899447_4083440", 
+            "message": "VA salut"
+        }, 
+        {
+            "created_time": "2014-02-06T01:55:47+0000", 
+            "id": "959895899447_4085700", 
+            "message": "thnx for u .it's been opened :D"
+        }, 
+        {
+            "created_time": "2014-02-06T05:30:23+0000", 
+            "id": "959895899447_4087473", 
+            "message": "y los q eliminamos un contenido del video, no lo vamos a recuperar mas???"
+        }, 
+        {
+            "created_time": "2014-02-06T17:13:49+0000", 
+            "id": "959895899447_4089963", 
+            "message": "Hesam..it say: AccessDenied  You don't have permission to access \"http://lookbackvideo7-a.akamaihd.net/favicon.ico\" on this server.\nReference #18.be110217.1391706767.47207c9"
+        }, 
+        {
+            "created_time": "2014-02-06T17:54:16+0000", 
+            "id": "959895899447_4090168", 
+            "message": "+Hesam Rastegari @Hesam Rastegari \nThank you sooo much!!!!!!!!! It worked!!! You did a better work than the facebook team!!!"
+        }, 
+        {
+            "created_time": "2014-02-06T18:10:08+0000", 
+            "id": "959895899447_4090258", 
+            "message": "Hesam...I view my video on my s3 phone...using chrome...can I still retreive?"
+        }, 
+        {
+            "created_time": "2014-02-07T01:36:18+0000", 
+            "id": "959895899447_4092600", 
+            "message": "I don't understand why I don't see my video posted after it was posted. Now just pictures. Very upset seeing everyone else. I know I very active on my page! I did report problem!"
+        }
+    ]
+}

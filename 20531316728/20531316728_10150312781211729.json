@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2011-06-27T21:36:58+0000", 
+        "id": "20531316728_10150312781211729", 
+        "message": "For Social Media Day, we plan to honor a charity. Help us choose which:  [Thursday is Social Media Day, a day where we celebrate social media\u2019s impact on our lives.]", 
+        "story": "Facebook created a poll."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 688
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

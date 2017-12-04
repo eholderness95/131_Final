@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-03-30T03:10:14+0000", 
+        "id": "10155656407651729_994466040655320", 
+        "message": "I would like the option to disable facebook stories because I find it irrelevant to me. And a lot of friends of mine don't like it either. That's why we have snapchat for that. So give people an option please. My fb looks cluttered. I like things simple."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-03-30T16:08:19+0000", 
+            "id": "10155656407651729_149358985589639", 
+            "message": "Hi Dylan. While you can't remove Camera, it's an optional feature that you can choose to use. -Jon"
+        }
+    ]
+}

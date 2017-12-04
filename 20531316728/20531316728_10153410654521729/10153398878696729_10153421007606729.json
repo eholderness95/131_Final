@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2015-02-06T19:43:34+0000", 
+        "id": "10153398878696729_10153421007606729", 
+        "message": "The only problem is that it requires iPhone 5 or 6."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-02-06T22:26:00+0000", 
+            "id": "10153398878696729_10153421343331729", 
+            "message": "No worries, Randy! The Facebook Groups app is currently available on Android devices with Gingerbread or newer and all iOS devices. Enjoy! -Rose"
+        }, 
+        {
+            "created_time": "2015-02-08T13:10:34+0000", 
+            "id": "10153398878696729_10153425844916729", 
+            "message": "Not true Randy! I have a 4 and I have downloaded it with no problems and am using it with no issues....."
+        }, 
+        {
+            "created_time": "2015-02-08T13:35:32+0000", 
+            "id": "10153398878696729_10153425884656729", 
+            "message": "Manon Fugitt Burleson yes, the app was updated."
+        }, 
+        {
+            "created_time": "2015-04-09T00:10:53+0000", 
+            "id": "10153398878696729_10153582682346729", 
+            "message": "manueljesuspunincuji@homail.com"
+        }
+    ]
+}

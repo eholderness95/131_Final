@@ -1,0 +1,45 @@
+{
+    "data": {
+        "created_time": "2016-11-18T11:39:06+0000", 
+        "id": "1545297492377124_1789201447986726", 
+        "message": "Win tickets to Capital\u2019s Jingle Bell Ball! Buy any 500ml Coca-Cola bottle and enter online. T&Cs apply: http://spr.ly/61868GCMq"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 60
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }
+}

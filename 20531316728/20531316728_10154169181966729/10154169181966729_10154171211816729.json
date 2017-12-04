@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2015-11-04T22:00:43+0000", 
+        "id": "10154169181966729_10154171211816729", 
+        "message": "For some reason, Facebook no longer allows me to friend people :( And I only friend people I personally know."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-11-04T22:31:01+0000", 
+            "id": "10154169181966729_10154171278631729", 
+            "message": "Hi Ash. Try using these steps to add a friend: http://on.fb.me/1GMcGmP. Keep in mind, friend requests are for people you know well. If would like updates from people you find interesting, you can try following them. Learn more: http://on.fb.me/1GMcJ1X. Hope this is helpful! -Kristin"
+        }
+    ]
+}

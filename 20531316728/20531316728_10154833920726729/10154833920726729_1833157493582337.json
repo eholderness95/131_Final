@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2016-08-17T18:11:05+0000", 
+        "id": "10154833920726729_1833157493582337", 
+        "message": "My facebook messenger is not working. Cant see me messages"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-08-17T19:20:07+0000", 
+            "id": "10154833920726729_1038209969561842", 
+            "message": "Hey Kenneth. If you continue to experience this, please let us know by following these steps: http://bit.ly/2bnw0NI. -Jessica"
+        }
+    ]
+}

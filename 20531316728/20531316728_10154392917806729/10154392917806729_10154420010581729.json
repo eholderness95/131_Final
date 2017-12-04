@@ -1,0 +1,57 @@
+{
+    "data": {
+        "created_time": "2016-02-23T03:12:36+0000", 
+        "id": "10154392917806729_10154420010581729", 
+        "message": "Part of my language has changed from English to something else.  Please help me change it to read all English in original format."
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 3
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2016-02-23T17:05:15+0000", 
+            "id": "10154392917806729_979243035477707", 
+            "message": "Hi Wanda. Please follow these steps listed in our Help Center to adjust your language settings: http://on.fb.me/1QYuuK8. If this issue continues, you can report it to us here: http://on.fb.me/1QYuuKa. Thanks. -Azaria"
+        }, 
+        {
+            "created_time": "2016-04-06T00:01:56+0000", 
+            "id": "10154392917806729_1009609592441051", 
+            "message": "English IS NOT (so far) a\nLANGUAGE. We will see what should happen  after about 500 years :)"
+        }
+    ]
+}

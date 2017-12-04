@@ -1,0 +1,67 @@
+{
+    "data": {
+        "created_time": "2015-02-17T22:18:14+0000", 
+        "id": "10153431146086729_10153448855501729", 
+        "message": "Where's the button for no ads at all?"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 10
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2015-02-17T22:32:36+0000", 
+            "id": "10153431146086729_10153448880446729", 
+            "message": "Hey Stephen. You can't block Facebook ads entirely because they help keep Facebook free. We strive to only show ads that are relevant and interesting to you. -Rose"
+        }, 
+        {
+            "created_time": "2015-02-17T22:40:00+0000", 
+            "id": "10153431146086729_10153448892906729", 
+            "message": "What if I don't find any ads \"relevant and interesting\"? Facebook should offer a one-time paid fee to get rid of ads entirely. We get a feed with no ads, facebook gets money. It's a win-win."
+        }, 
+        {
+            "created_time": "2015-02-17T22:46:03+0000", 
+            "id": "10153431146086729_10153448904591729", 
+            "message": "Ad Block Plus. google it. use it"
+        }, 
+        {
+            "created_time": "2015-02-18T01:16:49+0000", 
+            "id": "10153431146086729_10153449173756729", 
+            "message": "Actually you totally can, Adblock is fantastic, don't listen to the Facebook minion."
+        }
+    ]
+}

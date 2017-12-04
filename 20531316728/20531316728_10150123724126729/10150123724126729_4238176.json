@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2010-12-25T00:43:30+0000", 
+        "id": "10150123724126729_4238176", 
+        "message": "Pourquoi est-ce que le Seul Blanc est pos\u00e9 en tant que leader autour de tous ces Japonais? ^^ Mdrr"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}

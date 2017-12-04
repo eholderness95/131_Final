@@ -1,0 +1,52 @@
+{
+    "data": {
+        "created_time": "2017-04-07T16:09:12+0000", 
+        "id": "10155656407651729_2070930059800504", 
+        "message": "we were kicked off as admins to our company facebook page. How can we regain access admin title if the person who kicked us off refuses. they are no longer with the company and we do not want to shut it down as it has over 30,000 followers. this has been an ongoing problem for months please help"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 4
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": [
+        {
+            "created_time": "2017-04-07T16:25:44+0000", 
+            "id": "10155656407651729_443458095989252", 
+            "message": "Hi Morgan. Facebook is not in a position to resolve disputes regarding admin roles. If you believe that your legal rights, such as copyright or trademark, are being violated or infringed, please use this form to file an IP Claim: http://bit.ly/2nLACy0. -Jessica"
+        }
+    ]
+}

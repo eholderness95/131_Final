@@ -1,0 +1,46 @@
+{
+    "data": {
+        "created_time": "2011-01-11T23:21:05+0000", 
+        "id": "186465714715060_2413634", 
+        "message": "bir a\u00e7\u0131klama yapt\u0131\u011f\u0131n\u0131zda bunu \u00fclke dilerine g\u00f6re neden yay\u0131nlam\u0131yorsunuz bu yaz\u0131lan\u0131 okumam\u0131z i\u00e7in ingilzce \u00f6\u011frenmek zorundam\u0131y\u0131z hizmet kalitesi diye bir\u015fey var ..??????"
+    }, 
+    "reactions": {
+        "angry": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "haha": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "like": {
+            "data": [], 
+            "summary": {
+                "total_count": 1
+            }
+        }, 
+        "love": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "sad": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }, 
+        "wow": {
+            "data": [], 
+            "summary": {
+                "total_count": 0
+            }
+        }
+    }, 
+    "replies": []
+}
