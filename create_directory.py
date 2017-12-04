@@ -37,6 +37,8 @@ def fetch_request(url):
         from time import sleep
         sleep(5)
         return fetch_request(url)
+    except KeyError:
+        return False
 
 
 def build_comments(comments, post_id):
