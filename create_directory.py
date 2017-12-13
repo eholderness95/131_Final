@@ -83,7 +83,7 @@ def parse_posts(reader):
             if curr != post[2].split('_')[0]:
                 curr = post[2].split('_')[0]
             post_id = post[2]
-            post_dir = curr + os.sep + post_id
+            post_dir = 'comments' + os.sep + curr + os.sep + post_id
             filename = os.path.join(os.getcwd(), post_dir)
             print(filename)
             if not os.path.isdir(filename):
