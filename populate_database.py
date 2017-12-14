@@ -5,12 +5,11 @@ client = MongoClient()
 db = client.comment_corpus
 print(db.command("serverStatus"))
 
-root_dir = os.getcwd()+os.sep+'comments'
+root_dir = os.getcwd()+os.sep+'Comments'
 
 def is_hidden(filepath):
     name = os.path.basename(os.path.abspath(filepath))
     return name.startswith('.') or has_hidden_attribute(filepath)
-
 
 def has_hidden_attribute(filepath):
     try:
@@ -21,34 +20,30 @@ def has_hidden_attribute(filepath):
         result = False
     return result
 
+def write_record(filepath,fun):
+    try:
+        # Write a record
+        with open(filepath) as json_data:
+            doc = json.load(json_data)
+            fun(doc, doc, upsert=True)
+    except Exception as e:
+        print("error inserting document")
+
 def populate_database():
     for dir in os.listdir(root_dir):
         if not is_hidden(dir):
+            print('Working on ' + dir + '....')
             dir_path = root_dir+os.sep+dir
             for subdir in os.listdir(dir_path):
-                if subdir.endswith(".json") and not is_hidden(subdir):
-                    print(subdir)
-                    try:
-                        # Write a record
-                        with open(dir_path+os.sep+subdir) as json_data:
-                            doc = json.load(json_data)
-                            db.posts.update(doc, doc, upsert=True)
-                            print('post added succesfully')
-                    except Exception as e:
-                        print("error inserting post")
-                else:
-                    comm_path = dir_path+os.sep+subdir
-                    for comment in os.listdir(comm_path):
-                        if not is_hidden(comment):
-                            print(comment)
-                            try:
-                                # Write a record
-                                with open(comm_path+os.sep+comment) as json_data:
-                                    doc = json.load(json_data)
-                                    db.comments.update(doc, doc, upsert=True)
-                                    print('comment added succesfully')
-                            except Exception as e:
-                                print(e)
-                                print("error inserting comment")
+                subdir_path = dir_path+os.sep+subdir
+                if not is_hidden(subdir):
+                    if subdir.endswith(".json"):
+                        write_record(subdir_path,db.posts.update)
+                    elif os.path.isdir(subdir_path):
+                        for comment in os.listdir(subdir_path):
+                            comm_path = subdir_path+os.sep+comment
+                            if not is_hidden(comment):
+                    else:
+                        continue
 
 populate_database()

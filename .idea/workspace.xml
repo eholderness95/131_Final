@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a3d3239-9fba-4ad3-8ed8-18997c03c64e" name="Default" comment="" />
+    <list default="true" id="2a3d3239-9fba-4ad3-8ed8-18997c03c64e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/populate_database.py" afterPath="$PROJECT_DIR$/populate_database.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,40 +39,20 @@
       <file leaf-file-name="tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Brandeis Senior Fall/Programming for Linguistics/2017-assignment7-eholderness95/tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aerospike_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Dropbox/aerospike_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pymongo_test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Dropbox/pymongo_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="34" column="61" lean-forward="false" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+            <state relative-caret-position="153">
+              <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10153453627463697_10153453640078697.json" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Dropbox/Comments/29534858696/29534858696_10153453627463697/10153453627463697_10153453640078697.json">
+      <file leaf-file-name="populate_database.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Dropbox/populate_database.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -100,7 +83,6 @@
       <find>fetch</find>
       <find>curr</find>
       <find>posts</find>
-      <find>print</find>
       <find>cursor</find>
       <find>requests</find>
       <find>json.d</find>
@@ -111,9 +93,10 @@
       <find>while</find>
       <find>POST</find>
       <find>comments</find>
-      <find>filename</find>
       <find>dirs</find>
       <find>true</find>
+      <find>filename</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -136,12 +119,13 @@
         <option value="$PROJECT_DIR$/10092511675/10092511675_10155005609256676.json" />
         <option value="$PROJECT_DIR$/../2017-assignment7-eholderness95/tree.py" />
         <option value="$PROJECT_DIR$/grab_posts.py" />
-        <option value="$PROJECT_DIR$/../Brandeis Senior Fall/Programming for Linguistics/2017-assignment7-eholderness95/tree.py" />
         <option value="$PROJECT_DIR$/create_directory.py" />
         <option value="$PROJECT_DIR$/aerospike_test" />
         <option value="$USER_HOME$/Dropbox/aerospike_test.py" />
         <option value="$USER_HOME$/Dropbox/Comments/6815841748/6815841748_10153562254016749.json" />
         <option value="$USER_HOME$/Dropbox/pymongo_test.py" />
+        <option value="$USER_HOME$/Dropbox/populate_database.py" />
+        <option value="$PROJECT_DIR$/../Brandeis Senior Fall/Programming for Linguistics/2017-assignment7-eholderness95/tree.py" />
       </list>
     </option>
   </component>
@@ -195,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pymongo_test">
+  <component name="RunManager" selected="Python.populate_database">
     <configuration name="aerospike_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,19 +197,19 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="grab_posts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="populate_database" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="131_Final" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grab_posts.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Dropbox/populate_database.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,18 +267,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.tree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.grab_posts" />
-      <item index="2" class="java.lang.String" itemvalue="Python.tree (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.aerospike_test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.pymongo_test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tree (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.aerospike_test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.pymongo_test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.populate_database" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pymongo_test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.aerospike_test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.tree (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.tree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.grab_posts" />
+        <item index="0" class="java.lang.String" itemvalue="Python.populate_database" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pymongo_test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.aerospike_test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tree (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tree" />
       </list>
     </recent_temporary>
   </component>
@@ -353,14 +337,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/50245567013/50245567013_10154887502872014.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/50245567013/50245567013_10154887502872014/10154887502872014_10154894309992014.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -705,14 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Brandeis Senior Fall/Programming for Linguistics/2017-assignment7-eholderness95/tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Dropbox/Comments/6815841748/6815841748_10153562254016749/10153562254016749_457137587806414.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -722,14 +690,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Dropbox/Comments/6815841748/6815841748_10153562254016749.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Dropbox/Comments/29534858696/29534858696_10153453627463697/10153453627463697_10153453640078697.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -759,9 +719,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="34" column="61" lean-forward="false" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/Comments/29534858696/29534858696_10153453627463697/10153453627463697_10153453640078697.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Brandeis Senior Fall/Programming for Linguistics/2017-assignment7-eholderness95/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/populate_database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
