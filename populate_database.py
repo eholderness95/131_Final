@@ -43,6 +43,7 @@ def populate_database():
                         for comment in os.listdir(subdir_path):
                             comm_path = subdir_path+os.sep+comment
                             if not is_hidden(comment):
+                                write_record(comm_path,db.comments.update)
                     else:
                         continue
 
