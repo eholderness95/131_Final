@@ -1,4 +1,4 @@
-import os, sys, csv, errno, json, requests
+import os, sys, csv, errno, json, nltk.tokenize, requests
 
 
 ACCESS_TOKENS = ['?access_token=551947191811091|aWKc4qfL6ZaUh8TQopALlxlN2Fs','?access_token=111232235573698|mDUr_4FyHHf8bm_P_EWgeWlOfuA','?access_token=113833041974764|3WqmvxXXMoGKQ5sRrtes4N_nu8Y','?access_token=271153104453|QPBw85IEHpEiOXFkIzhtvONQitE']
@@ -52,6 +52,8 @@ def build_comments(comments, post_id):
     while count <= 3:
         count += 1
         for x in comments['data']:
+            if 'message' in x:
+                x['message'] = nltk.tokenize.word_tokenize(x['message'])
             comm_id = x['id']
             comm_dir = curr + os.sep + post_id + os.sep + comm_id
             filename = os.path.join(os.getcwd(), comm_dir)
