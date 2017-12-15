@@ -44,7 +44,7 @@ def populate_database():
     visited = {}
     for directory in os.listdir(root_dir):
         dir_path = root_dir + os.sep + directory
-        if not is_hidden(directory) and os.path.isdir(dir_path) and not visited[directory]:
+        if not is_hidden(directory) and os.path.isdir(dir_path) and directory not in visited:
             print('Working on ' + directory + '....')
             for subdir in os.listdir(dir_path):
                 subdir_path = dir_path+os.sep+subdir

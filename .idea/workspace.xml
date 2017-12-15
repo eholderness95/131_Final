@@ -48,8 +48,8 @@
       <file leaf-file-name="populate_database.py" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Dropbox/populate_database.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
-              <caret line="58" column="33" lean-forward="false" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+            <state relative-caret-position="461">
+              <caret line="46" column="93" lean-forward="true" selection-start-line="46" selection-start-column="93" selection-end-line="46" selection-end-column="93" />
               <folding />
             </state>
           </provider>
@@ -66,7 +66,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>wikil</find>
       <find>viewer</find>
       <find>next</find>
       <find>paging</find>
@@ -96,6 +95,7 @@
       <find>dir</find>
       <find>ctyp</find>
       <find>filename</find>
+      <find>visited</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -742,8 +742,8 @@
     </entry>
     <entry file="file://$USER_HOME$/Dropbox/populate_database.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="58" column="33" lean-forward="false" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+        <state relative-caret-position="461">
+          <caret line="46" column="93" lean-forward="true" selection-start-line="46" selection-start-column="93" selection-end-line="46" selection-end-column="93" />
           <folding />
         </state>
       </provider>
