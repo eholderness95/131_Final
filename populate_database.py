@@ -25,12 +25,12 @@ def has_hidden_attribute(filepath):
 
 def write_record(filepath,fun):
     global count, bulk
-    count += 1
     try:
         # Write a record
         with open(filepath) as json_data:
             doc = json.load(json_data)
             if fun == db.comments.update:
+                count += 1
                 bulk.insert(doc)
             else:
                 fun(doc, doc, upsert=True)
@@ -41,9 +41,11 @@ def write_record(filepath,fun):
         bulk = db.comments.initialize_unordered_bulk_op()
 
 def populate_database():
+    visited = {}
     for directory in os.listdir(root_dir):
+        visited[directory] = True
         dir_path = root_dir + os.sep + directory
-        if not is_hidden(directory) and os.path.isdir(dir_path):
+        if not is_hidden(directory) and os.path.isdir(dir_path) and not visited[directory]:
             print('Working on ' + directory + '....')
             for subdir in os.listdir(dir_path):
                 subdir_path = dir_path+os.sep+subdir
@@ -57,5 +59,6 @@ def populate_database():
                                 write_record(comm_path,db.comments.update)
         else:
             continue
+
 
 populate_database()
