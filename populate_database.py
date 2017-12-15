@@ -43,7 +43,6 @@ def write_record(filepath,fun):
 def populate_database():
     visited = {}
     for directory in os.listdir(root_dir):
-        visited[directory] = True
         dir_path = root_dir + os.sep + directory
         if not is_hidden(directory) and os.path.isdir(dir_path) and not visited[directory]:
             print('Working on ' + directory + '....')
@@ -57,8 +56,7 @@ def populate_database():
                             comm_path = subdir_path+os.sep+comment
                             if not is_hidden(comment) and comment.endswith(".json"):
                                 write_record(comm_path,db.comments.update)
-        else:
-            continue
+        visited[directory] = True
 
 
 populate_database()
