@@ -6,7 +6,7 @@ client = MongoClient()
 db = client.comment_corpus
 bulk = db.comments.initialize_unordered_bulk_op()
 print(db.command("serverStatus"))
-count = 0
+count = 1
 
 root_dir = os.getcwd()+os.sep+'Comments'
 

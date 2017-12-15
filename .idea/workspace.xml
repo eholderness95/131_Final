@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a3d3239-9fba-4ad3-8ed8-18997c03c64e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/populate_database.py" afterPath="$PROJECT_DIR$/populate_database.py" />
-    </list>
+    <list default="true" id="2a3d3239-9fba-4ad3-8ed8-18997c03c64e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
