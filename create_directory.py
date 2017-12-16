@@ -1,4 +1,4 @@
-import os, csv, errno, json, nltk.tokenize, helpers
+import os, csv, errno, json, nltk.tokenize, helpers, atexit
 
 ACCESS_TOKEN = helpers.ACCESS_TOKEN
 URL = helpers.URL
@@ -44,6 +44,7 @@ def build_comments(comments, post_id):
 
 def parse_posts(reader):
     for post in reader:
+        helpers.visited[post] = True
         if post[2] and post[2] != 'id' and post[0] and int(post[0][:4]) > 2015:
             global curr
             if curr != post[2].split('_')[0]:
@@ -69,5 +70,6 @@ def parse_posts(reader):
                     if exc.errno != errno.EEXIST:
                         raise
 
+atexit.register(helpers.save_progress)
 
 parse_posts(reader)
