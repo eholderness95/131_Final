@@ -1,5 +1,7 @@
 # Facebook Corpus Constructor
 
+## Description
+
 This is a simple Python package that takes a .csv file of Facebook page URLs and generates a hierarchical directory of JSON objects corresponding to all posts and comments from January, 2016 onwards for each page provided. The package can then optionally populate a Mongo database that can be used for high-speed query by any field in the JSON objects. 
 
 All posts and comments receive their own JSON object. Each object is structured into either two parts (for posts) or three parts (for comments): a ‘data’ field, which contains a timestamp, message content, and ID number; a ‘reactions’ field, which lists counts for each Facebook reaction (‘like’, ‘love’, ‘haha’, ‘angry’, ‘sad’, and ‘wow’); and for comments, a ‘replies’ field, which contains all replies to that comment. See the following as an example:
