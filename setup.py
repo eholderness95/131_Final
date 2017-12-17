@@ -9,7 +9,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='fbCommentCorpus',
+    name='fb_comment_corpus',
 
     # Versions should comply with PEP 440:
     # https://www.python.org/dev/peps/pep-0440/
