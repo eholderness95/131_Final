@@ -1,4 +1,5 @@
 import pymongo, nltk
+from nltk import tokenize
 from pymongo import MongoClient
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from nltk.sentiment.util import *
@@ -8,12 +9,14 @@ react_lst = ['angry', 'sad', 'like', 'love', 'haha', 'wow']
 
 
 def execute():
+    '''
     print('\n\nscore_reacts: ', score_reacts(docs()))
     print('\nSentimentIntensityAnalyzer: ', score_senti(docs()))
     compare(docs(), docs())
     print('\n\nAverages: ', get_averages(docs()))
     evaluate(docs(), get_averages(docs()))
-
+    '''
+    evaluate(react_operator('angry'), get_averages(react_operator('angry')))
 
 def compare(senti, react): #Compares the scores from SentimentIntensityAnalyzer and scores from score_reacts
     print('Compare:\n')
@@ -26,10 +29,6 @@ def compare(senti, react): #Compares the scores from SentimentIntensityAnalyzer 
     print('\n\nSentiment scores: ' + str(sentiment_score) + '\nReaction scores: ' + str(reaction_score))
     print ('\nNegative Difference: ' + str(round(n_diff, 3)) + '\nPositive Difference: ' + str(round(p_diff, 3)) + '\nNeutral Difference: ' + str(round(neu_diff, 3)))
 
-
-def comment_sentiment(comment, sid):
-    scores = sid.polarity_scores(comment)
-    return scores
 
 def senti_score_dict(cursor): #Creates a dictionary between messages and polarity scores
     sentiment_dict = {}
@@ -87,7 +86,7 @@ def react_score_dict(cursor):  #Creates a dictionary of messages to reactions, a
     react_dict = weight_sentiments(react_dict)
     return react_dict
 
-def weight_sentiments(react_dict):
+def weight_sentiments(react_dict):  #Accounts for comments with overly negative/positive sentiments
     for key in react_dict.keys():
         if is_negative(key):
             react_dict[key]['negative'] = react_dict[key]['negative'] + react_dict[key]['positive']
@@ -97,7 +96,7 @@ def weight_sentiments(react_dict):
             react_dict[key]['negative'] = 0
     return react_dict
 
-def evaluate(cursor, averages):
+def evaluate(cursor, averages): #Evaluates comments with reactions larger than average
     love, haha = averages['love'], averages['haha']
     wow, like = averages['wow'], averages['like']
     angry, sad = averages['angry'], averages['sad']
@@ -107,12 +106,23 @@ def evaluate(cursor, averages):
     for a in avgs:
         n = avgs.index(a)
         gr_cursor = react_operator(react_lst[n], num = a)
+        new_cursor = react_operator(react_lst[n], num = a)
         greater_than_avg[react_lst[n]] = gr_cursor
+        analyze_freqs(react_lst[n], new_cursor)
     for g in greater_than_avg.keys():
         cur = greater_than_avg[g]
         print(g + ' average:', avgs[react_lst.index(g)], '\n')
         print('Number of comments with greater averages: ', cur.count())
         print('\nAverage comment polarity scores', score_senti(cur), '\n')
+
+def analyze_freqs(name, cursor):
+    freq_dict = {}
+    all_comments = ''
+    for document in cursor:
+        message = get_message(document)
+        all_comments = all_comments + ' ' + message
+        freq_dist = nltk.FreqDist(nltk.word_tokenize(all_comments))
+    print(name + ' most common 50 words: \n', freq_dist.most_common(50))
 
 def score_reacts(cursor):   #Sums negative, positive, and total reactions in a dictionary and returns negative/total and positive/total as scores
     reaction_dict = react_score_dict(cursor)
@@ -154,12 +164,18 @@ def get_message(document): #Finds and returns a comment from the object
     return m
 
 
+def comment_sentiment(comment, sid): #Return polarity scores of a string
+    scores = sid.polarity_scores(comment)
+    return scores
+
+
 def is_negative(comment): #Returns if comment has a mostly negative sentiment
     sid = SentimentIntensityAnalyzer()
     pol_scores = comment_sentiment(comment, sid)
     if (pol_scores['neg']-(pol_scores['pos']+pol_scores['neu']) > 0):
         return True
     return False
+
 
 def is_positive(comment): #Returns if comment has a mostly positive sentiment
     sid = SentimentIntensityAnalyzer()
