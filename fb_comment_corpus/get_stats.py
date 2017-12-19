@@ -1,8 +1,5 @@
 import pymongo, nltk
-import json
 from pymongo import MongoClient
-from platform import system
-from nltk import tokenize
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from nltk.sentiment.util import *
 client = MongoClient()
@@ -15,9 +12,11 @@ def execute():
     print('\nSentimentIntensityAnalyzer: ', score_senti(docs()))
     compare(docs(), docs())
     print('\n\nAverages: ', get_averages(docs()))
+    evaluate(docs(), get_averages(docs()))
 
 
 def compare(senti, react): #Compares the scores from SentimentIntensityAnalyzer and scores from score_reacts
+    print('Compare:\n')
     sentiment_score = score_senti(senti)
     reaction_score = score_reacts(react)
     r1 = reaction_score['Negative score']
@@ -77,7 +76,7 @@ def react_score_dict(cursor):  #Creates a dictionary of messages to reactions, a
                     neu += count
                 if r == 'angry' or r == 'sad':
                     n += count
-                else:
+                if r == 'love' or r == 'haha':
                     p += count
             except KeyError:
                 print("KeyError: ", document['data']['id'])
@@ -85,19 +84,35 @@ def react_score_dict(cursor):  #Creates a dictionary of messages to reactions, a
         score_dict['total'] = t
         react_dict[message] = score_dict
     cursor.close()
+    react_dict = weight_sentiments(react_dict)
     return react_dict
 
-def is_negative(comment):
-    pol_scores = comment_sentiment(comment)
-    if (pol_scores['neg']-pol_scores['pos'] > 0.5):
-        return True
-    return False
+def weight_sentiments(react_dict):
+    for key in react_dict.keys():
+        if is_negative(key):
+            react_dict[key]['negative'] = react_dict[key]['negative'] + react_dict[key]['positive']
+            react_dict[key]['postive'] = 0
+        if is_positive(key):
+            react_dict[key]['positive'] = react_dict[key]['positive'] + react_dict[key]['negative']
+            react_dict[key]['negative'] = 0
+    return react_dict
 
-def is_positive(comment):
-    pol_scores = comment_sentiment(comment)
-    if (pol_scores['pos'] - pol_scores['neg'] > 0.5):
-        return True
-    return False
+def evaluate(cursor, averages):
+    love, haha = averages['love'], averages['haha']
+    wow, like = averages['wow'], averages['like']
+    angry, sad = averages['angry'], averages['sad']
+    avgs = [angry, sad, like, love, haha, wow]
+    greater_than_avg = {}
+    print('Comments with reaction number greater than the average:\n\n')
+    for a in avgs:
+        n = avgs.index(a)
+        gr_cursor = react_operator(react_lst[n], num = a)
+        greater_than_avg[react_lst[n]] = gr_cursor
+    for g in greater_than_avg.keys():
+        cur = greater_than_avg[g]
+        print(g + ' average:', avgs[react_lst.index(g)], '\n')
+        print('Number of comments with greater averages: ', cur.count())
+        print('\nAverage comment polarity scores', score_senti(cur), '\n')
 
 def score_reacts(cursor):   #Sums negative, positive, and total reactions in a dictionary and returns negative/total and positive/total as scores
     reaction_dict = react_score_dict(cursor)
@@ -107,22 +122,11 @@ def score_reacts(cursor):   #Sums negative, positive, and total reactions in a d
         p += value['positive']
         neu += value['neutral']
         t += value ['total']
-    if t == 0:
-        neg, pos, neu = 0, 0, 0
-    else:
-        neg = round((n/t), 3)
-        pos = round((p/t), 3)
-        neu = round((neu/t), 3)
+    neg = round((n/t), 3)
+    pos = round((p/t), 3)
+    neu = round((neu/t), 3)
     ret_dict = {'Negative score': neg, 'Positive score': pos, 'Neutral score': neu}
     return ret_dict
-
-#Helper Methods
-def get_message(document): #Finds and returns a comment from the object
-    try:
-        m = document['data']['message']
-    except KeyError:
-        m = 'error'
-    return m
 
 
 def get_averages(cursor): #Returns averages of reacts in a group of documents
@@ -139,6 +143,30 @@ def get_averages(cursor): #Returns averages of reacts in a group of documents
         sad += value_dict['sad']
     averages = {'love': round(love/total, 3), 'like': round(like/total, 3), 'haha': round(haha/total, 3), 'wow': round(wow/total, 3), 'angry': round(angry/total, 3), 'sad': round(sad/total, 3)}
     return averages
+
+                        #  Helper Methods
+
+def get_message(document): #Finds and returns a comment from the object
+    try:
+        m = document['data']['message']
+    except KeyError:
+        m = 'error'
+    return m
+
+
+def is_negative(comment): #Returns if comment has a mostly negative sentiment
+    sid = SentimentIntensityAnalyzer()
+    pol_scores = comment_sentiment(comment, sid)
+    if (pol_scores['neg']-(pol_scores['pos']+pol_scores['neu']) > 0):
+        return True
+    return False
+
+def is_positive(comment): #Returns if comment has a mostly positive sentiment
+    sid = SentimentIntensityAnalyzer()
+    pol_scores = comment_sentiment(comment, sid)
+    if (pol_scores['pos']-(pol_scores['neg']+ pol_scores['neu']) > 0):
+        return True
+    return False
 
 
 def docs(): #Returns access to all documents in the database
