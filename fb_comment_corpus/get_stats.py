@@ -5,18 +5,17 @@ from platform import system
 from nltk import tokenize
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from nltk.sentiment.util import *
-
-
 client = MongoClient()
 db = client.comment_corpus
 react_lst = ['angry', 'sad', 'like', 'love', 'haha', 'wow']
 
+
 def execute():
-    #print('score_reacts: ', score_reacts(docs()))
-    #print('\nSentimentIntensityAnalyzer: ', score_senti(docs()))
-    #compare(docs(), docs())
-    #print(get_averages(react_operator('angry')))
-    print('score_reacts: ', score_reacts(react_operator('angry')))
+    print('\n\nscore_reacts: ', score_reacts(docs()))
+    print('\nSentimentIntensityAnalyzer: ', score_senti(docs()))
+    compare(docs(), docs())
+    print('\n\nAverages: ', get_averages(docs()))
+
 
 def compare(senti, react): #Compares the scores from SentimentIntensityAnalyzer and scores from score_reacts
     sentiment_score = score_senti(senti)
@@ -25,11 +24,11 @@ def compare(senti, react): #Compares the scores from SentimentIntensityAnalyzer 
     n_diff = abs(sentiment_score['Negative score'] - reaction_score['Negative score'])
     p_diff = abs(sentiment_score['Positive score'] - reaction_score['Positive score'])
     neu_diff = abs(sentiment_score['Neutral score'] - reaction_score['Neutral score'])
-    print('Sentiment scores: ' + str(sentiment_score) + '\nReaction scores: ' + str(reaction_score))
-    print ('Negative Difference: ' + str(round(n_diff, 3)) + '\nPositive Difference: ' + str(round(p_diff, 3)) + '\nNeutral Difference: ' + str(round(neu_diff, 3)))
+    print('\n\nSentiment scores: ' + str(sentiment_score) + '\nReaction scores: ' + str(reaction_score))
+    print ('\nNegative Difference: ' + str(round(n_diff, 3)) + '\nPositive Difference: ' + str(round(p_diff, 3)) + '\nNeutral Difference: ' + str(round(neu_diff, 3)))
 
-def comment_sentiment(comment):
-    sid = SentimentIntensityAnalyzer()
+
+def comment_sentiment(comment, sid):
     scores = sid.polarity_scores(comment)
     return scores
 
@@ -39,7 +38,7 @@ def senti_score_dict(cursor): #Creates a dictionary between messages and polarit
     for document in cursor:
         try:
             message = get_message(document)
-            s = analyzer.polarity_scores(message)
+            s = comment_sentiment(message, analyzer)
             sentiment_dict[message] = s
         except KeyError:
             print('KeyError: ', document['data']['id'])
@@ -74,30 +73,15 @@ def react_score_dict(cursor):  #Creates a dictionary of messages to reactions, a
                 count = comment_reacts[r]['summary']['total_count']
                 score_dict[r] = count
                 t += count
-                if is_negative(message):
-                    if r == 'like' or r == 'wow':
-                        neu += count
-                    else:
-                        p = 0
-                        n += count
-                if is_positive(message):
-                    if r == 'like' or r == 'wow':
-                        neu += count
-                    else:
-                        n = 0
-                        p += count
+                if r == 'like' or r == 'wow':
+                    neu += count
+                if r == 'angry' or r == 'sad':
+                    n += count
                 else:
-                    if r == 'angry' or r == 'sad':
-                        n += count
-                    if r == 'like' or r == 'wow':
-                        neu += count
-                    else:
-                        p += count
+                    p += count
             except KeyError:
                 print("KeyError: ", document['data']['id'])
-        score_dict['negative'] = n
-        score_dict['positive'] = p
-        score_dict['neutral'] = neu
+        score_dict['negative'], score_dict['positive'], score_dict['neutral'] = n, p, neu
         score_dict['total'] = t
         react_dict[message] = score_dict
     cursor.close()
