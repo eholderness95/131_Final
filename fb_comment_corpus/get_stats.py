@@ -9,14 +9,11 @@ react_lst = ['angry', 'sad', 'like', 'love', 'haha', 'wow']
 
 
 def execute():
-    '''
     print('\n\nscore_reacts: ', score_reacts(docs()))
     print('\nSentimentIntensityAnalyzer: ', score_senti(docs()))
     compare(docs(), docs())
     print('\n\nAverages: ', get_averages(docs()))
     evaluate(docs(), get_averages(docs()))
-    '''
-    evaluate(react_operator('angry'), get_averages(react_operator('angry')))
 
 def compare(senti, react): #Compares the scores from SentimentIntensityAnalyzer and scores from score_reacts
     print('Compare:\n')
