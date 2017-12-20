@@ -189,7 +189,7 @@ def docs(): #Returns access to all documents in the database
     r = 'reactions.'
     path = '.summary.total_count'
     return db.comments.find(
-                            {'$or':[{r + 'like' + path : {'$gt' : 10}}, {r + 'love' + path : {'$gt' : 1}},
+                            {r + 'like' + path : {'$gt' : 10}, '$or':[{r + 'love' + path : {'$gt' : 1}},
                             {r + 'wow' + path : {'$gt' : 1}}, {r + 'haha' + path : {'$gt' : 1}},
                             {r + 'sad' + path : {'$gt' : 1}}, {r + 'angry' + path : {'$gt' : 1}}]})
 
