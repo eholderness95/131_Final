@@ -7,7 +7,6 @@ client = MongoClient()
 db = client.comment_corpus
 react_lst = ['angry', 'sad', 'like', 'love', 'haha', 'wow']
 
-
 def execute():
     print('\n\nscore_reacts: ', score_reacts(docs()))
     print('\nSentimentIntensityAnalyzer: ', score_senti(docs()))
@@ -118,7 +117,7 @@ def analyze_freqs(name, cursor):
     for document in cursor:
         message = get_message(document)
         all_comments = all_comments + ' ' + message
-        freq_dist = nltk.FreqDist(nltk.word_tokenize(all_comments))
+    freq_dist = nltk.FreqDist(nltk.word_tokenize(all_comments))
     print(name + ' most common 50 words: \n', freq_dist.most_common(50))
 
 def score_reacts(cursor):   #Sums negative, positive, and total reactions in a dictionary and returns negative/total and positive/total as scores
@@ -183,7 +182,12 @@ def is_positive(comment): #Returns if comment has a mostly positive sentiment
 
 
 def docs(): #Returns access to all documents in the database
-    return db.comments.find()
+    r = 'reactions.'
+    path = '.summary.total_count'
+    return db.comments.find(
+                            {r + 'like' + path : {'$gt' : 1}, r + 'love' + path : {'$gt' : 1},
+                            r + 'wow' + path : {'$gt' : 1}, r + 'haha' + path : {'$gt' : 1},
+                            r + 'sad' + path : {'$gt' : 1}, r + 'angry' + path : {'$gt' : 1}})
 
 
 def doc_count(): #Returns number of documents
