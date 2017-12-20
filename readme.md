@@ -2,7 +2,7 @@
 
 This is a simple Python package that takes a .csv file of Facebook page URLs and generates a hierarchical directory of JSON objects corresponding to all posts and comments from January, 2016 onwards for each page provided. The package can then optionally populate a Mongo database that can be used for high-speed query by any field in the JSON objects. 
 
-All posts and comments receive their own JSON object. Each object is structured into either two parts (for posts) or three parts (for comments): a ‘data’ field, which contains a timestamp, message content, and ID number; a ‘reactions’ field, which lists counts for each Facebook reaction (‘like’, ‘love’, ‘haha’, ‘angry’, ‘sad’, and ‘wow’); and for comments, a ‘replies’ field, which contains all replies to that comment. See the following as an example:
+All posts and comments receive their own JSON object. Each object is structured into either two parts (for posts) or three parts (for comments): a ‘data’ field, which contains a timestamp, message content, and ID number; a ‘reactions’ field, which lists counts for each Facebook reaction (‘like’, ‘love’, ‘haha’, ‘angry’, ‘sad’, and ‘wow’); and for comments, a ‘replies’ field, which contains all replies to that comment. 
 
 This package can be used for a number of purposes. Particular focus has been placed on its modularity and potential for application to NLP. By creating a file directory of JSON objects, the corpus can easily be duplicated across machines, split into smaller sub-corpora, and directly accessed using the system GUI without any coding knowledge. Additionally, JSON objects behave like a Python dictionary, making queries by parameter much easier. 
 
