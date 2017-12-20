@@ -121,7 +121,7 @@ def analyze_freqs(name, cursor):
     freq_dist = nltk.FreqDist(nltk.word_tokenize(all_comments))
     stop_words = set(stopwords.words('english'))
     pronouns = ('she','he', 'they', 'him', 'she', 'them', 'it')
-    common = [(w,f) for (w,f) in freq_dist.most_common(50) if w.lower() not in stop_words]
+    common = [(w,f) for (w,f) in freq_dist.most_common(50) if w.lower() not in stop_words and w.lower() not in pronouns]
     print('\n', name + ' most common 50 words: \n', common)
 
 def score_reacts(cursor):   #Sums negative, positive, and total reactions in a dictionary and returns negative/total and positive/total as scores
