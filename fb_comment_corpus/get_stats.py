@@ -1,5 +1,6 @@
 import pymongo, nltk
 from nltk import tokenize
+from nltk.corpus import stopwords
 from pymongo import MongoClient
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from nltk.sentiment.util import *
@@ -118,7 +119,10 @@ def analyze_freqs(name, cursor):
         message = get_message(document)
         all_comments = all_comments + ' ' + message
     freq_dist = nltk.FreqDist(nltk.word_tokenize(all_comments))
-    print(name + ' most common 50 words: \n', freq_dist.most_common(50))
+    stop_words = set(stopwords.words('english'))
+    pronouns = ('she','he', 'they', 'him', 'she', 'them', 'it')
+    common = [(w,f) for (w,f) in freq_dist.most_common(50) if w.lower() not in stop_words]
+    print('\n', name + ' most common 50 words: \n', common)
 
 def score_reacts(cursor):   #Sums negative, positive, and total reactions in a dictionary and returns negative/total and positive/total as scores
     reaction_dict = react_score_dict(cursor)
